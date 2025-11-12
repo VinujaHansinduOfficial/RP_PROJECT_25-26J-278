@@ -1,0 +1,2374 @@
+Timestamp,Heart_Rate,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Respiration_Rate,Sleep_Duration,Activity_Levels,Mood,Cognitive_Load,Study_Hours,Academic_Stressors,Stress_Level,Mental_Health_Status
+01/01/2019,84,120,77,18,6,5466,Happy,8,10,8,Medium,Normal
+01/02/2019,100,131,91,23,5,7311,Neutral,6,9,6,High,Severe Stress
+01/03/2019,96,156,89,29,6,2189,Happy,7,8,8,High,Severe Stress
+01/04/2019,82,134,98,24,4,4888,Happy,9,6,8,High,Severe Stress
+01/05/2019,71,129,84,17,6,7556,Neutral,8,11,5,Medium,Mild Stress
+01/06/2019,81,159,85,23,5,5843,Sad,8,7,6,High,Moderate Stress
+01/07/2019,73,123,85,20,7,8798,Anxious,7,10,9,Medium,Mild Stress
+01/08/2019,105,154,92,26,4,4062,Sad,6,6,5,High,Moderate Stress
+01/09/2019,70,108,76,14,9,14432,Anxious,7,7,5,Low,Severe Stress
+01/10/2019,91,131,80,24,6,5645,Sad,8,9,7,High,Severe Stress
+01/11/2019,84,123,72,14,6,5502,Neutral,8,8,5,Medium,Moderate Stress
+01/12/2019,82,128,76,14,7,9191,Anxious,6,10,7,Medium,Mild Stress
+01/13/2019,86,156,98,23,5,4729,Neutral,6,10,8,High,Anxiety
+01/14/2019,80,135,76,19,6,6306,Sad,9,10,5,Medium,Mild Stress
+01/15/2019,78,139,74,14,6,9779,Happy,8,11,5,Medium,Mild Stress
+01/16/2019,79,101,66,13,9,9636,Happy,6,8,5,Low,Anxiety
+01/17/2019,102,134,80,18,6,7757,Sad,9,7,8,High,Mild Stress
+01/18/2019,86,115,74,17,7,5197,Sad,8,6,5,Medium,Mild Stress
+01/19/2019,72,129,73,16,7,6986,Neutral,9,9,5,Medium,Moderate Stress
+01/20/2019,87,117,70,16,7,9061,Anxious,8,9,6,Medium,Anxiety
+01/21/2019,96,131,80,29,4,5108,Neutral,8,6,5,High,Moderate Stress
+01/22/2019,82,149,80,25,6,3648,Sad,7,9,7,High,Moderate Stress
+01/23/2019,104,158,97,19,5,4869,Anxious,6,6,8,High,Severe Stress
+01/24/2019,85,129,77,20,6,9496,Sad,9,9,7,Medium,Mild Stress
+01/25/2019,83,139,75,19,6,5562,Neutral,8,8,6,Medium,Mild Stress
+01/26/2019,94,130,84,29,4,2815,Sad,8,6,5,High,Anxiety
+01/27/2019,93,150,85,20,4,3060,Neutral,6,11,9,High,Severe Stress
+01/28/2019,99,158,80,20,5,3816,Sad,7,7,7,High,Severe Stress
+01/29/2019,74,111,61,14,8,9409,Happy,9,6,5,Low,Mild Stress
+01/30/2019,79,132,72,15,6,7455,Neutral,7,6,8,Medium,Moderate Stress
+01/31/2019,93,145,93,29,6,3166,Sad,7,11,7,High,Severe Stress
+02/01/2019,86,129,79,19,6,7491,Sad,6,2,5,Medium,Mild Stress
+02/02/2019,73,115,82,21,7,9142,Anxious,6,5,5,Medium,Anxiety
+02/03/2019,88,126,88,17,7,6369,Happy,3,3,4,Medium,Mild Stress
+02/04/2019,70,135,70,20,7,5559,Happy,3,2,2,Medium,Anxiety
+02/05/2019,74,131,72,17,7,6679,Happy,4,2,2,Medium,Normal
+02/06/2019,76,119,73,17,7,13323,Happy,4,5,2,Low,Normal
+02/07/2019,64,112,69,17,7,10849,Happy,4,3,4,Low,Mild Stress
+02/08/2019,84,142,83,25,6,6592,Neutral,6,4,5,High,Severe Stress
+02/09/2019,60,90,78,14,7,13387,Happy,3,5,3,Low,Normal
+02/10/2019,71,103,61,16,9,8753,Anxious,3,3,5,Low,Normal
+02/11/2019,71,128,78,20,7,5825,Anxious,3,4,2,Medium,Normal
+02/12/2019,73,119,74,14,7,7786,Neutral,6,5,3,Medium,Mild Stress
+02/13/2019,74,121,86,20,6,7326,Neutral,3,3,2,Medium,Moderate Stress
+02/14/2019,82,136,88,14,7,5395,Neutral,5,5,2,Medium,Mild Stress
+02/15/2019,99,148,94,22,4,6491,Sad,5,2,5,High,Anxiety
+02/16/2019,76,122,79,15,6,8294,Happy,5,4,2,Medium,Mild Stress
+02/17/2019,71,98,69,13,7,11324,Neutral,4,2,5,Low,Normal
+02/18/2019,105,131,84,22,5,4386,Anxious,3,2,3,High,Anxiety
+02/19/2019,104,142,83,21,5,5486,Anxious,6,3,4,High,Moderate Stress
+02/20/2019,86,159,82,19,5,3081,Anxious,6,2,4,High,Severe Stress
+02/21/2019,82,137,86,14,7,5928,Happy,4,3,5,Medium,Anxiety
+02/22/2019,84,130,85,19,6,9298,Neutral,6,4,4,Medium,Anxiety
+02/23/2019,78,126,83,20,6,8584,Anxious,4,4,5,Medium,Moderate Stress
+02/24/2019,89,145,87,23,4,7127,Sad,6,3,5,High,Moderate Stress
+02/25/2019,74,118,73,21,6,7508,Anxious,3,2,3,Medium,Normal
+02/26/2019,98,134,94,26,5,2009,Neutral,4,4,2,High,Moderate Stress
+02/27/2019,70,127,84,14,6,9948,Neutral,3,3,4,Medium,Severe Stress
+02/28/2019,81,138,82,18,4,6613,Anxious,3,4,2,High,Anxiety
+03/01/2019,74,130,74,15,7,9178,Happy,4,2,3,Medium,Mild Stress
+03/02/2019,63,119,60,12,8,11419,Happy,5,3,3,Low,Mild Stress
+03/03/2019,87,121,70,19,7,5388,Happy,5,2,2,Medium,Normal
+03/04/2019,74,94,73,13,9,12530,Neutral,6,5,3,Low,Normal
+03/05/2019,84,136,88,20,7,6331,Anxious,3,5,4,Medium,Mild Stress
+03/06/2019,88,126,74,18,7,5137,Neutral,4,2,5,Medium,Normal
+03/07/2019,65,110,61,16,8,11818,Sad,5,4,4,Low,Normal
+03/08/2019,70,111,75,15,7,11266,Neutral,5,2,5,Low,Normal
+03/09/2019,78,110,64,13,8,11900,Happy,4,2,2,Low,Normal
+03/10/2019,61,106,73,13,7,14937,Neutral,3,3,4,Low,Mild Stress
+03/11/2019,75,118,76,13,7,10055,Neutral,3,5,4,Low,Mild Stress
+03/12/2019,93,155,93,25,5,2364,Happy,5,5,4,High,Severe Stress
+03/13/2019,93,140,94,29,4,5345,Anxious,5,4,4,High,Mild Stress
+03/14/2019,79,116,86,20,7,5125,Happy,3,2,5,Medium,Mild Stress
+03/15/2019,68,102,77,15,9,9493,Sad,6,5,2,Low,Mild Stress
+03/16/2019,64,95,79,13,8,11514,Happy,3,3,2,Low,Severe Stress
+03/17/2019,65,95,75,15,8,14986,Happy,4,4,5,Low,Moderate Stress
+03/18/2019,78,97,64,15,9,8005,Happy,6,4,5,Low,Normal
+03/19/2019,109,153,85,20,5,7560,Anxious,5,5,3,High,Moderate Stress
+03/20/2019,75,135,73,16,7,5224,Neutral,6,4,2,Medium,Moderate Stress
+03/21/2019,64,119,70,15,7,10026,Sad,4,3,5,Low,Normal
+03/22/2019,71,91,72,13,7,9342,Anxious,3,2,4,Low,Normal
+03/23/2019,72,139,86,18,7,9027,Neutral,4,2,5,Medium,Anxiety
+03/24/2019,62,92,60,17,7,11850,Neutral,4,5,3,Low,Moderate Stress
+03/25/2019,78,116,73,13,8,12227,Happy,4,2,3,Low,Moderate Stress
+03/26/2019,83,128,75,14,6,9670,Anxious,3,2,2,Medium,Mild Stress
+03/27/2019,77,117,88,20,6,5197,Neutral,5,4,5,Medium,Moderate Stress
+03/28/2019,74,118,60,15,8,9254,Sad,3,3,2,Low,Normal
+03/29/2019,60,119,63,17,8,12612,Neutral,3,3,3,Low,Mild Stress
+03/30/2019,72,113,79,16,7,11228,Happy,6,2,3,Low,Normal
+03/31/2019,73,113,80,16,6,9106,Neutral,6,3,3,Medium,Mild Stress
+04/01/2019,83,120,81,15,6,8005,Happy,3,4,5,Medium,Severe Stress
+04/02/2019,83,145,83,22,4,7959,Anxious,3,5,4,High,Severe Stress
+04/03/2019,83,117,78,19,6,6792,Happy,3,3,3,Medium,Normal
+04/04/2019,80,151,98,25,6,4708,Sad,3,2,3,High,Anxiety
+04/05/2019,68,92,79,12,8,10122,Neutral,5,3,4,Low,Mild Stress
+04/06/2019,80,136,81,16,6,6205,Happy,5,5,3,Medium,Normal
+04/07/2019,70,111,77,16,7,8966,Neutral,3,2,5,Low,Normal
+04/08/2019,67,106,66,12,7,8989,Neutral,5,5,4,Low,Normal
+04/09/2019,86,122,85,21,6,7065,Happy,5,4,3,Medium,Moderate Stress
+04/10/2019,87,139,75,16,6,8335,Neutral,5,4,5,Medium,Mild Stress
+04/11/2019,81,157,80,24,6,3823,Anxious,3,5,2,High,Severe Stress
+04/12/2019,67,111,74,16,9,11675,Happy,4,4,5,Low,Anxiety
+04/13/2019,83,120,85,17,7,5164,Happy,4,4,4,Medium,Severe Stress
+04/14/2019,66,90,78,16,9,13667,Anxious,4,3,2,Low,Moderate Stress
+04/15/2019,69,91,62,15,7,8804,Happy,4,2,3,Low,Moderate Stress
+04/16/2019,71,113,76,13,8,10679,Neutral,5,5,5,Low,Normal
+04/17/2019,73,98,67,13,7,9304,Happy,4,3,4,Low,Normal
+04/18/2019,72,91,64,14,8,10175,Happy,6,2,3,Low,Normal
+04/19/2019,75,135,81,20,6,5341,Happy,3,4,3,Medium,Moderate Stress
+04/20/2019,72,114,66,13,7,11472,Happy,6,3,3,Low,Normal
+04/21/2019,70,90,78,16,9,12889,Happy,5,5,4,Low,Normal
+04/22/2019,76,117,72,19,7,9150,Anxious,4,3,2,Medium,Mild Stress
+04/23/2019,74,109,78,14,9,11920,Happy,3,4,3,Low,Mild Stress
+04/24/2019,78,118,77,14,6,6240,Neutral,6,3,2,Medium,Mild Stress
+04/25/2019,84,141,91,20,5,6197,Anxious,5,2,5,High,Anxiety
+04/26/2019,96,139,96,29,5,5663,Neutral,6,4,2,High,Severe Stress
+04/27/2019,85,115,77,14,7,8726,Anxious,3,2,3,Medium,Normal
+04/28/2019,76,126,76,19,6,5628,Neutral,5,5,5,Medium,Anxiety
+04/29/2019,97,159,99,24,6,6497,Anxious,5,2,3,High,Severe Stress
+04/30/2019,72,91,62,16,9,10983,Happy,5,5,4,Low,Normal
+05/01/2019,108,151,92,19,4,6111,Anxious,9,11,6,High,Normal
+05/02/2019,109,156,92,19,6,2813,Sad,7,6,9,High,Normal
+05/03/2019,95,153,91,26,5,2920,Sad,9,10,5,High,Moderate Stress
+05/04/2019,83,133,87,17,7,9388,Happy,6,10,5,Medium,Normal
+05/05/2019,73,121,74,18,6,5938,Anxious,8,11,7,Medium,Anxiety
+05/06/2019,86,149,83,28,4,7429,Anxious,6,11,6,High,Normal
+05/07/2019,78,126,72,21,7,6796,Anxious,8,6,5,Medium,Anxiety
+05/08/2019,108,156,89,20,5,2849,Anxious,9,8,7,High,Moderate Stress
+05/09/2019,84,134,78,17,7,6380,Happy,6,8,7,Medium,Normal
+05/10/2019,104,131,91,27,4,7582,Anxious,6,8,7,High,Moderate Stress
+05/11/2019,75,117,74,21,7,5913,Happy,9,10,8,Medium,Normal
+05/12/2019,87,142,98,27,6,3591,Anxious,9,8,9,High,Moderate Stress
+05/13/2019,98,145,87,29,4,3704,Sad,6,6,9,High,Severe Stress
+05/14/2019,85,157,86,22,6,2556,Neutral,8,7,6,High,Anxiety
+05/15/2019,76,127,73,15,7,5588,Anxious,8,7,9,Medium,Moderate Stress
+05/16/2019,96,137,81,29,4,6770,Sad,8,11,6,High,Moderate Stress
+05/17/2019,107,157,94,22,4,2277,Neutral,9,9,6,High,Anxiety
+05/18/2019,81,131,86,15,7,7752,Happy,9,8,6,Medium,Severe Stress
+05/19/2019,108,141,83,28,6,7043,Anxious,8,10,7,High,Anxiety
+05/20/2019,88,120,71,19,7,8356,Neutral,8,10,5,Medium,Normal
+05/21/2019,108,140,99,19,6,7069,Sad,8,8,7,High,Anxiety
+05/22/2019,84,125,74,16,7,6682,Happy,8,8,5,Medium,Mild Stress
+05/23/2019,81,158,82,18,4,2791,Sad,8,9,7,High,Anxiety
+05/24/2019,86,138,77,20,6,8633,Neutral,8,10,8,Medium,Normal
+05/25/2019,82,149,93,26,5,4253,Anxious,7,9,8,High,Moderate Stress
+05/26/2019,71,133,77,16,7,8788,Happy,6,7,6,Medium,Mild Stress
+05/27/2019,90,142,80,29,5,5496,Happy,7,8,5,High,Moderate Stress
+05/28/2019,94,145,99,18,5,2935,Happy,9,6,6,High,Severe Stress
+05/29/2019,109,130,92,21,5,2917,Sad,7,7,6,High,Anxiety
+05/30/2019,81,126,77,16,6,5634,Happy,7,6,5,Medium,Moderate Stress
+05/31/2019,97,157,99,28,6,4054,Anxious,9,9,6,High,Severe Stress
+06/01/2019,88,157,89,28,5,4134,Anxious,6,10,7,High,Moderate Stress
+06/02/2019,83,142,87,24,4,6790,Happy,9,7,6,High,Severe Stress
+06/03/2019,78,136,72,17,7,5754,Anxious,6,11,5,Medium,Severe Stress
+06/04/2019,89,114,73,17,7,8453,Neutral,9,7,5,Medium,Moderate Stress
+06/05/2019,105,150,81,21,5,4382,Neutral,7,7,7,High,Severe Stress
+06/06/2019,91,132,92,19,4,4958,Sad,7,9,6,High,Moderate Stress
+06/07/2019,102,134,84,23,4,6648,Sad,9,10,5,High,Severe Stress
+06/08/2019,76,116,61,14,7,12356,Happy,9,9,8,Low,Anxiety
+06/09/2019,90,139,82,23,5,4639,Anxious,7,9,5,High,Moderate Stress
+06/10/2019,80,121,70,14,7,6307,Happy,6,10,8,Medium,Mild Stress
+06/11/2019,91,153,94,23,6,2956,Happy,7,7,5,High,Severe Stress
+06/12/2019,108,130,82,23,4,5828,Happy,6,6,7,High,Normal
+06/13/2019,87,133,80,19,7,9312,Anxious,6,8,6,Medium,Mild Stress
+06/14/2019,102,159,92,21,5,4793,Anxious,9,7,9,High,Mild Stress
+06/15/2019,85,134,94,23,6,5873,Anxious,8,7,7,High,Severe Stress
+06/16/2019,96,155,87,25,4,6683,Sad,6,11,8,High,Severe Stress
+06/17/2019,85,123,85,18,6,8673,Sad,7,7,5,Medium,Severe Stress
+06/18/2019,92,138,92,26,6,3347,Anxious,7,11,8,High,Severe Stress
+06/19/2019,97,142,88,24,6,3388,Neutral,9,11,5,High,Moderate Stress
+06/20/2019,105,136,94,22,6,4875,Anxious,6,6,5,High,Moderate Stress
+06/21/2019,70,92,67,17,8,10889,Neutral,6,8,9,Low,Moderate Stress
+06/22/2019,85,157,91,22,5,6399,Anxious,9,9,7,High,Severe Stress
+06/23/2019,97,141,90,22,6,3014,Neutral,6,9,5,High,Severe Stress
+06/24/2019,73,130,82,19,6,5963,Happy,9,11,7,Medium,Anxiety
+06/25/2019,87,145,89,21,5,3681,Sad,6,9,6,High,Mild Stress
+06/26/2019,81,119,76,18,6,8654,Happy,6,7,9,Medium,Mild Stress
+06/27/2019,83,151,86,23,4,7291,Happy,7,8,9,High,Severe Stress
+06/28/2019,101,157,88,27,4,7902,Anxious,7,6,9,High,Anxiety
+06/29/2019,96,155,84,21,5,5683,Anxious,7,6,6,High,Severe Stress
+06/30/2019,87,114,84,14,6,8179,Neutral,8,10,5,Medium,Normal
+07/01/2019,62,117,66,14,8,8968,Happy,1,0,1,Low,Normal
+07/02/2019,66,110,77,14,8,14780,Neutral,1,2,2,Low,Normal
+07/03/2019,73,135,75,15,7,6190,Neutral,1,0,2,Medium,Mild Stress
+07/04/2019,65,98,66,15,7,14704,Neutral,1,2,0,Low,Normal
+07/05/2019,62,111,71,16,8,8341,Anxious,3,1,1,Low,Mild Stress
+07/06/2019,89,117,81,15,7,6868,Anxious,3,0,2,Medium,Moderate Stress
+07/07/2019,75,101,76,15,9,9679,Happy,3,2,1,Low,Anxiety
+07/08/2019,91,130,99,23,5,6551,Anxious,1,0,1,High,Moderate Stress
+07/09/2019,63,90,77,16,8,10408,Happy,3,0,0,Low,Mild Stress
+07/10/2019,73,127,75,16,7,7190,Neutral,1,1,2,Medium,Mild Stress
+07/11/2019,72,92,69,17,8,8133,Happy,3,1,0,Low,Normal
+07/12/2019,61,92,77,17,8,12361,Neutral,1,0,1,Low,Normal
+07/13/2019,70,123,85,19,7,7946,Neutral,2,0,0,Medium,Mild Stress
+07/14/2019,61,93,74,15,7,14075,Neutral,1,2,1,Low,Moderate Stress
+07/15/2019,65,118,70,17,8,13179,Happy,3,2,0,Low,Mild Stress
+07/16/2019,61,119,70,13,7,9950,Anxious,1,2,2,Low,Normal
+07/17/2019,73,108,66,15,7,13891,Neutral,1,0,2,Low,Normal
+07/18/2019,63,117,65,13,9,9508,Neutral,2,0,2,Low,Normal
+07/19/2019,73,96,64,16,8,11716,Happy,2,1,2,Low,Normal
+07/20/2019,79,132,76,18,6,8084,Happy,2,0,0,Medium,Normal
+07/21/2019,63,106,62,12,9,12798,Happy,3,0,1,Low,Normal
+07/22/2019,85,137,87,21,6,8804,Sad,2,1,0,Medium,Anxiety
+07/23/2019,76,113,68,12,7,8571,Happy,1,1,1,Low,Normal
+07/24/2019,100,157,90,24,5,2775,Neutral,1,2,0,High,Mild Stress
+07/25/2019,78,94,71,12,9,10148,Happy,1,2,2,Low,Mild Stress
+07/26/2019,72,133,86,18,7,9327,Sad,2,2,2,Medium,Anxiety
+07/27/2019,88,120,74,18,7,7037,Neutral,2,1,2,Medium,Normal
+07/28/2019,87,137,88,19,6,4993,Happy,2,1,0,High,Severe Stress
+07/29/2019,77,99,63,15,9,13607,Happy,1,0,2,Low,Mild Stress
+07/30/2019,71,120,79,20,6,5935,Anxious,1,0,2,Medium,Moderate Stress
+07/31/2019,77,111,79,17,7,11243,Happy,2,0,0,Low,Normal
+08/01/2019,76,126,81,14,6,7196,Neutral,1,1,1,Medium,Moderate Stress
+08/02/2019,81,120,80,14,7,8868,Neutral,2,0,0,Medium,Moderate Stress
+08/03/2019,84,128,81,18,7,8754,Neutral,1,2,2,Medium,Normal
+08/04/2019,66,101,74,12,7,13230,Happy,2,0,0,Low,Moderate Stress
+08/05/2019,62,99,61,14,7,11081,Neutral,2,2,2,Low,Normal
+08/06/2019,72,98,79,15,8,10281,Neutral,2,0,1,Low,Normal
+08/07/2019,104,149,90,20,6,7110,Anxious,3,0,1,High,Moderate Stress
+08/08/2019,79,99,62,13,7,13588,Happy,3,0,1,Low,Mild Stress
+08/09/2019,72,109,76,15,7,12621,Neutral,1,1,2,Low,Mild Stress
+08/10/2019,61,119,77,14,9,11259,Neutral,1,2,1,Low,Normal
+08/11/2019,81,139,75,18,6,5867,Anxious,1,1,2,Medium,Moderate Stress
+08/12/2019,79,106,74,14,7,9019,Happy,1,0,1,Low,Mild Stress
+08/13/2019,84,115,84,19,7,5074,Neutral,2,0,0,Medium,Moderate Stress
+08/14/2019,82,142,90,18,5,4757,Anxious,1,2,0,High,Mild Stress
+08/15/2019,88,114,74,17,6,5703,Sad,2,1,1,Medium,Moderate Stress
+08/16/2019,60,113,63,17,7,13301,Happy,1,2,0,Low,Anxiety
+08/17/2019,71,99,66,14,9,11291,Neutral,2,1,2,Low,Normal
+08/18/2019,81,118,82,17,7,7643,Anxious,3,0,0,Medium,Moderate Stress
+08/19/2019,66,95,74,13,9,9171,Happy,3,0,1,Low,Moderate Stress
+08/20/2019,83,134,74,15,6,8652,Anxious,2,0,0,Medium,Mild Stress
+08/21/2019,91,154,88,18,5,6724,Sad,2,0,2,High,Severe Stress
+08/22/2019,61,117,70,12,9,11669,Sad,2,1,1,Low,Normal
+08/23/2019,64,91,75,12,8,14985,Happy,3,0,2,Low,Mild Stress
+08/24/2019,67,95,69,14,9,9854,Happy,3,0,1,Low,Normal
+08/25/2019,84,133,77,18,6,6749,Happy,2,2,0,Medium,Mild Stress
+08/26/2019,105,146,81,26,5,5970,Neutral,1,1,2,High,Mild Stress
+08/27/2019,87,120,88,18,6,9874,Happy,2,0,0,Medium,Moderate Stress
+08/28/2019,84,124,85,19,7,9563,Anxious,2,2,2,Medium,Mild Stress
+08/29/2019,80,117,75,14,7,8200,Happy,1,2,0,Medium,Mild Stress
+08/30/2019,88,118,81,16,7,8958,Neutral,3,0,2,Medium,Normal
+08/31/2019,71,113,75,15,6,6594,Happy,3,0,0,Medium,Normal
+09/01/2019,79,91,64,14,7,11547,Neutral,6,3,3,Low,Normal
+09/02/2019,80,111,84,17,7,7504,Sad,4,3,4,Medium,Severe Stress
+09/03/2019,85,130,70,18,6,6715,Neutral,5,4,3,Medium,Moderate Stress
+09/04/2019,85,131,86,18,7,6674,Neutral,5,4,2,Medium,Normal
+09/05/2019,71,112,77,21,7,6070,Happy,3,5,5,Medium,Anxiety
+09/06/2019,62,93,74,17,9,12628,Happy,3,2,3,Low,Mild Stress
+09/07/2019,96,136,88,20,4,4257,Anxious,4,4,4,High,Severe Stress
+09/08/2019,73,95,73,15,7,8839,Happy,5,3,4,Low,Normal
+09/09/2019,77,133,83,15,7,6750,Happy,3,4,3,Medium,Anxiety
+09/10/2019,78,137,89,18,6,8789,Neutral,5,5,4,Medium,Moderate Stress
+09/11/2019,89,123,75,18,6,7723,Happy,4,2,5,Medium,Moderate Stress
+09/12/2019,73,100,62,12,9,10381,Neutral,6,4,5,Low,Moderate Stress
+09/13/2019,108,143,88,25,6,7374,Happy,3,3,2,High,Moderate Stress
+09/14/2019,80,123,87,18,6,5660,Happy,6,2,4,Medium,Mild Stress
+09/15/2019,78,138,78,17,6,5976,Happy,6,2,5,Medium,Moderate Stress
+09/16/2019,81,131,81,19,6,5526,Anxious,4,5,2,Medium,Normal
+09/17/2019,85,149,98,21,6,3478,Sad,6,3,5,High,Severe Stress
+09/18/2019,71,133,71,16,6,6792,Happy,4,3,3,Medium,Mild Stress
+09/19/2019,71,95,67,14,8,12536,Happy,3,4,5,Low,Normal
+09/20/2019,89,133,86,18,6,7096,Happy,4,5,4,Medium,Severe Stress
+09/21/2019,66,110,76,17,8,13482,Happy,3,2,5,Low,Normal
+09/22/2019,88,136,76,20,6,9492,Anxious,4,4,4,Medium,Normal
+09/23/2019,60,97,71,14,7,14132,Happy,3,5,2,Low,Moderate Stress
+09/24/2019,105,134,87,26,6,2173,Happy,3,4,4,High,Normal
+09/25/2019,97,131,83,18,6,2419,Sad,5,4,5,High,Severe Stress
+09/26/2019,91,155,98,26,6,7889,Anxious,3,3,3,High,Anxiety
+09/27/2019,83,127,88,19,6,5770,Neutral,5,2,3,Medium,Moderate Stress
+09/28/2019,109,137,81,18,4,6093,Anxious,5,2,4,High,Severe Stress
+09/29/2019,76,114,65,15,7,13557,Neutral,6,4,2,Low,Normal
+09/30/2019,71,91,62,14,9,13160,Happy,6,4,5,Low,Normal
+10/01/2019,63,117,60,13,7,8006,Happy,6,2,2,Low,Severe Stress
+10/02/2019,69,117,77,15,9,13546,Happy,5,3,4,Low,Normal
+10/03/2019,74,117,71,21,7,6463,Neutral,3,4,5,Medium,Normal
+10/04/2019,109,153,82,28,4,3178,Sad,5,5,4,High,Moderate Stress
+10/05/2019,74,110,69,16,8,10172,Happy,6,2,4,Low,Moderate Stress
+10/06/2019,78,126,82,16,6,6936,Sad,6,3,5,Medium,Anxiety
+10/07/2019,82,111,82,19,6,7390,Sad,4,3,5,Medium,Moderate Stress
+10/08/2019,73,101,71,14,9,12931,Happy,6,4,5,Low,Anxiety
+10/09/2019,61,100,63,14,7,14416,Neutral,4,5,3,Low,Mild Stress
+10/10/2019,74,116,77,17,6,5656,Neutral,4,4,4,Medium,Anxiety
+10/11/2019,90,151,92,29,5,5732,Anxious,5,5,2,High,Severe Stress
+10/12/2019,73,115,71,17,7,8882,Happy,6,5,5,Low,Mild Stress
+10/13/2019,73,115,80,14,7,7454,Sad,5,5,2,Medium,Mild Stress
+10/14/2019,83,136,87,17,6,8822,Anxious,3,4,5,Medium,Anxiety
+10/15/2019,72,106,76,12,7,11935,Happy,5,3,4,Low,Normal
+10/16/2019,83,138,85,15,7,9117,Anxious,5,4,3,Medium,Moderate Stress
+10/17/2019,85,121,71,14,7,5695,Anxious,4,4,4,Medium,Anxiety
+10/18/2019,86,117,76,19,6,9674,Neutral,3,2,2,Medium,Normal
+10/19/2019,67,94,68,12,9,10241,Happy,5,2,3,Low,Normal
+10/20/2019,75,120,72,21,6,5909,Neutral,3,5,3,Medium,Normal
+10/21/2019,65,105,61,12,9,12257,Neutral,6,3,5,Low,Normal
+10/22/2019,84,137,71,20,6,7951,Happy,6,3,4,Medium,Anxiety
+10/23/2019,66,90,76,12,8,8436,Happy,5,2,4,Low,Mild Stress
+10/24/2019,76,112,69,13,8,9587,Anxious,4,3,3,Low,Mild Stress
+10/25/2019,103,144,83,28,6,7585,Anxious,5,3,3,High,Mild Stress
+10/26/2019,80,118,81,14,6,6264,Anxious,4,3,5,Medium,Moderate Stress
+10/27/2019,103,147,87,26,5,2888,Happy,6,4,2,High,Moderate Stress
+10/28/2019,61,101,63,15,8,8818,Happy,3,3,5,Low,Severe Stress
+10/29/2019,86,135,70,17,6,8800,Neutral,4,4,4,Medium,Mild Stress
+10/30/2019,84,130,91,28,4,5523,Anxious,4,2,2,High,Severe Stress
+10/31/2019,74,119,86,18,7,7587,Neutral,5,4,5,Medium,Mild Stress
+11/01/2019,71,98,66,12,7,10257,Sad,6,4,3,Low,Normal
+11/02/2019,80,131,70,17,6,6878,Anxious,4,2,5,Medium,Anxiety
+11/03/2019,62,117,65,15,7,8539,Neutral,4,2,5,Low,Normal
+11/04/2019,72,114,76,17,8,9673,Sad,5,2,3,Low,Normal
+11/05/2019,61,111,76,15,8,8674,Happy,5,3,2,Low,Severe Stress
+11/06/2019,70,114,63,13,8,10277,Neutral,5,5,5,Low,Mild Stress
+11/07/2019,81,136,79,16,6,7792,Happy,4,4,5,Medium,Mild Stress
+11/08/2019,66,109,71,14,7,12579,Sad,6,4,4,Low,Normal
+11/09/2019,80,152,87,23,6,2643,Neutral,3,2,2,High,Moderate Stress
+11/10/2019,84,137,81,15,7,5392,Happy,6,5,5,Medium,Moderate Stress
+11/11/2019,107,151,88,18,6,7209,Sad,4,2,3,High,Anxiety
+11/12/2019,78,100,72,16,9,11483,Anxious,3,2,4,Low,Severe Stress
+11/13/2019,74,98,73,13,8,9776,Neutral,6,5,2,Low,Normal
+11/14/2019,77,95,61,16,8,14420,Neutral,4,3,3,Low,Moderate Stress
+11/15/2019,79,123,82,20,7,6116,Sad,3,4,5,Medium,Severe Stress
+11/16/2019,92,147,90,29,5,5752,Sad,5,5,5,High,Moderate Stress
+11/17/2019,109,154,91,28,4,7720,Neutral,5,4,3,High,Severe Stress
+11/18/2019,83,141,98,28,4,5425,Anxious,5,2,5,High,Anxiety
+11/19/2019,82,119,77,19,7,7019,Happy,3,4,4,Medium,Moderate Stress
+11/20/2019,97,151,91,26,4,5619,Sad,6,5,3,High,Anxiety
+11/21/2019,69,117,67,13,9,10503,Neutral,4,2,4,Low,Normal
+11/22/2019,82,122,79,17,6,6461,Sad,5,3,4,Medium,Mild Stress
+11/23/2019,76,126,72,17,7,5628,Happy,5,2,4,Medium,Moderate Stress
+11/24/2019,77,102,79,16,7,11162,Happy,3,3,2,Low,Normal
+11/25/2019,99,152,89,28,6,3064,Happy,4,2,2,High,Mild Stress
+11/26/2019,78,138,73,18,7,9746,Anxious,3,4,5,Medium,Moderate Stress
+11/27/2019,66,104,66,13,7,12500,Neutral,5,3,5,Low,Normal
+11/28/2019,67,98,75,14,9,13677,Happy,3,4,5,Low,Normal
+11/29/2019,80,132,94,25,6,6135,Happy,6,3,2,High,Severe Stress
+11/30/2019,72,111,86,20,6,5278,Neutral,5,3,2,Medium,Moderate Stress
+12/01/2019,65,94,69,17,7,11388,Happy,9,8,8,Low,Anxiety
+12/02/2019,73,124,78,18,6,8414,Anxious,7,11,9,Medium,Moderate Stress
+12/03/2019,93,154,95,28,6,5811,Neutral,9,11,9,High,Severe Stress
+12/04/2019,85,136,79,15,7,9538,Happy,7,6,5,Medium,Anxiety
+12/05/2019,76,93,75,15,9,8152,Happy,6,11,5,Low,Mild Stress
+12/06/2019,83,146,88,25,5,6199,Sad,8,8,5,High,Mild Stress
+12/07/2019,86,111,78,18,6,9677,Sad,9,10,7,Medium,Normal
+12/08/2019,95,144,92,24,4,5920,Sad,8,9,8,High,Moderate Stress
+12/09/2019,79,92,67,17,8,9824,Neutral,6,9,7,Low,Mild Stress
+12/10/2019,80,146,87,20,4,4240,Sad,9,11,9,High,Anxiety
+12/11/2019,98,141,95,28,6,3481,Neutral,8,9,8,High,Moderate Stress
+12/12/2019,98,154,84,25,6,5277,Anxious,8,7,7,High,Severe Stress
+12/13/2019,77,137,70,14,7,8197,Sad,6,8,8,Medium,Moderate Stress
+12/14/2019,83,114,70,19,7,8951,Sad,7,10,7,Medium,Normal
+12/15/2019,73,110,82,17,7,7438,Anxious,7,8,9,Medium,Normal
+12/16/2019,87,119,78,14,7,5201,Happy,7,7,9,Medium,Anxiety
+12/17/2019,97,155,99,26,4,5802,Anxious,8,8,7,High,Moderate Stress
+12/18/2019,95,131,89,23,5,2153,Anxious,8,8,9,High,Anxiety
+12/19/2019,68,111,79,15,9,12691,Happy,7,11,9,Low,Normal
+12/20/2019,94,156,89,26,4,6655,Anxious,8,9,7,High,Severe Stress
+12/21/2019,80,148,89,22,6,6757,Neutral,6,8,8,High,Severe Stress
+12/22/2019,107,130,96,21,6,2816,Anxious,8,6,6,High,Moderate Stress
+12/23/2019,89,135,95,23,4,6937,Happy,7,7,7,High,Anxiety
+12/24/2019,74,104,63,16,9,8072,Happy,8,9,5,Low,Mild Stress
+12/25/2019,97,149,92,25,6,2368,Neutral,8,9,5,High,Moderate Stress
+12/26/2019,85,111,77,16,6,8010,Happy,6,8,6,Medium,Mild Stress
+12/27/2019,87,115,88,17,6,7366,Anxious,7,8,6,Medium,Moderate Stress
+12/28/2019,83,117,88,19,7,7556,Anxious,6,6,8,Medium,Mild Stress
+12/29/2019,88,147,81,27,6,7307,Neutral,9,9,6,High,Severe Stress
+12/30/2019,107,147,81,23,6,5769,Happy,9,11,9,High,Severe Stress
+12/31/2019,74,90,62,17,8,13873,Happy,7,11,9,Low,Normal
+01/01/2020,69,117,77,14,7,14446,Anxious,8,9,9,Low,Normal
+01/02/2020,106,153,89,24,4,2276,Anxious,7,9,5,High,Anxiety
+01/03/2020,74,113,83,15,6,9409,Neutral,6,6,9,Medium,Anxiety
+01/04/2020,72,92,66,17,7,10677,Neutral,8,6,8,Low,Moderate Stress
+01/05/2020,104,151,88,22,6,4700,Anxious,9,10,5,High,Severe Stress
+01/06/2020,84,135,91,19,5,6757,Anxious,7,6,7,High,Severe Stress
+01/07/2020,105,139,94,29,6,4979,Sad,7,9,7,High,Moderate Stress
+01/08/2020,78,111,74,17,9,13628,Happy,6,11,5,Low,Mild Stress
+01/09/2020,94,139,80,19,5,7618,Anxious,6,7,9,High,Severe Stress
+01/10/2020,86,130,76,21,7,9166,Happy,7,6,7,Medium,Mild Stress
+01/11/2020,100,130,96,18,6,2250,Anxious,8,10,9,High,Moderate Stress
+01/12/2020,95,154,88,25,4,2504,Neutral,6,8,8,High,Moderate Stress
+01/13/2020,93,158,98,20,5,6008,Neutral,8,8,9,High,Moderate Stress
+01/14/2020,97,148,95,19,5,4565,Sad,6,9,8,High,Severe Stress
+01/15/2020,97,131,92,23,6,2531,Neutral,8,7,9,High,Moderate Stress
+01/16/2020,73,97,63,14,9,11193,Happy,9,8,7,Low,Moderate Stress
+01/17/2020,88,157,81,25,6,7167,Happy,9,6,6,High,Severe Stress
+01/18/2020,109,136,99,18,6,7330,Anxious,6,8,8,High,Moderate Stress
+01/19/2020,108,155,96,24,6,4946,Anxious,7,9,6,High,Severe Stress
+01/20/2020,89,141,89,28,5,4575,Sad,8,6,9,High,Moderate Stress
+01/21/2020,91,139,91,28,6,7455,Happy,7,7,8,High,Moderate Stress
+01/22/2020,109,146,85,26,6,6290,Neutral,7,10,5,High,Severe Stress
+01/23/2020,100,155,93,28,6,7705,Anxious,8,9,8,High,Severe Stress
+01/24/2020,80,157,87,18,4,4581,Happy,6,8,9,High,Severe Stress
+01/25/2020,95,135,93,28,6,6550,Neutral,7,7,6,High,Severe Stress
+01/26/2020,108,135,95,28,6,2956,Anxious,9,10,6,High,Normal
+01/27/2020,94,145,92,18,6,7107,Neutral,6,8,7,High,Normal
+01/28/2020,62,111,65,17,8,11504,Neutral,9,8,6,Low,Mild Stress
+01/29/2020,100,158,89,20,4,2067,Neutral,8,8,7,High,Severe Stress
+01/30/2020,89,125,88,20,7,5650,Neutral,8,9,9,Medium,Moderate Stress
+01/31/2020,100,141,97,21,5,7232,Anxious,7,6,7,High,Anxiety
+02/01/2020,106,152,97,25,6,3098,Sad,3,4,2,High,Severe Stress
+02/02/2020,101,139,98,18,6,3678,Sad,4,3,3,High,Severe Stress
+02/03/2020,93,147,99,19,4,2374,Sad,5,5,5,High,Anxiety
+02/04/2020,82,157,92,19,4,2944,Sad,6,3,3,High,Severe Stress
+02/05/2020,70,111,79,16,8,13021,Neutral,6,5,4,Low,Moderate Stress
+02/06/2020,76,125,82,16,6,5943,Sad,5,5,5,Medium,Severe Stress
+02/07/2020,99,134,89,18,6,5294,Neutral,6,4,4,High,Severe Stress
+02/08/2020,66,110,71,12,7,11135,Neutral,3,4,3,Low,Normal
+02/09/2020,71,115,61,14,8,10775,Happy,6,4,2,Low,Mild Stress
+02/10/2020,104,137,87,25,6,6455,Sad,6,5,2,High,Moderate Stress
+02/11/2020,66,117,76,15,7,9036,Happy,3,3,3,Low,Moderate Stress
+02/12/2020,75,133,71,20,6,9106,Anxious,6,3,2,Medium,Mild Stress
+02/13/2020,83,133,72,17,7,8216,Sad,5,4,3,Medium,Severe Stress
+02/14/2020,61,98,72,12,8,11442,Neutral,3,4,3,Low,Normal
+02/15/2020,76,122,86,21,6,9135,Sad,5,2,3,Medium,Mild Stress
+02/16/2020,81,121,75,16,7,5226,Neutral,6,4,4,Medium,Mild Stress
+02/17/2020,77,122,82,14,6,6252,Anxious,3,2,5,Medium,Mild Stress
+02/18/2020,73,137,76,21,6,7892,Anxious,4,4,3,Medium,Severe Stress
+02/19/2020,62,117,62,16,8,10785,Neutral,6,2,3,Low,Anxiety
+02/20/2020,75,123,72,15,6,5698,Sad,5,4,2,Medium,Moderate Stress
+02/21/2020,68,119,79,17,7,10686,Anxious,3,5,5,Low,Mild Stress
+02/22/2020,60,90,74,16,7,11129,Happy,5,2,4,Low,Normal
+02/23/2020,74,116,72,16,7,8155,Neutral,6,4,3,Low,Mild Stress
+02/24/2020,76,122,87,18,7,6117,Sad,5,2,3,Medium,Mild Stress
+02/25/2020,67,108,79,12,8,11435,Sad,5,5,5,Low,Normal
+02/26/2020,88,151,94,18,6,7962,Anxious,3,5,4,High,Severe Stress
+02/27/2020,77,117,81,14,6,8303,Happy,5,4,4,Medium,Normal
+02/28/2020,77,132,75,19,7,9709,Happy,6,4,3,Medium,Normal
+02/29/2020,78,100,76,16,9,9473,Anxious,5,4,5,Low,Mild Stress
+03/01/2020,75,137,71,19,6,9388,Neutral,6,3,3,Medium,Anxiety
+03/02/2020,72,109,76,12,9,10747,Neutral,4,5,4,Low,Normal
+03/03/2020,60,99,77,12,9,14603,Happy,6,3,5,Low,Normal
+03/04/2020,74,105,71,17,7,8536,Neutral,5,3,5,Low,Normal
+03/05/2020,89,117,79,16,6,9247,Neutral,4,4,5,Medium,Moderate Stress
+03/06/2020,78,130,81,15,6,7398,Sad,6,4,5,Medium,Mild Stress
+03/07/2020,70,131,71,19,6,9244,Sad,3,5,3,Medium,Normal
+03/08/2020,89,115,84,15,7,7925,Anxious,4,2,2,Medium,Moderate Stress
+03/09/2020,65,106,70,15,9,8470,Anxious,4,2,5,Low,Moderate Stress
+03/10/2020,72,117,87,15,6,6008,Happy,5,2,5,Medium,Normal
+03/11/2020,74,133,82,19,6,8268,Happy,6,3,2,Medium,Moderate Stress
+03/12/2020,80,137,81,17,6,6625,Neutral,6,4,5,Medium,Anxiety
+03/13/2020,105,159,88,24,6,3719,Sad,5,4,5,High,Normal
+03/14/2020,77,114,84,14,6,9856,Anxious,4,3,2,Medium,Moderate Stress
+03/15/2020,62,102,75,17,9,13904,Happy,4,2,2,Low,Moderate Stress
+03/16/2020,72,95,62,17,8,9262,Happy,5,3,2,Low,Normal
+03/17/2020,72,137,75,18,7,5406,Anxious,4,4,2,Medium,Mild Stress
+03/18/2020,77,107,63,12,7,12621,Neutral,5,5,5,Low,Normal
+03/19/2020,80,124,81,16,6,7466,Sad,6,4,5,Medium,Anxiety
+03/20/2020,76,96,70,13,7,10402,Happy,3,3,3,Low,Mild Stress
+03/21/2020,74,104,63,14,8,13507,Happy,6,5,2,Low,Mild Stress
+03/22/2020,67,113,74,14,9,14344,Happy,4,5,4,Low,Severe Stress
+03/23/2020,89,158,95,20,5,3481,Sad,4,2,2,High,Moderate Stress
+03/24/2020,80,139,82,20,6,7397,Anxious,4,2,3,Medium,Normal
+03/25/2020,75,119,87,20,7,5607,Happy,4,5,3,Medium,Mild Stress
+03/26/2020,62,99,70,14,7,13507,Happy,3,2,4,Low,Normal
+03/27/2020,75,112,70,17,7,7806,Happy,5,3,4,Medium,Anxiety
+03/28/2020,73,90,77,12,9,8840,Happy,5,2,4,Low,Normal
+03/29/2020,71,122,85,20,6,6609,Neutral,3,3,3,Medium,Mild Stress
+03/30/2020,104,143,82,21,5,3801,Sad,5,2,2,High,Anxiety
+03/31/2020,76,119,61,15,7,12905,Neutral,5,4,5,Low,Mild Stress
+04/01/2020,75,95,71,14,9,8238,Happy,6,5,2,Low,Mild Stress
+04/02/2020,74,97,66,17,9,12987,Happy,4,4,2,Low,Normal
+04/03/2020,63,110,67,16,8,12815,Happy,4,2,4,Low,Moderate Stress
+04/04/2020,75,103,69,16,7,11364,Neutral,5,5,4,Low,Mild Stress
+04/05/2020,69,110,64,14,9,8284,Happy,4,4,5,Low,Normal
+04/06/2020,77,94,63,17,7,9810,Anxious,3,4,3,Low,Anxiety
+04/07/2020,79,109,74,15,7,14034,Anxious,6,4,4,Low,Moderate Stress
+04/08/2020,73,127,87,18,7,6878,Neutral,3,3,3,Medium,Normal
+04/09/2020,92,139,88,27,6,4182,Sad,4,3,4,High,Severe Stress
+04/10/2020,88,130,71,16,7,6161,Sad,6,5,2,Medium,Moderate Stress
+04/11/2020,76,130,80,21,6,5886,Happy,5,3,4,Medium,Severe Stress
+04/12/2020,60,100,60,15,7,14761,Neutral,4,5,5,Low,Normal
+04/13/2020,67,107,70,14,7,8011,Happy,5,2,3,Low,Mild Stress
+04/14/2020,89,115,79,17,7,9903,Sad,6,2,3,Medium,Mild Stress
+04/15/2020,75,102,79,13,9,13402,Neutral,4,5,3,Low,Mild Stress
+04/16/2020,78,121,78,15,7,7552,Happy,6,4,5,Medium,Moderate Stress
+04/17/2020,73,133,71,20,6,5526,Neutral,6,5,2,Medium,Normal
+04/18/2020,73,103,64,13,8,12769,Neutral,6,3,5,Low,Moderate Stress
+04/19/2020,101,143,95,21,4,3119,Anxious,6,5,3,High,Severe Stress
+04/20/2020,72,116,75,14,7,10708,Anxious,4,4,4,Low,Normal
+04/21/2020,86,122,83,18,6,8629,Happy,6,2,2,Medium,Mild Stress
+04/22/2020,74,122,89,20,7,7253,Happy,3,2,4,Medium,Mild Stress
+04/23/2020,83,131,77,18,6,7338,Neutral,3,3,4,Medium,Moderate Stress
+04/24/2020,72,94,67,12,9,12703,Happy,5,3,5,Low,Normal
+04/25/2020,75,92,79,17,9,10240,Happy,3,4,2,Low,Normal
+04/26/2020,75,117,85,16,6,7756,Anxious,6,5,2,Medium,Mild Stress
+04/27/2020,98,151,98,23,6,2170,Sad,6,2,3,High,Moderate Stress
+04/28/2020,82,131,80,16,7,7035,Anxious,4,5,4,Medium,Mild Stress
+04/29/2020,78,129,88,21,6,9875,Sad,5,3,4,Medium,Moderate Stress
+04/30/2020,85,131,90,20,5,2941,Anxious,3,3,5,High,Anxiety
+05/01/2020,106,149,94,25,6,6362,Neutral,9,6,8,High,Severe Stress
+05/02/2020,90,148,84,22,4,3292,Anxious,7,11,5,High,Anxiety
+05/03/2020,96,136,93,27,6,5419,Neutral,8,10,6,High,Severe Stress
+05/04/2020,105,154,98,18,5,4381,Happy,9,6,7,High,Severe Stress
+05/05/2020,82,124,83,21,6,5946,Happy,8,10,8,Medium,Mild Stress
+05/06/2020,104,139,86,23,4,5793,Sad,7,7,5,High,Severe Stress
+05/07/2020,85,156,99,18,4,7867,Sad,7,9,5,High,Severe Stress
+05/08/2020,83,130,86,19,4,6386,Sad,9,8,8,High,Severe Stress
+05/09/2020,73,114,77,15,7,10575,Sad,8,8,8,Low,Mild Stress
+05/10/2020,93,155,95,24,4,5715,Sad,7,8,6,High,Severe Stress
+05/11/2020,97,155,86,18,6,2441,Neutral,7,10,8,High,Normal
+05/12/2020,84,147,84,26,5,4080,Sad,9,11,7,High,Moderate Stress
+05/13/2020,91,152,80,28,5,5188,Anxious,9,10,8,High,Mild Stress
+05/14/2020,90,147,91,23,4,3209,Anxious,8,7,7,High,Anxiety
+05/15/2020,96,131,81,29,6,4181,Anxious,8,6,9,High,Moderate Stress
+05/16/2020,93,136,98,24,4,2264,Happy,7,10,9,High,Severe Stress
+05/17/2020,89,156,86,27,6,2924,Happy,8,8,6,High,Moderate Stress
+05/18/2020,75,121,84,19,6,8218,Neutral,9,7,8,Medium,Mild Stress
+05/19/2020,62,102,67,16,9,11567,Happy,7,10,9,Low,Normal
+05/20/2020,65,91,68,17,7,14116,Happy,7,8,5,Low,Normal
+05/21/2020,86,137,83,21,7,5419,Sad,8,11,9,Medium,Anxiety
+05/22/2020,82,120,83,17,7,8515,Happy,9,8,7,Medium,Moderate Stress
+05/23/2020,99,157,80,21,5,7368,Happy,8,7,9,High,Moderate Stress
+05/24/2020,77,104,77,13,8,10038,Happy,8,9,9,Low,Normal
+05/25/2020,80,128,72,20,6,9469,Neutral,9,6,5,Medium,Mild Stress
+05/26/2020,102,153,98,19,6,5803,Anxious,8,6,7,High,Severe Stress
+05/27/2020,76,94,62,13,9,13602,Happy,7,10,8,Low,Anxiety
+05/28/2020,85,112,82,19,7,6462,Neutral,6,7,9,Medium,Anxiety
+05/29/2020,88,132,80,16,6,6375,Sad,8,7,5,Medium,Moderate Stress
+05/30/2020,82,121,87,21,6,9775,Happy,8,7,8,Medium,Moderate Stress
+05/31/2020,82,134,77,21,6,8248,Happy,6,11,9,Medium,Normal
+06/01/2020,81,154,97,26,5,5402,Sad,7,11,9,High,Moderate Stress
+06/02/2020,72,132,72,14,7,9241,Neutral,9,10,9,Medium,Mild Stress
+06/03/2020,104,142,96,29,5,6586,Anxious,9,7,9,High,Anxiety
+06/04/2020,95,151,98,26,4,5986,Sad,9,9,6,High,Moderate Stress
+06/05/2020,85,150,85,26,6,4598,Anxious,7,11,5,High,Moderate Stress
+06/06/2020,89,138,78,20,6,5515,Anxious,6,10,5,Medium,Mild Stress
+06/07/2020,84,112,89,18,6,8332,Anxious,7,7,9,Medium,Anxiety
+06/08/2020,89,158,88,25,6,6286,Sad,6,11,9,High,Normal
+06/09/2020,89,142,83,25,4,5339,Sad,9,6,8,High,Severe Stress
+06/10/2020,107,152,86,25,6,3174,Sad,7,8,9,High,Severe Stress
+06/11/2020,97,149,91,24,4,6588,Anxious,6,7,8,High,Moderate Stress
+06/12/2020,105,132,97,28,5,3215,Anxious,7,8,8,High,Moderate Stress
+06/13/2020,85,133,78,17,6,9312,Sad,8,11,5,Medium,Moderate Stress
+06/14/2020,109,148,96,26,6,7109,Sad,9,7,8,High,Severe Stress
+06/15/2020,96,142,92,24,6,4593,Sad,7,7,9,High,Moderate Stress
+06/16/2020,73,113,70,13,9,11553,Happy,8,11,9,Low,Normal
+06/17/2020,100,151,86,28,6,3811,Sad,7,8,5,High,Anxiety
+06/18/2020,87,153,83,20,6,6482,Sad,9,8,5,High,Severe Stress
+06/19/2020,91,152,88,28,6,7417,Anxious,7,9,9,High,Severe Stress
+06/20/2020,82,145,84,20,6,7565,Anxious,7,10,9,High,Moderate Stress
+06/21/2020,103,149,97,19,5,6813,Sad,8,11,7,High,Severe Stress
+06/22/2020,87,144,82,26,5,2983,Neutral,6,11,8,High,Severe Stress
+06/23/2020,109,144,91,26,4,3105,Anxious,6,10,5,High,Mild Stress
+06/24/2020,101,131,96,22,5,5639,Anxious,9,10,9,High,Severe Stress
+06/25/2020,85,127,86,16,6,9943,Happy,7,9,9,Medium,Moderate Stress
+06/26/2020,96,136,84,22,6,7736,Anxious,6,10,6,High,Moderate Stress
+06/27/2020,63,111,61,16,8,10298,Happy,7,6,5,Low,Mild Stress
+06/28/2020,87,136,80,16,7,7208,Neutral,6,9,8,Medium,Anxiety
+06/29/2020,87,119,86,18,7,7741,Sad,6,8,9,Medium,Moderate Stress
+06/30/2020,102,151,98,27,5,2825,Happy,8,7,6,High,Severe Stress
+07/01/2020,60,93,73,12,8,10410,Happy,2,1,0,Low,Normal
+07/02/2020,78,113,78,17,9,12005,Neutral,2,0,0,Low,Normal
+07/03/2020,78,111,62,17,8,13084,Neutral,2,0,2,Low,Normal
+07/04/2020,75,107,76,17,8,10518,Happy,2,1,2,Low,Mild Stress
+07/05/2020,71,91,62,13,7,12915,Neutral,2,0,0,Low,Anxiety
+07/06/2020,75,101,67,13,7,11683,Neutral,3,0,0,Low,Moderate Stress
+07/07/2020,100,136,91,19,5,3004,Sad,2,2,2,High,Severe Stress
+07/08/2020,76,94,71,17,8,14943,Happy,1,1,2,Low,Mild Stress
+07/09/2020,77,95,72,12,9,14678,Happy,3,2,2,Low,Normal
+07/10/2020,72,112,64,16,8,9590,Neutral,3,1,2,Low,Normal
+07/11/2020,62,104,62,16,8,13728,Neutral,3,2,2,Low,Moderate Stress
+07/12/2020,80,116,78,14,6,6203,Anxious,3,1,2,Medium,Severe Stress
+07/13/2020,86,110,79,16,6,9078,Happy,1,2,1,Medium,Severe Stress
+07/14/2020,73,116,77,13,8,12734,Happy,3,0,2,Low,Normal
+07/15/2020,60,100,69,12,7,10223,Happy,2,0,0,Low,Mild Stress
+07/16/2020,60,106,64,12,8,13471,Happy,2,0,0,Low,Normal
+07/17/2020,67,115,70,16,7,12790,Happy,2,0,0,Low,Normal
+07/18/2020,64,102,77,12,7,11085,Neutral,3,1,2,Low,Mild Stress
+07/19/2020,70,101,68,16,9,8154,Happy,1,2,2,Low,Normal
+07/20/2020,73,117,76,13,7,11202,Happy,2,2,0,Low,Normal
+07/21/2020,62,100,76,13,9,11783,Neutral,1,1,2,Low,Normal
+07/22/2020,60,106,69,17,8,11228,Happy,2,2,0,Low,Normal
+07/23/2020,73,96,60,13,7,8300,Happy,3,0,1,Low,Anxiety
+07/24/2020,76,101,71,12,7,11661,Happy,2,1,0,Low,Normal
+07/25/2020,61,99,68,16,9,14447,Sad,3,1,2,Low,Normal
+07/26/2020,73,123,85,16,7,8627,Anxious,2,0,1,Medium,Normal
+07/27/2020,88,117,76,21,7,6797,Happy,1,2,0,Medium,Moderate Stress
+07/28/2020,80,124,72,15,6,5534,Neutral,1,2,2,Medium,Normal
+07/29/2020,67,110,70,17,8,8471,Neutral,3,1,2,Low,Mild Stress
+07/30/2020,91,152,93,19,4,6729,Sad,3,1,2,High,Severe Stress
+07/31/2020,63,99,72,13,8,13204,Anxious,2,0,2,Low,Severe Stress
+08/01/2020,71,115,77,18,6,8338,Anxious,3,0,1,Medium,Moderate Stress
+08/02/2020,63,99,79,15,7,8873,Happy,2,1,1,Low,Normal
+08/03/2020,77,119,66,15,9,12230,Happy,2,1,1,Low,Normal
+08/04/2020,71,99,65,12,9,8241,Happy,3,1,0,Low,Mild Stress
+08/05/2020,76,133,70,16,7,7779,Happy,2,2,1,Medium,Moderate Stress
+08/06/2020,79,135,80,20,7,5179,Sad,3,0,2,Medium,Normal
+08/07/2020,61,107,74,12,7,8595,Happy,2,0,1,Low,Mild Stress
+08/08/2020,67,118,71,16,8,8342,Neutral,3,1,1,Low,Mild Stress
+08/09/2020,72,97,63,13,9,14353,Happy,3,1,2,Low,Normal
+08/10/2020,71,113,61,16,7,9927,Happy,1,1,1,Low,Normal
+08/11/2020,62,115,67,14,8,9273,Neutral,2,2,1,Low,Normal
+08/12/2020,71,114,76,15,7,8159,Sad,3,1,0,Medium,Mild Stress
+08/13/2020,74,120,79,17,6,5654,Happy,3,2,2,Medium,Mild Stress
+08/14/2020,65,90,63,14,8,11004,Happy,1,0,0,Low,Normal
+08/15/2020,87,142,95,21,6,6969,Happy,2,0,0,High,Mild Stress
+08/16/2020,79,111,62,16,8,8877,Happy,3,1,0,Low,Mild Stress
+08/17/2020,69,95,63,16,7,12166,Neutral,1,2,1,Low,Normal
+08/18/2020,74,94,78,17,9,10569,Happy,3,1,0,Low,Normal
+08/19/2020,64,92,68,16,7,12753,Neutral,2,2,0,Low,Normal
+08/20/2020,73,138,78,20,6,5433,Neutral,2,0,1,Medium,Mild Stress
+08/21/2020,76,105,62,17,8,12656,Happy,3,1,0,Low,Normal
+08/22/2020,61,106,67,17,9,11310,Happy,3,2,1,Low,Moderate Stress
+08/23/2020,75,114,74,16,9,13055,Happy,2,2,1,Low,Mild Stress
+08/24/2020,87,132,86,17,6,6847,Neutral,3,1,2,Medium,Normal
+08/25/2020,75,94,74,12,8,10084,Neutral,2,0,1,Low,Normal
+08/26/2020,79,109,78,16,9,11832,Happy,3,1,1,Low,Normal
+08/27/2020,89,138,92,24,4,5961,Anxious,2,2,2,High,Severe Stress
+08/28/2020,76,96,73,16,8,12144,Happy,1,1,0,Low,Normal
+08/29/2020,67,95,70,14,8,13965,Anxious,2,0,2,Low,Mild Stress
+08/30/2020,69,95,60,13,9,13652,Neutral,2,2,1,Low,Normal
+08/31/2020,103,150,97,23,4,7724,Neutral,1,0,0,High,Mild Stress
+09/01/2020,78,117,72,14,6,9332,Anxious,5,5,5,Medium,Normal
+09/02/2020,103,152,95,24,5,7490,Sad,3,4,2,High,Normal
+09/03/2020,98,153,86,23,6,5625,Neutral,6,2,2,High,Normal
+09/04/2020,73,128,86,18,6,5757,Anxious,3,4,5,Medium,Normal
+09/05/2020,64,119,71,15,7,9992,Happy,6,3,2,Low,Mild Stress
+09/06/2020,91,147,96,25,6,5682,Happy,3,4,5,High,Moderate Stress
+09/07/2020,72,131,88,18,7,8392,Happy,3,2,3,Medium,Mild Stress
+09/08/2020,66,117,77,17,9,13851,Neutral,5,2,2,Low,Normal
+09/09/2020,71,116,73,15,7,7440,Neutral,4,5,4,Medium,Moderate Stress
+09/10/2020,83,137,73,20,7,8483,Sad,5,3,3,Medium,Mild Stress
+09/11/2020,65,112,63,12,7,9158,Happy,6,3,2,Low,Mild Stress
+09/12/2020,71,96,77,13,8,14606,Sad,4,2,5,Low,Normal
+09/13/2020,78,117,66,13,8,11557,Neutral,5,3,3,Low,Moderate Stress
+09/14/2020,77,94,77,14,9,10261,Anxious,5,4,2,Low,Normal
+09/15/2020,66,102,61,15,8,14743,Happy,4,4,2,Low,Mild Stress
+09/16/2020,72,108,65,15,9,13602,Neutral,3,2,5,Low,Mild Stress
+09/17/2020,71,114,67,16,8,8845,Happy,4,2,5,Low,Normal
+09/18/2020,68,91,72,15,8,12915,Happy,5,3,3,Low,Normal
+09/19/2020,82,157,91,25,4,5686,Neutral,3,2,2,High,Severe Stress
+09/20/2020,79,110,77,19,7,5639,Happy,5,5,2,Medium,Moderate Stress
+09/21/2020,79,119,89,15,6,8783,Happy,3,4,2,Medium,Mild Stress
+09/22/2020,79,114,61,13,7,14539,Happy,3,2,4,Low,Normal
+09/23/2020,73,95,65,13,8,9875,Happy,6,2,2,Low,Normal
+09/24/2020,70,131,87,20,6,8046,Neutral,4,2,2,Medium,Mild Stress
+09/25/2020,69,104,69,14,8,8086,Happy,4,3,4,Low,Normal
+09/26/2020,82,118,85,16,6,8446,Sad,5,2,5,Medium,Moderate Stress
+09/27/2020,72,116,66,13,9,8564,Happy,3,4,5,Low,Mild Stress
+09/28/2020,105,145,98,26,4,6277,Anxious,5,4,5,High,Severe Stress
+09/29/2020,89,120,70,19,7,8040,Neutral,5,3,3,Medium,Normal
+09/30/2020,74,107,60,14,9,10718,Happy,3,2,4,Low,Normal
+10/01/2020,78,91,77,17,7,11007,Neutral,3,3,3,Low,Normal
+10/02/2020,89,147,91,21,5,4132,Happy,4,5,2,High,Anxiety
+10/03/2020,82,135,75,20,7,6607,Sad,5,4,5,Medium,Normal
+10/04/2020,89,124,82,21,7,8382,Sad,4,3,4,Medium,Severe Stress
+10/05/2020,65,103,70,12,7,11270,Happy,3,5,4,Low,Mild Stress
+10/06/2020,79,97,73,13,7,8604,Sad,5,3,3,Low,Mild Stress
+10/07/2020,73,129,82,19,6,5838,Anxious,6,2,5,Medium,Moderate Stress
+10/08/2020,73,110,60,12,7,11320,Sad,6,2,3,Low,Normal
+10/09/2020,67,112,64,13,9,9065,Happy,5,3,3,Low,Normal
+10/10/2020,70,132,79,15,7,9760,Happy,5,3,2,Medium,Mild Stress
+10/11/2020,87,132,71,17,7,5804,Sad,6,5,5,Medium,Moderate Stress
+10/12/2020,60,110,79,16,8,12200,Happy,4,4,4,Low,Normal
+10/13/2020,82,135,82,14,7,7558,Neutral,6,5,5,Medium,Anxiety
+10/14/2020,76,108,74,12,8,13898,Neutral,4,4,5,Low,Normal
+10/15/2020,79,120,87,15,6,5296,Sad,5,4,4,Medium,Mild Stress
+10/16/2020,76,115,60,16,9,13096,Anxious,6,5,5,Low,Normal
+10/17/2020,107,142,80,29,6,7231,Neutral,6,2,4,High,Mild Stress
+10/18/2020,70,114,88,19,7,5618,Neutral,3,2,5,Medium,Normal
+10/19/2020,100,147,97,26,5,3557,Sad,6,5,5,High,Severe Stress
+10/20/2020,76,105,78,12,9,14093,Happy,4,5,5,Low,Mild Stress
+10/21/2020,82,155,86,27,6,4003,Sad,3,4,4,High,Anxiety
+10/22/2020,71,118,66,17,9,13131,Happy,3,3,3,Low,Normal
+10/23/2020,84,142,89,26,4,7024,Anxious,4,2,3,High,Anxiety
+10/24/2020,83,134,84,19,7,5681,Happy,3,5,3,Medium,Mild Stress
+10/25/2020,66,105,70,17,9,14769,Sad,6,3,2,Low,Mild Stress
+10/26/2020,99,155,95,26,4,2460,Sad,4,2,5,High,Moderate Stress
+10/27/2020,61,101,64,17,7,8926,Happy,4,5,2,Low,Normal
+10/28/2020,71,118,62,13,7,14396,Happy,4,3,3,Low,Normal
+10/29/2020,88,122,76,17,6,7358,Happy,4,2,3,Medium,Normal
+10/30/2020,71,104,61,13,7,9645,Happy,4,5,3,Low,Mild Stress
+10/31/2020,61,94,66,17,8,11906,Neutral,4,2,3,Low,Moderate Stress
+11/01/2020,76,99,71,12,8,10570,Anxious,4,3,2,Low,Mild Stress
+11/02/2020,71,111,77,14,9,10428,Happy,6,3,2,Low,Anxiety
+11/03/2020,67,114,78,16,9,14862,Happy,5,4,4,Low,Normal
+11/04/2020,88,127,79,18,6,9264,Happy,3,4,2,Medium,Mild Stress
+11/05/2020,105,141,87,22,5,3908,Neutral,4,2,3,High,Severe Stress
+11/06/2020,70,112,60,14,8,9777,Happy,4,5,2,Low,Anxiety
+11/07/2020,70,126,75,15,6,7605,Neutral,4,5,3,Medium,Moderate Stress
+11/08/2020,79,126,75,19,7,9869,Sad,6,4,3,Medium,Moderate Stress
+11/09/2020,66,97,77,12,7,12820,Happy,3,4,4,Low,Normal
+11/10/2020,82,111,88,15,7,9898,Anxious,5,3,5,Medium,Severe Stress
+11/11/2020,76,108,62,13,9,8328,Happy,3,4,4,Low,Normal
+11/12/2020,70,136,87,17,6,8368,Sad,3,5,5,Medium,Mild Stress
+11/13/2020,80,132,83,18,6,6013,Happy,5,3,2,Medium,Normal
+11/14/2020,98,131,81,23,6,3906,Anxious,3,4,3,High,Severe Stress
+11/15/2020,70,130,72,19,7,8985,Sad,5,2,2,Medium,Normal
+11/16/2020,106,135,91,21,4,3040,Neutral,6,3,5,High,Moderate Stress
+11/17/2020,81,153,93,23,6,5229,Sad,3,4,2,High,Normal
+11/18/2020,60,96,73,16,9,14363,Sad,5,4,2,Low,Normal
+11/19/2020,72,111,76,18,6,6412,Neutral,3,2,5,Medium,Mild Stress
+11/20/2020,77,114,61,12,8,8453,Happy,5,2,2,Low,Normal
+11/21/2020,91,145,98,20,5,4017,Anxious,3,2,4,High,Mild Stress
+11/22/2020,89,114,77,19,6,7263,Anxious,6,5,3,Medium,Mild Stress
+11/23/2020,69,96,73,17,9,11243,Happy,4,4,5,Low,Mild Stress
+11/24/2020,97,144,83,18,6,6309,Sad,4,5,3,High,Mild Stress
+11/25/2020,105,134,95,20,5,7660,Anxious,4,4,2,High,Mild Stress
+11/26/2020,70,106,73,16,8,13906,Neutral,6,2,3,Low,Normal
+11/27/2020,86,137,97,26,4,3951,Anxious,3,4,4,High,Anxiety
+11/28/2020,71,129,73,15,7,9439,Neutral,5,5,3,Medium,Normal
+11/29/2020,86,125,76,21,6,7063,Anxious,6,4,2,Medium,Moderate Stress
+11/30/2020,75,106,68,17,9,10451,Neutral,3,5,2,Low,Normal
+12/01/2020,85,136,80,24,4,3124,Sad,7,10,6,High,Anxiety
+12/02/2020,86,143,89,18,5,5491,Happy,9,10,7,High,Moderate Stress
+12/03/2020,97,143,97,22,5,2136,Anxious,9,9,6,High,Severe Stress
+12/04/2020,72,120,80,20,6,8567,Anxious,7,8,8,Medium,Moderate Stress
+12/05/2020,84,144,97,28,5,5435,Happy,8,9,8,High,Severe Stress
+12/06/2020,88,120,71,16,7,6436,Happy,7,11,6,Medium,Normal
+12/07/2020,88,132,90,29,6,7812,Anxious,9,9,7,High,Normal
+12/08/2020,90,144,98,23,4,5771,Neutral,9,7,9,High,Anxiety
+12/09/2020,67,98,78,14,7,12756,Happy,6,8,5,Low,Normal
+12/10/2020,81,135,93,20,4,3857,Sad,8,10,5,High,Severe Stress
+12/11/2020,83,121,86,21,7,8333,Happy,9,10,6,Medium,Anxiety
+12/12/2020,60,107,71,15,7,9386,Happy,9,10,6,Low,Mild Stress
+12/13/2020,89,138,79,17,6,8793,Sad,9,7,9,Medium,Moderate Stress
+12/14/2020,73,114,70,14,7,9381,Anxious,8,7,5,Medium,Moderate Stress
+12/15/2020,77,137,76,19,6,7523,Happy,6,7,8,Medium,Normal
+12/16/2020,76,115,74,16,7,8806,Sad,7,9,7,Medium,Moderate Stress
+12/17/2020,82,152,86,24,4,4413,Sad,8,7,5,High,Severe Stress
+12/18/2020,95,142,89,26,5,5110,Sad,9,8,6,High,Moderate Stress
+12/19/2020,107,150,94,18,5,4386,Neutral,8,10,5,High,Severe Stress
+12/20/2020,91,151,85,28,6,5292,Neutral,7,6,6,High,Severe Stress
+12/21/2020,91,152,87,22,5,3888,Neutral,9,10,7,High,Severe Stress
+12/22/2020,79,90,67,16,7,10941,Sad,7,7,5,Low,Normal
+12/23/2020,76,124,89,15,6,9859,Anxious,7,7,7,Medium,Moderate Stress
+12/24/2020,62,106,73,17,8,12516,Happy,9,7,8,Low,Moderate Stress
+12/25/2020,93,149,95,26,4,4491,Sad,6,10,6,High,Severe Stress
+12/26/2020,78,114,72,12,7,14382,Happy,7,6,5,Low,Normal
+12/27/2020,89,154,96,18,4,7130,Sad,9,10,6,High,Mild Stress
+12/28/2020,70,133,73,18,7,5779,Happy,6,9,7,Medium,Severe Stress
+12/29/2020,86,151,90,25,4,5641,Anxious,8,9,7,High,Severe Stress
+12/30/2020,95,155,87,26,4,6449,Neutral,8,9,5,High,Severe Stress
+12/31/2020,82,138,87,17,7,8994,Anxious,9,6,8,Medium,Anxiety
+01/01/2021,102,137,95,28,4,3356,Anxious,6,10,6,High,Anxiety
+01/02/2021,107,140,98,20,6,6070,Anxious,9,8,9,High,Moderate Stress
+01/03/2021,101,159,87,18,6,7408,Anxious,7,9,7,High,Moderate Stress
+01/04/2021,89,158,96,28,5,5548,Anxious,9,6,7,High,Severe Stress
+01/05/2021,65,110,68,15,8,11998,Happy,9,6,5,Low,Normal
+01/06/2021,104,136,97,23,5,2235,Anxious,8,7,5,High,Moderate Stress
+01/07/2021,87,154,99,23,6,4026,Sad,6,9,9,High,Severe Stress
+01/08/2021,84,152,88,27,6,4268,Anxious,7,11,7,High,Severe Stress
+01/09/2021,74,127,71,16,7,6127,Sad,8,11,8,Medium,Severe Stress
+01/10/2021,96,151,93,25,6,5189,Anxious,8,8,8,High,Moderate Stress
+01/11/2021,81,139,86,16,7,9607,Happy,9,8,7,Medium,Mild Stress
+01/12/2021,102,139,90,23,5,6584,Anxious,7,9,9,High,Severe Stress
+01/13/2021,91,150,87,20,6,4641,Sad,9,8,6,High,Severe Stress
+01/14/2021,96,146,91,27,6,2877,Sad,6,9,9,High,Mild Stress
+01/15/2021,76,119,86,18,7,7374,Happy,7,8,5,Medium,Normal
+01/16/2021,83,157,92,24,6,4276,Happy,9,6,8,High,Normal
+01/17/2021,72,91,66,12,9,9569,Happy,8,10,6,Low,Anxiety
+01/18/2021,84,146,91,29,6,7062,Sad,6,10,6,High,Moderate Stress
+01/19/2021,75,138,76,14,6,9050,Anxious,6,8,6,Medium,Moderate Stress
+01/20/2021,86,134,74,18,7,7502,Neutral,6,6,7,Medium,Mild Stress
+01/21/2021,90,130,80,22,4,3075,Sad,6,11,7,High,Severe Stress
+01/22/2021,63,94,76,17,7,8513,Sad,6,9,8,Low,Moderate Stress
+01/23/2021,74,132,76,17,6,6079,Neutral,6,11,8,Medium,Mild Stress
+01/24/2021,82,154,98,18,5,3102,Neutral,7,7,5,High,Severe Stress
+01/25/2021,72,116,73,14,9,12722,Neutral,7,8,8,Low,Normal
+01/26/2021,96,137,96,22,4,3875,Sad,6,6,6,High,Mild Stress
+01/27/2021,75,113,81,16,6,5022,Happy,6,10,9,Medium,Normal
+01/28/2021,78,133,84,15,7,7098,Sad,7,10,7,Medium,Moderate Stress
+01/29/2021,83,155,91,23,6,5241,Anxious,8,8,8,High,Mild Stress
+01/30/2021,97,138,88,24,4,6072,Anxious,7,11,7,High,Severe Stress
+01/31/2021,103,140,94,21,5,7541,Anxious,7,7,6,High,Moderate Stress
+02/01/2021,71,117,89,15,6,7886,Sad,4,2,4,Medium,Moderate Stress
+02/02/2021,78,91,79,16,9,10196,Neutral,5,5,3,Low,Normal
+02/03/2021,70,133,83,17,6,8786,Happy,5,4,2,Medium,Moderate Stress
+02/04/2021,71,125,75,19,6,8568,Neutral,5,4,2,Medium,Moderate Stress
+02/05/2021,66,99,70,14,8,11258,Neutral,6,4,3,Low,Moderate Stress
+02/06/2021,88,110,79,15,6,5669,Happy,5,5,4,Medium,Mild Stress
+02/07/2021,86,110,78,17,6,6915,Neutral,6,2,2,Medium,Mild Stress
+02/08/2021,69,100,66,12,8,14866,Neutral,5,4,5,Low,Normal
+02/09/2021,74,116,88,19,6,8196,Anxious,4,3,3,Medium,Normal
+02/10/2021,71,139,84,17,7,6105,Happy,4,5,5,Medium,Normal
+02/11/2021,82,127,71,21,6,6490,Neutral,5,2,4,Medium,Mild Stress
+02/12/2021,100,138,94,20,4,7956,Sad,4,5,2,High,Severe Stress
+02/13/2021,71,114,68,17,9,9185,Neutral,6,2,2,Low,Mild Stress
+02/14/2021,74,111,78,19,6,6465,Neutral,6,2,4,Medium,Mild Stress
+02/15/2021,63,119,75,17,9,14247,Happy,3,2,4,Low,Anxiety
+02/16/2021,77,90,66,16,7,9806,Happy,3,5,3,Low,Mild Stress
+02/17/2021,93,145,80,19,6,4364,Sad,6,2,2,High,Moderate Stress
+02/18/2021,86,137,85,18,6,8937,Happy,5,5,3,Medium,Mild Stress
+02/19/2021,86,124,78,15,7,5916,Anxious,4,2,3,Medium,Normal
+02/20/2021,79,105,68,13,7,11203,Sad,4,2,4,Low,Mild Stress
+02/21/2021,79,111,80,15,7,8349,Happy,4,3,3,Medium,Moderate Stress
+02/22/2021,60,110,67,13,7,14196,Happy,4,3,2,Low,Normal
+02/23/2021,70,110,70,15,7,12945,Happy,4,3,3,Low,Mild Stress
+02/24/2021,69,112,63,16,7,10755,Happy,6,4,2,Low,Mild Stress
+02/25/2021,75,138,80,21,7,8175,Anxious,5,3,5,Medium,Anxiety
+02/26/2021,105,139,88,21,6,7166,Sad,4,3,5,High,Moderate Stress
+02/27/2021,68,102,61,14,7,11183,Happy,6,3,5,Low,Mild Stress
+02/28/2021,60,98,69,15,9,12477,Neutral,5,3,3,Low,Normal
+03/01/2021,82,131,90,26,6,7404,Neutral,5,3,3,High,Severe Stress
+03/02/2021,67,99,77,17,7,12030,Anxious,6,5,5,Low,Mild Stress
+03/03/2021,76,93,76,17,9,10568,Happy,3,5,2,Low,Normal
+03/04/2021,100,144,93,28,6,4731,Anxious,5,3,5,High,Anxiety
+03/05/2021,79,109,63,14,7,14524,Happy,6,2,2,Low,Mild Stress
+03/06/2021,89,142,86,29,5,5346,Happy,3,2,2,High,Moderate Stress
+03/07/2021,79,139,82,15,6,8808,Anxious,6,5,4,Medium,Moderate Stress
+03/08/2021,82,139,84,21,7,7768,Sad,6,5,4,Medium,Mild Stress
+03/09/2021,93,145,96,28,4,3330,Sad,4,4,5,High,Severe Stress
+03/10/2021,73,119,60,16,8,13582,Happy,6,3,3,Low,Mild Stress
+03/11/2021,81,120,89,19,7,6336,Anxious,4,5,2,Medium,Anxiety
+03/12/2021,81,154,84,24,4,5928,Neutral,4,5,2,High,Anxiety
+03/13/2021,62,95,73,15,8,14638,Anxious,5,3,2,Low,Moderate Stress
+03/14/2021,70,106,64,14,7,12471,Happy,5,4,2,Low,Normal
+03/15/2021,74,112,78,15,6,7969,Happy,5,4,2,Medium,Normal
+03/16/2021,106,148,99,18,5,5683,Neutral,5,4,2,High,Severe Stress
+03/17/2021,84,120,81,19,7,9512,Happy,5,5,2,Medium,Mild Stress
+03/18/2021,78,122,81,16,7,5401,Neutral,6,2,4,Medium,Moderate Stress
+03/19/2021,80,118,87,19,6,6112,Anxious,6,2,3,Medium,Mild Stress
+03/20/2021,77,114,74,14,6,5146,Sad,4,3,3,Medium,Severe Stress
+03/21/2021,83,110,85,20,7,7990,Anxious,4,2,5,Medium,Mild Stress
+03/22/2021,67,91,61,14,8,10402,Sad,6,5,4,Low,Mild Stress
+03/23/2021,69,118,60,15,9,12831,Neutral,4,2,4,Low,Normal
+03/24/2021,84,122,71,17,6,5663,Anxious,5,4,3,Medium,Mild Stress
+03/25/2021,68,109,60,12,9,13547,Happy,3,3,2,Low,Normal
+03/26/2021,76,95,67,15,7,8973,Neutral,4,3,5,Low,Normal
+03/27/2021,78,119,79,21,6,9390,Neutral,3,4,4,Medium,Mild Stress
+03/28/2021,79,94,71,15,9,14536,Happy,3,5,4,Low,Severe Stress
+03/29/2021,71,111,78,13,8,9245,Neutral,4,2,2,Low,Normal
+03/30/2021,86,147,87,23,5,3257,Neutral,3,2,4,High,Severe Stress
+03/31/2021,62,92,60,16,9,8179,Happy,3,4,4,Low,Mild Stress
+04/01/2021,72,110,60,15,9,13344,Happy,3,3,3,Low,Normal
+04/02/2021,90,159,94,23,4,6563,Anxious,4,3,5,High,Severe Stress
+04/03/2021,75,123,82,16,7,6074,Sad,5,3,4,Medium,Normal
+04/04/2021,93,153,97,29,5,2924,Sad,6,2,2,High,Moderate Stress
+04/05/2021,72,124,71,14,6,9805,Anxious,5,4,2,Medium,Moderate Stress
+04/06/2021,85,116,72,20,7,9904,Happy,5,5,3,Medium,Anxiety
+04/07/2021,66,99,65,17,7,11240,Happy,3,4,4,Low,Normal
+04/08/2021,66,113,61,12,9,8295,Neutral,3,5,4,Low,Mild Stress
+04/09/2021,89,116,84,14,6,8693,Sad,6,2,3,Medium,Severe Stress
+04/10/2021,88,139,83,18,5,6369,Anxious,3,2,4,High,Normal
+04/11/2021,72,131,83,15,6,6559,Neutral,6,4,5,Medium,Moderate Stress
+04/12/2021,65,119,66,13,7,14007,Happy,3,2,4,Low,Normal
+04/13/2021,89,156,96,21,6,6825,Anxious,3,2,4,High,Moderate Stress
+04/14/2021,85,142,84,28,5,7069,Anxious,4,2,3,High,Anxiety
+04/15/2021,76,119,85,15,7,8988,Happy,3,2,4,Medium,Moderate Stress
+04/16/2021,72,116,60,16,9,9832,Sad,3,5,5,Low,Severe Stress
+04/17/2021,81,114,75,14,6,7840,Anxious,4,3,4,Medium,Normal
+04/18/2021,87,111,78,21,6,6389,Happy,3,2,5,Medium,Normal
+04/19/2021,70,114,77,15,7,11364,Neutral,5,2,5,Low,Normal
+04/20/2021,75,119,61,12,7,13845,Happy,4,2,5,Low,Mild Stress
+04/21/2021,69,118,71,17,9,14175,Sad,5,2,4,Low,Mild Stress
+04/22/2021,69,105,66,15,9,14963,Anxious,5,4,5,Low,Mild Stress
+04/23/2021,102,146,92,28,5,5810,Anxious,4,2,4,High,Severe Stress
+04/24/2021,83,126,72,17,7,9431,Neutral,3,5,4,Medium,Anxiety
+04/25/2021,101,152,80,29,6,3444,Sad,6,3,2,High,Severe Stress
+04/26/2021,85,125,71,15,7,5071,Happy,4,2,2,Medium,Mild Stress
+04/27/2021,79,102,78,12,9,10028,Sad,4,3,2,Low,Mild Stress
+04/28/2021,80,110,83,21,6,6440,Sad,5,5,4,Medium,Normal
+04/29/2021,94,143,90,20,4,6218,Happy,5,2,2,High,Mild Stress
+04/30/2021,74,120,73,16,7,9921,Sad,3,2,4,Medium,Mild Stress
+05/01/2021,91,130,98,22,5,3194,Sad,6,6,8,High,Mild Stress
+05/02/2021,94,134,83,27,4,3074,Anxious,8,6,8,High,Moderate Stress
+05/03/2021,103,152,97,18,6,3855,Sad,8,8,8,High,Anxiety
+05/04/2021,98,158,80,21,4,2988,Anxious,9,6,6,High,Severe Stress
+05/05/2021,72,132,78,20,7,7324,Neutral,8,10,6,Medium,Mild Stress
+05/06/2021,80,118,84,20,7,8520,Neutral,7,8,5,Medium,Severe Stress
+05/07/2021,106,143,91,18,4,7093,Neutral,8,8,5,High,Moderate Stress
+05/08/2021,85,134,85,19,6,5471,Happy,8,10,7,Medium,Normal
+05/09/2021,76,117,78,16,7,10784,Neutral,9,10,7,Low,Moderate Stress
+05/10/2021,101,142,97,25,4,2774,Anxious,6,9,9,High,Severe Stress
+05/11/2021,81,134,80,26,4,3505,Sad,6,9,6,High,Severe Stress
+05/12/2021,85,130,82,20,7,6406,Neutral,7,11,8,Medium,Moderate Stress
+05/13/2021,88,132,98,27,4,2690,Neutral,7,11,9,High,Severe Stress
+05/14/2021,103,138,92,19,6,5695,Happy,8,6,7,High,Severe Stress
+05/15/2021,100,136,99,25,5,5044,Sad,6,6,6,High,Severe Stress
+05/16/2021,88,139,85,18,4,2707,Neutral,8,8,6,High,Moderate Stress
+05/17/2021,87,146,84,26,4,6268,Sad,9,7,7,High,Severe Stress
+05/18/2021,81,120,77,21,6,9261,Neutral,7,8,8,Medium,Moderate Stress
+05/19/2021,79,125,73,16,7,7474,Neutral,9,6,7,Medium,Mild Stress
+05/20/2021,68,116,76,15,7,11884,Happy,7,10,7,Low,Mild Stress
+05/21/2021,88,152,84,28,5,6784,Sad,8,11,9,High,Moderate Stress
+05/22/2021,74,132,77,16,7,5689,Anxious,6,7,9,Medium,Moderate Stress
+05/23/2021,85,124,75,14,6,8917,Sad,8,6,7,Medium,Normal
+05/24/2021,91,146,84,28,4,5340,Neutral,6,9,5,High,Severe Stress
+05/25/2021,87,133,81,14,6,9817,Neutral,8,8,8,Medium,Normal
+05/26/2021,93,132,84,20,6,2998,Sad,6,10,7,High,Normal
+05/27/2021,95,138,81,24,4,6412,Anxious,6,11,8,High,Severe Stress
+05/28/2021,103,147,90,25,6,3728,Anxious,9,10,9,High,Severe Stress
+05/29/2021,76,132,74,18,6,9637,Sad,6,8,9,Medium,Moderate Stress
+05/30/2021,94,142,92,25,6,2209,Anxious,7,7,5,High,Anxiety
+05/31/2021,67,92,62,15,9,9038,Happy,6,11,6,Low,Mild Stress
+06/01/2021,75,117,70,18,7,9354,Anxious,8,6,5,Medium,Mild Stress
+06/02/2021,95,133,80,21,4,2672,Happy,7,8,8,High,Severe Stress
+06/03/2021,73,139,88,20,6,8080,Happy,7,9,6,Medium,Normal
+06/04/2021,106,135,81,20,5,7243,Neutral,9,11,9,High,Anxiety
+06/05/2021,70,106,78,14,8,13955,Neutral,6,7,6,Low,Normal
+06/06/2021,100,155,98,29,5,2023,Anxious,6,7,7,High,Severe Stress
+06/07/2021,104,149,91,19,5,7056,Sad,9,6,8,High,Mild Stress
+06/08/2021,80,139,93,23,4,7137,Neutral,9,10,7,High,Severe Stress
+06/09/2021,96,147,98,26,4,2302,Sad,7,10,5,High,Moderate Stress
+06/10/2021,82,152,89,20,4,2684,Anxious,7,11,8,High,Anxiety
+06/11/2021,67,96,73,14,8,13205,Sad,6,6,7,Low,Mild Stress
+06/12/2021,73,119,72,16,7,5069,Neutral,6,9,5,Medium,Normal
+06/13/2021,78,119,82,20,7,7372,Happy,9,9,6,Medium,Mild Stress
+06/14/2021,66,106,78,15,8,12320,Happy,8,10,7,Low,Normal
+06/15/2021,108,140,90,19,4,6833,Anxious,7,11,9,High,Anxiety
+06/16/2021,90,158,91,26,4,5503,Sad,7,9,9,High,Moderate Stress
+06/17/2021,84,151,96,26,5,7922,Anxious,8,8,6,High,Severe Stress
+06/18/2021,98,151,95,19,6,5884,Happy,7,7,5,High,Moderate Stress
+06/19/2021,98,140,84,19,5,3391,Anxious,9,6,7,High,Moderate Stress
+06/20/2021,75,99,71,12,8,8731,Neutral,7,7,6,Low,Anxiety
+06/21/2021,87,117,80,20,6,8367,Neutral,7,11,9,Medium,Moderate Stress
+06/22/2021,73,134,89,19,7,8466,Happy,9,9,7,Medium,Normal
+06/23/2021,95,144,90,19,6,6975,Anxious,6,6,7,High,Anxiety
+06/24/2021,101,132,86,23,4,3995,Sad,9,8,6,High,Moderate Stress
+06/25/2021,102,142,91,18,6,3884,Sad,6,9,7,High,Severe Stress
+06/26/2021,94,130,86,18,4,7215,Anxious,7,10,7,High,Severe Stress
+06/27/2021,76,121,89,20,6,5080,Happy,6,7,7,Medium,Moderate Stress
+06/28/2021,79,103,63,16,9,13740,Neutral,8,11,5,Low,Normal
+06/29/2021,108,158,85,25,6,4287,Anxious,6,6,5,High,Mild Stress
+06/30/2021,92,159,91,27,6,3426,Sad,9,8,6,High,Severe Stress
+07/01/2021,62,95,75,13,9,9883,Neutral,3,1,1,Low,Moderate Stress
+07/02/2021,79,96,63,16,7,12150,Happy,2,0,1,Low,Severe Stress
+07/03/2021,78,110,62,14,8,12394,Neutral,1,0,0,Low,Mild Stress
+07/04/2021,84,131,74,18,6,5007,Sad,2,0,2,Medium,Severe Stress
+07/05/2021,67,118,68,17,8,8660,Happy,2,1,0,Low,Anxiety
+07/06/2021,88,113,87,17,6,8537,Anxious,1,0,1,Medium,Normal
+07/07/2021,79,105,79,16,8,8922,Happy,2,0,0,Low,Normal
+07/08/2021,67,91,65,17,8,12587,Neutral,2,2,2,Low,Normal
+07/09/2021,68,109,78,17,8,10899,Happy,3,1,2,Low,Normal
+07/10/2021,79,134,83,16,7,9974,Neutral,3,2,0,Medium,Mild Stress
+07/11/2021,105,144,98,29,4,6157,Neutral,3,2,0,High,Anxiety
+07/12/2021,78,114,71,16,7,9458,Happy,1,0,1,Low,Mild Stress
+07/13/2021,89,113,84,16,6,8044,Happy,2,2,2,Medium,Mild Stress
+07/14/2021,61,100,61,12,8,9601,Anxious,3,0,1,Low,Mild Stress
+07/15/2021,79,124,79,18,6,6750,Sad,1,1,0,Medium,Moderate Stress
+07/16/2021,70,132,75,15,7,6091,Happy,1,1,0,Medium,Anxiety
+07/17/2021,62,109,69,16,8,8819,Neutral,2,1,0,Low,Normal
+07/18/2021,76,119,88,14,7,5227,Neutral,1,1,1,Medium,Normal
+07/19/2021,79,126,83,19,7,9114,Neutral,1,2,1,Medium,Moderate Stress
+07/20/2021,70,96,68,15,7,14078,Happy,1,2,1,Low,Moderate Stress
+07/21/2021,61,98,71,13,8,13636,Happy,2,0,2,Low,Normal
+07/22/2021,101,156,89,27,4,5817,Anxious,2,1,1,High,Anxiety
+07/23/2021,74,114,78,13,7,10179,Happy,3,2,1,Low,Moderate Stress
+07/24/2021,73,105,78,13,7,11166,Neutral,1,2,1,Low,Normal
+07/25/2021,78,119,62,16,9,14976,Neutral,2,1,2,Low,Normal
+07/26/2021,75,110,77,14,6,7538,Happy,1,2,2,Medium,Mild Stress
+07/27/2021,69,113,71,12,9,8528,Neutral,2,1,2,Low,Moderate Stress
+07/28/2021,64,107,76,17,7,14044,Anxious,3,1,2,Low,Normal
+07/29/2021,92,139,84,27,5,4000,Sad,3,0,1,High,Anxiety
+07/30/2021,76,133,85,18,6,6275,Neutral,2,2,1,Medium,Anxiety
+07/31/2021,71,116,82,16,6,5738,Anxious,3,2,2,Medium,Moderate Stress
+08/01/2021,74,113,66,12,7,10652,Happy,1,2,1,Low,Mild Stress
+08/02/2021,87,112,86,15,7,6345,Sad,2,2,0,Medium,Mild Stress
+08/03/2021,72,112,89,20,7,8483,Neutral,2,1,0,Medium,Anxiety
+08/04/2021,76,97,66,12,7,14711,Happy,3,1,2,Low,Moderate Stress
+08/05/2021,66,101,79,16,7,11955,Happy,2,2,2,Low,Normal
+08/06/2021,73,125,79,16,7,7142,Happy,1,0,1,Medium,Mild Stress
+08/07/2021,95,148,86,23,5,6234,Sad,1,1,1,High,Mild Stress
+08/08/2021,69,109,77,15,7,8036,Neutral,2,2,0,Low,Mild Stress
+08/09/2021,68,102,66,13,7,14333,Neutral,3,0,0,Low,Normal
+08/10/2021,78,105,78,14,9,10729,Neutral,2,0,1,Low,Mild Stress
+08/11/2021,62,112,71,14,9,11544,Anxious,1,1,0,Low,Normal
+08/12/2021,85,133,81,18,7,5039,Sad,2,1,1,Medium,Mild Stress
+08/13/2021,69,107,63,14,7,14001,Anxious,2,2,0,Low,Normal
+08/14/2021,60,105,74,17,9,12513,Anxious,2,2,0,Low,Normal
+08/15/2021,75,128,80,14,6,9252,Happy,1,0,0,Medium,Mild Stress
+08/16/2021,64,110,63,13,8,13032,Neutral,2,2,1,Low,Normal
+08/17/2021,74,107,62,13,8,14753,Happy,3,2,2,Low,Normal
+08/18/2021,72,113,78,15,7,12829,Sad,2,0,0,Low,Normal
+08/19/2021,92,135,98,20,6,7896,Happy,2,2,0,High,Anxiety
+08/20/2021,100,151,89,24,4,4428,Anxious,3,0,1,High,Normal
+08/21/2021,71,95,60,15,9,10347,Happy,3,2,1,Low,Normal
+08/22/2021,80,125,78,16,7,5607,Neutral,2,2,1,Medium,Mild Stress
+08/23/2021,64,102,75,12,7,11838,Neutral,1,0,1,Low,Normal
+08/24/2021,79,104,74,17,9,9780,Happy,1,1,0,Low,Mild Stress
+08/25/2021,73,97,75,17,7,12687,Happy,3,0,2,Low,Mild Stress
+08/26/2021,103,153,94,26,5,6514,Neutral,1,2,0,High,Anxiety
+08/27/2021,73,116,66,14,9,14991,Neutral,3,0,1,Low,Normal
+08/28/2021,67,116,60,13,7,11046,Neutral,2,0,0,Low,Normal
+08/29/2021,63,102,71,16,9,10759,Sad,2,1,0,Low,Normal
+08/30/2021,60,109,61,15,7,12768,Happy,1,2,2,Low,Normal
+08/31/2021,69,111,65,16,7,11444,Happy,1,0,0,Low,Moderate Stress
+09/01/2021,76,119,76,18,7,7428,Neutral,4,4,5,Medium,Mild Stress
+09/02/2021,71,119,64,17,9,10073,Happy,6,2,4,Low,Mild Stress
+09/03/2021,77,134,76,20,6,7992,Sad,3,2,3,Medium,Mild Stress
+09/04/2021,63,110,79,13,7,9943,Neutral,4,3,5,Low,Mild Stress
+09/05/2021,65,105,79,17,9,11467,Happy,6,4,2,Low,Normal
+09/06/2021,84,123,79,17,7,8598,Sad,6,4,4,Medium,Severe Stress
+09/07/2021,68,110,79,14,9,12742,Happy,6,2,2,Low,Normal
+09/08/2021,75,98,63,13,8,12337,Happy,5,2,3,Low,Mild Stress
+09/09/2021,77,108,62,12,9,12656,Neutral,5,4,3,Low,Mild Stress
+09/10/2021,84,112,88,17,6,5613,Sad,5,2,4,Medium,Normal
+09/11/2021,80,138,96,23,4,6482,Happy,3,4,3,High,Anxiety
+09/12/2021,71,114,74,14,7,12791,Anxious,6,2,4,Low,Normal
+09/13/2021,71,135,88,19,7,7533,Neutral,5,2,4,Medium,Moderate Stress
+09/14/2021,70,117,62,14,8,10611,Neutral,6,2,2,Low,Moderate Stress
+09/15/2021,78,111,74,13,8,14560,Sad,3,3,4,Low,Moderate Stress
+09/16/2021,89,156,94,28,6,2089,Neutral,3,5,2,High,Severe Stress
+09/17/2021,86,111,74,21,6,7619,Sad,3,4,5,Medium,Mild Stress
+09/18/2021,73,91,61,12,7,12227,Sad,5,3,5,Low,Anxiety
+09/19/2021,88,115,88,16,6,7290,Anxious,4,4,3,Medium,Normal
+09/20/2021,87,123,88,17,7,5174,Sad,4,4,4,Medium,Normal
+09/21/2021,88,137,86,17,6,7067,Neutral,5,4,5,Medium,Moderate Stress
+09/22/2021,78,93,64,13,7,11371,Happy,3,5,3,Low,Normal
+09/23/2021,86,135,72,20,7,5979,Sad,3,5,2,Medium,Severe Stress
+09/24/2021,60,111,71,16,7,9626,Neutral,4,3,4,Low,Mild Stress
+09/25/2021,107,131,95,22,6,6969,Neutral,5,2,5,High,Severe Stress
+09/26/2021,104,133,96,25,4,4945,Sad,3,3,5,High,Anxiety
+09/27/2021,86,129,80,18,6,9295,Neutral,6,5,5,Medium,Mild Stress
+09/28/2021,107,131,90,25,4,2724,Sad,5,4,3,High,Moderate Stress
+09/29/2021,78,101,79,15,9,12420,Happy,5,4,3,Low,Mild Stress
+09/30/2021,76,103,69,14,8,8631,Neutral,4,5,4,Low,Normal
+10/01/2021,89,135,80,19,6,9772,Happy,4,2,2,Medium,Anxiety
+10/02/2021,106,151,91,24,5,4868,Sad,3,2,3,High,Severe Stress
+10/03/2021,69,119,79,15,8,8540,Sad,6,4,2,Low,Normal
+10/04/2021,62,115,64,12,8,8761,Neutral,6,5,5,Low,Normal
+10/05/2021,87,110,88,17,7,8845,Sad,4,3,3,Medium,Moderate Stress
+10/06/2021,73,94,68,13,7,11270,Happy,5,3,3,Low,Mild Stress
+10/07/2021,79,110,74,15,9,9183,Happy,5,2,5,Low,Anxiety
+10/08/2021,67,112,65,13,9,13407,Happy,4,5,2,Low,Mild Stress
+10/09/2021,65,119,77,16,9,13055,Sad,3,5,3,Low,Mild Stress
+10/10/2021,72,91,63,17,7,12632,Happy,6,3,2,Low,Severe Stress
+10/11/2021,79,114,86,19,6,8728,Anxious,6,3,3,Medium,Anxiety
+10/12/2021,83,118,76,16,7,9889,Neutral,4,5,3,Medium,Moderate Stress
+10/13/2021,87,132,97,20,6,5404,Sad,4,2,4,High,Anxiety
+10/14/2021,74,99,74,16,8,10160,Neutral,3,2,2,Low,Normal
+10/15/2021,105,153,85,23,4,5470,Sad,6,5,3,High,Anxiety
+10/16/2021,91,136,99,26,6,3223,Anxious,5,2,4,High,Moderate Stress
+10/17/2021,63,109,77,14,9,8077,Anxious,6,5,2,Low,Normal
+10/18/2021,77,133,83,19,7,8711,Happy,5,2,2,Medium,Anxiety
+10/19/2021,82,128,81,21,6,7142,Neutral,3,5,2,Medium,Normal
+10/20/2021,83,115,80,17,6,8939,Neutral,4,4,3,Medium,Moderate Stress
+10/21/2021,77,117,77,21,6,7283,Sad,6,2,4,Medium,Mild Stress
+10/22/2021,92,152,98,23,4,4398,Neutral,4,5,2,High,Moderate Stress
+10/23/2021,103,131,86,23,4,5580,Sad,4,3,2,High,Moderate Stress
+10/24/2021,74,116,68,14,8,12696,Anxious,3,2,4,Low,Normal
+10/25/2021,86,113,84,14,7,8932,Sad,3,5,5,Medium,Moderate Stress
+10/26/2021,77,137,82,16,6,5216,Neutral,4,4,4,Medium,Normal
+10/27/2021,83,128,81,21,7,6296,Sad,3,4,5,Medium,Mild Stress
+10/28/2021,85,121,82,14,7,9492,Anxious,6,2,3,Medium,Moderate Stress
+10/29/2021,84,111,75,14,7,5496,Sad,3,4,2,Medium,Moderate Stress
+10/30/2021,73,106,78,12,7,12364,Happy,4,4,3,Low,Moderate Stress
+10/31/2021,69,108,78,14,9,8595,Happy,5,2,3,Low,Mild Stress
+11/01/2021,66,105,66,13,8,14553,Happy,3,2,5,Low,Mild Stress
+11/02/2021,76,111,72,15,8,9856,Happy,6,2,3,Low,Normal
+11/03/2021,78,112,73,15,7,7311,Neutral,5,4,3,Medium,Severe Stress
+11/04/2021,94,146,97,23,6,7165,Sad,5,4,2,High,Anxiety
+11/05/2021,85,125,77,20,7,9801,Happy,6,4,4,Medium,Normal
+11/06/2021,106,158,84,28,5,5442,Sad,5,3,5,High,Severe Stress
+11/07/2021,60,114,72,17,7,14513,Neutral,5,3,2,Low,Normal
+11/08/2021,64,117,78,16,8,13396,Happy,6,5,4,Low,Normal
+11/09/2021,73,111,75,17,6,8881,Happy,6,3,5,Medium,Normal
+11/10/2021,84,154,92,29,6,7212,Neutral,5,4,5,High,Moderate Stress
+11/11/2021,81,128,77,20,7,8841,Sad,4,2,4,Medium,Severe Stress
+11/12/2021,72,100,69,14,8,8759,Neutral,3,2,5,Low,Mild Stress
+11/13/2021,89,119,83,17,6,6718,Sad,3,4,3,Medium,Anxiety
+11/14/2021,79,114,79,15,6,5898,Sad,4,2,2,Medium,Mild Stress
+11/15/2021,86,119,81,15,7,8424,Anxious,6,4,2,Medium,Anxiety
+11/16/2021,86,137,74,15,6,7449,Neutral,4,5,2,Medium,Anxiety
+11/17/2021,96,156,90,25,4,2364,Sad,5,3,2,High,Normal
+11/18/2021,86,114,89,16,6,6753,Anxious,6,5,2,Medium,Normal
+11/19/2021,78,131,86,21,7,9744,Neutral,5,2,2,Medium,Mild Stress
+11/20/2021,94,133,83,21,5,5355,Anxious,4,4,5,High,Severe Stress
+11/21/2021,82,143,80,27,6,2142,Anxious,4,5,5,High,Severe Stress
+11/22/2021,83,127,72,19,7,5786,Sad,4,2,3,Medium,Anxiety
+11/23/2021,62,108,70,17,9,14994,Happy,4,2,5,Low,Normal
+11/24/2021,70,122,73,19,6,5658,Anxious,5,3,5,Medium,Mild Stress
+11/25/2021,79,112,72,17,7,8247,Happy,6,4,5,Medium,Normal
+11/26/2021,71,105,77,16,8,10082,Sad,6,2,3,Low,Severe Stress
+11/27/2021,83,114,83,14,6,8815,Sad,5,4,4,Medium,Mild Stress
+11/28/2021,88,135,89,19,6,8610,Neutral,4,5,4,Medium,Moderate Stress
+11/29/2021,79,124,85,14,7,5722,Happy,3,2,5,Medium,Mild Stress
+11/30/2021,67,94,66,17,7,8567,Happy,6,5,5,Low,Normal
+12/01/2021,95,158,83,23,4,7752,Neutral,6,9,9,High,Severe Stress
+12/02/2021,89,133,97,19,4,5348,Anxious,7,6,9,High,Anxiety
+12/03/2021,95,141,83,18,4,2148,Neutral,9,10,6,High,Severe Stress
+12/04/2021,86,140,83,22,5,7727,Anxious,6,7,8,High,Severe Stress
+12/05/2021,96,137,92,28,5,5162,Neutral,7,10,6,High,Severe Stress
+12/06/2021,75,95,78,13,8,13541,Neutral,8,6,7,Low,Mild Stress
+12/07/2021,74,114,75,15,7,7474,Anxious,6,8,5,Medium,Mild Stress
+12/08/2021,85,120,73,21,6,5056,Anxious,9,8,7,Medium,Mild Stress
+12/09/2021,80,155,88,29,6,6971,Sad,7,6,6,High,Severe Stress
+12/10/2021,85,150,98,19,6,3089,Neutral,9,7,8,High,Severe Stress
+12/11/2021,84,117,82,17,7,6998,Happy,8,8,7,Medium,Severe Stress
+12/12/2021,86,128,78,20,6,8033,Happy,8,8,9,Medium,Mild Stress
+12/13/2021,100,159,84,24,4,3237,Sad,7,8,5,High,Mild Stress
+12/14/2021,98,139,82,28,6,3947,Happy,8,7,5,High,Moderate Stress
+12/15/2021,73,130,75,17,6,5309,Anxious,6,6,6,Medium,Mild Stress
+12/16/2021,92,132,81,23,5,6908,Happy,9,7,5,High,Anxiety
+12/17/2021,75,115,79,13,7,10769,Neutral,8,6,5,Low,Normal
+12/18/2021,82,131,74,17,7,5763,Happy,9,11,6,Medium,Moderate Stress
+12/19/2021,79,102,74,15,7,12255,Neutral,6,11,8,Low,Mild Stress
+12/20/2021,101,151,95,28,4,5131,Anxious,8,10,7,High,Severe Stress
+12/21/2021,79,135,73,14,7,5857,Neutral,6,11,7,Medium,Moderate Stress
+12/22/2021,82,132,85,19,6,6607,Happy,6,9,7,Medium,Severe Stress
+12/23/2021,98,130,88,19,4,6473,Sad,9,9,6,High,Normal
+12/24/2021,101,152,94,18,5,7318,Anxious,6,9,8,High,Normal
+12/25/2021,75,137,74,14,6,7666,Neutral,6,10,7,Medium,Moderate Stress
+12/26/2021,91,146,84,23,6,3542,Happy,6,11,7,High,Moderate Stress
+12/27/2021,92,145,97,18,4,6042,Sad,6,7,5,High,Moderate Stress
+12/28/2021,82,121,84,20,7,8124,Sad,6,9,8,Medium,Normal
+12/29/2021,104,131,99,20,6,4991,Happy,8,6,5,High,Normal
+12/30/2021,98,133,86,24,5,7841,Happy,6,11,6,High,Severe Stress
+12/31/2021,94,130,82,28,5,3405,Anxious,6,6,6,High,Moderate Stress
+01/01/2022,97,150,94,21,4,4206,Sad,7,11,7,High,Moderate Stress
+01/02/2022,105,133,87,18,6,5342,Anxious,8,7,5,High,Mild Stress
+01/03/2022,79,127,84,14,7,6033,Happy,7,10,7,Medium,Normal
+01/04/2022,87,135,73,19,7,9169,Sad,7,7,5,Medium,Moderate Stress
+01/05/2022,79,133,80,18,7,6032,Anxious,9,10,6,Medium,Mild Stress
+01/06/2022,84,127,73,16,7,5633,Happy,9,6,9,Medium,Mild Stress
+01/07/2022,90,156,80,19,4,7476,Anxious,7,7,5,High,Anxiety
+01/08/2022,109,144,98,26,4,6994,Anxious,8,11,5,High,Normal
+01/09/2022,88,114,71,20,7,8628,Happy,8,10,7,Medium,Anxiety
+01/10/2022,87,147,82,25,4,2961,Sad,7,7,9,High,Moderate Stress
+01/11/2022,108,136,84,24,4,4123,Sad,7,10,6,High,Moderate Stress
+01/12/2022,86,155,82,19,5,7192,Sad,8,8,5,High,Severe Stress
+01/13/2022,79,122,81,16,6,6851,Sad,8,8,9,Medium,Moderate Stress
+01/14/2022,101,150,83,25,5,4461,Anxious,9,7,9,High,Normal
+01/15/2022,89,137,82,16,7,9057,Happy,7,8,5,Medium,Severe Stress
+01/16/2022,93,132,92,19,5,4772,Sad,8,9,8,High,Mild Stress
+01/17/2022,94,130,86,22,6,5994,Sad,7,11,8,High,Severe Stress
+01/18/2022,83,127,78,14,7,5639,Happy,6,7,9,Medium,Normal
+01/19/2022,86,133,90,29,5,6844,Anxious,7,10,9,High,Anxiety
+01/20/2022,104,155,85,29,6,4050,Neutral,9,11,9,High,Severe Stress
+01/21/2022,102,140,84,26,6,7506,Anxious,9,11,8,High,Severe Stress
+01/22/2022,100,145,89,23,5,6606,Anxious,6,9,9,High,Severe Stress
+01/23/2022,81,112,73,19,7,9050,Happy,6,6,5,Medium,Moderate Stress
+01/24/2022,102,138,91,24,4,4446,Neutral,8,11,9,High,Anxiety
+01/25/2022,87,126,80,15,6,5628,Sad,8,7,8,Medium,Mild Stress
+01/26/2022,96,134,91,26,5,4963,Neutral,9,7,8,High,Severe Stress
+01/27/2022,87,130,96,26,4,3363,Anxious,7,10,5,High,Severe Stress
+01/28/2022,80,157,84,20,4,7965,Anxious,9,9,6,High,Severe Stress
+01/29/2022,89,132,86,27,4,4755,Happy,6,9,6,High,Moderate Stress
+01/30/2022,89,134,86,29,4,2089,Sad,9,10,6,High,Anxiety
+01/31/2022,94,148,99,20,5,3465,Anxious,9,6,6,High,Moderate Stress
+02/01/2022,80,134,89,23,4,2611,Happy,3,5,4,High,Moderate Stress
+02/02/2022,75,108,74,13,8,12019,Neutral,5,5,5,Low,Normal
+02/03/2022,102,148,97,29,6,4713,Happy,5,3,4,High,Anxiety
+02/04/2022,81,137,92,24,5,6964,Sad,6,2,3,High,Anxiety
+02/05/2022,78,114,83,18,7,8404,Happy,5,5,3,Medium,Moderate Stress
+02/06/2022,61,117,72,12,8,13578,Neutral,4,3,2,Low,Moderate Stress
+02/07/2022,74,125,77,16,7,7188,Neutral,6,4,4,Medium,Moderate Stress
+02/08/2022,71,103,77,14,8,8079,Neutral,3,3,2,Low,Mild Stress
+02/09/2022,92,158,83,26,6,7707,Anxious,3,5,3,High,Anxiety
+02/10/2022,99,145,99,25,6,4511,Happy,5,3,2,High,Mild Stress
+02/11/2022,71,106,74,13,7,10004,Happy,3,2,2,Low,Mild Stress
+02/12/2022,61,104,60,12,9,11491,Neutral,3,4,5,Low,Moderate Stress
+02/13/2022,102,144,92,24,4,2589,Neutral,3,5,5,High,Anxiety
+02/14/2022,79,104,63,17,8,9841,Happy,5,3,3,Low,Mild Stress
+02/15/2022,69,117,79,14,8,12297,Neutral,3,2,5,Low,Anxiety
+02/16/2022,75,119,71,21,7,8611,Anxious,3,3,4,Medium,Normal
+02/17/2022,77,100,69,14,9,10433,Neutral,3,2,4,Low,Normal
+02/18/2022,88,113,89,20,7,9789,Neutral,5,3,5,Medium,Mild Stress
+02/19/2022,84,123,76,14,6,7397,Neutral,5,2,3,Medium,Normal
+02/20/2022,103,154,97,26,4,3212,Sad,5,5,5,High,Moderate Stress
+02/21/2022,106,156,98,26,5,3872,Sad,6,5,2,High,Anxiety
+02/22/2022,77,123,71,16,6,8191,Happy,4,2,2,Medium,Anxiety
+02/23/2022,77,116,77,17,7,6910,Neutral,5,5,2,Medium,Mild Stress
+02/24/2022,86,136,71,18,7,7841,Sad,5,2,2,Medium,Moderate Stress
+02/25/2022,85,158,96,29,4,7698,Sad,5,5,4,High,Severe Stress
+02/26/2022,62,96,78,15,7,13967,Neutral,5,2,4,Low,Normal
+02/27/2022,71,135,82,19,7,8381,Anxious,3,2,2,Medium,Moderate Stress
+02/28/2022,77,97,74,16,7,9295,Anxious,3,5,3,Low,Moderate Stress
+03/01/2022,92,134,85,21,5,4802,Sad,6,3,4,High,Severe Stress
+03/02/2022,61,99,75,12,9,9047,Happy,4,3,3,Low,Normal
+03/03/2022,89,128,86,21,7,5287,Sad,3,4,3,Medium,Anxiety
+03/04/2022,86,126,86,17,6,5721,Neutral,4,5,2,Medium,Mild Stress
+03/05/2022,79,111,74,15,9,9128,Anxious,4,2,3,Low,Normal
+03/06/2022,74,116,73,13,9,11312,Happy,4,4,5,Low,Anxiety
+03/07/2022,61,90,75,17,9,11454,Neutral,4,5,3,Low,Moderate Stress
+03/08/2022,76,127,78,20,7,6507,Sad,3,3,5,Medium,Moderate Stress
+03/09/2022,76,135,82,19,7,5908,Anxious,4,5,5,Medium,Severe Stress
+03/10/2022,99,133,97,24,6,4100,Sad,6,5,5,High,Severe Stress
+03/11/2022,75,92,76,12,7,12915,Neutral,4,5,4,Low,Normal
+03/12/2022,96,149,94,18,5,5647,Neutral,3,3,5,High,Mild Stress
+03/13/2022,75,139,84,16,6,6550,Neutral,4,4,5,Medium,Mild Stress
+03/14/2022,85,116,79,17,6,7182,Neutral,5,5,4,Medium,Severe Stress
+03/15/2022,104,138,92,19,4,2367,Anxious,4,5,5,High,Moderate Stress
+03/16/2022,100,150,98,24,6,5889,Anxious,5,5,5,High,Anxiety
+03/17/2022,89,118,77,16,7,9348,Anxious,5,2,3,Medium,Moderate Stress
+03/18/2022,109,142,85,22,4,6636,Happy,5,3,4,High,Moderate Stress
+03/19/2022,87,151,81,26,4,3274,Anxious,3,5,5,High,Severe Stress
+03/20/2022,74,116,62,17,7,10475,Neutral,4,5,2,Low,Normal
+03/21/2022,69,118,71,14,9,11333,Sad,3,5,3,Low,Mild Stress
+03/22/2022,81,147,80,25,4,7419,Anxious,6,2,3,High,Moderate Stress
+03/23/2022,93,140,90,18,4,4886,Anxious,3,2,4,High,Anxiety
+03/24/2022,64,98,71,17,8,11291,Anxious,5,2,3,Low,Normal
+03/25/2022,105,156,99,18,5,7524,Sad,6,5,3,High,Anxiety
+03/26/2022,89,134,82,14,6,6351,Sad,5,5,3,Medium,Moderate Stress
+03/27/2022,65,100,72,15,8,14593,Neutral,5,5,2,Low,Normal
+03/28/2022,66,104,70,14,8,11833,Happy,4,2,3,Low,Normal
+03/29/2022,72,115,71,15,8,10056,Neutral,6,2,2,Low,Mild Stress
+03/30/2022,71,117,81,18,6,6046,Sad,3,2,3,Medium,Anxiety
+03/31/2022,66,115,60,12,9,8755,Neutral,4,5,3,Low,Normal
+04/01/2022,78,104,71,12,8,13253,Neutral,5,3,3,Low,Normal
+04/02/2022,73,126,71,21,7,5071,Anxious,4,5,5,Medium,Mild Stress
+04/03/2022,73,97,62,16,8,8885,Happy,4,3,5,Low,Mild Stress
+04/04/2022,88,116,72,21,6,8744,Sad,4,2,5,Medium,Mild Stress
+04/05/2022,70,115,78,20,6,8970,Anxious,5,3,3,Medium,Moderate Stress
+04/06/2022,91,131,96,20,5,4927,Anxious,5,2,4,High,Moderate Stress
+04/07/2022,71,112,64,12,7,13521,Happy,6,5,3,Low,Mild Stress
+04/08/2022,77,133,70,19,7,9599,Sad,3,3,4,Medium,Normal
+04/09/2022,70,107,67,12,9,13094,Neutral,3,2,5,Low,Normal
+04/10/2022,72,91,74,15,9,14533,Happy,4,4,5,Low,Mild Stress
+04/11/2022,65,118,79,14,9,10918,Happy,3,5,5,Low,Moderate Stress
+04/12/2022,93,140,81,23,5,5447,Sad,5,3,4,High,Mild Stress
+04/13/2022,105,135,85,19,5,3818,Sad,3,5,3,High,Severe Stress
+04/14/2022,97,141,98,24,4,5337,Neutral,4,3,2,High,Mild Stress
+04/15/2022,82,118,82,18,7,8238,Anxious,5,4,5,Medium,Mild Stress
+04/16/2022,66,108,61,17,8,13629,Neutral,6,2,4,Low,Normal
+04/17/2022,86,131,88,16,7,6523,Neutral,3,4,4,Medium,Moderate Stress
+04/18/2022,76,100,67,13,8,14156,Happy,4,4,5,Low,Mild Stress
+04/19/2022,72,139,84,15,7,8681,Anxious,6,4,4,Medium,Moderate Stress
+04/20/2022,68,112,74,15,7,10775,Neutral,4,4,2,Low,Mild Stress
+04/21/2022,76,102,68,12,7,13700,Anxious,6,3,5,Low,Normal
+04/22/2022,94,135,85,21,6,2084,Anxious,4,4,4,High,Moderate Stress
+04/23/2022,75,130,75,21,6,5179,Sad,4,5,2,Medium,Mild Stress
+04/24/2022,64,117,65,15,9,9519,Neutral,6,2,2,Low,Normal
+04/25/2022,78,131,88,18,6,8582,Anxious,5,3,4,Medium,Moderate Stress
+04/26/2022,81,132,83,15,6,6246,Neutral,6,5,4,Medium,Normal
+04/27/2022,101,142,88,26,4,4750,Anxious,6,3,5,High,Moderate Stress
+04/28/2022,65,91,67,15,7,13431,Neutral,6,5,3,Low,Moderate Stress
+04/29/2022,60,101,66,12,8,13008,Anxious,3,3,5,Low,Normal
+04/30/2022,107,144,86,23,6,4404,Anxious,3,2,3,High,Normal
+05/01/2022,89,113,71,15,7,7887,Happy,7,6,5,Medium,Anxiety
+05/02/2022,81,140,93,23,6,3436,Neutral,8,8,5,High,Moderate Stress
+05/03/2022,89,134,73,17,7,9440,Sad,7,7,8,Medium,Anxiety
+05/04/2022,101,151,91,19,5,4478,Anxious,6,10,6,High,Moderate Stress
+05/05/2022,88,151,88,21,6,7162,Anxious,6,6,5,High,Anxiety
+05/06/2022,87,131,78,17,6,6018,Neutral,8,7,5,Medium,Moderate Stress
+05/07/2022,89,137,89,20,7,8097,Neutral,7,7,6,Medium,Normal
+05/08/2022,81,145,92,28,4,3711,Sad,7,6,5,High,Moderate Stress
+05/09/2022,89,116,80,21,6,5091,Neutral,9,9,5,Medium,Normal
+05/10/2022,77,131,86,14,7,7109,Happy,6,7,8,Medium,Moderate Stress
+05/11/2022,61,116,73,16,7,8823,Neutral,9,9,5,Low,Normal
+05/12/2022,62,90,76,17,8,13188,Neutral,7,7,7,Low,Mild Stress
+05/13/2022,84,116,78,19,7,5177,Neutral,9,11,5,Medium,Normal
+05/14/2022,77,103,60,13,7,11145,Happy,9,7,9,Low,Normal
+05/15/2022,80,133,86,26,4,5963,Sad,7,6,5,High,Moderate Stress
+05/16/2022,90,149,98,18,4,4060,Sad,9,6,6,High,Severe Stress
+05/17/2022,67,108,65,15,9,14312,Sad,9,11,6,Low,Mild Stress
+05/18/2022,108,145,80,18,5,2793,Sad,7,8,9,High,Normal
+05/19/2022,78,117,82,14,6,6403,Anxious,6,10,5,Medium,Anxiety
+05/20/2022,85,131,74,18,6,8275,Neutral,9,11,9,Medium,Moderate Stress
+05/21/2022,89,143,81,20,4,6554,Sad,7,7,6,High,Moderate Stress
+05/22/2022,69,111,68,16,7,8679,Happy,6,7,5,Low,Mild Stress
+05/23/2022,83,114,86,19,7,7996,Neutral,9,8,6,Medium,Moderate Stress
+05/24/2022,91,148,91,23,6,4241,Anxious,8,7,5,High,Mild Stress
+05/25/2022,101,152,90,20,6,3772,Anxious,9,9,6,High,Severe Stress
+05/26/2022,63,109,68,13,8,13571,Happy,6,6,9,Low,Anxiety
+05/27/2022,84,112,74,18,7,5941,Neutral,6,11,9,Medium,Moderate Stress
+05/28/2022,67,90,76,14,7,9245,Happy,9,7,6,Low,Severe Stress
+05/29/2022,77,118,68,17,7,10791,Happy,6,8,9,Low,Mild Stress
+05/30/2022,84,128,71,21,6,9299,Happy,6,7,8,Medium,Severe Stress
+05/31/2022,87,122,83,21,7,7105,Neutral,8,6,8,Medium,Moderate Stress
+06/01/2022,82,148,92,29,6,5013,Neutral,6,8,6,High,Mild Stress
+06/02/2022,85,129,72,17,6,9626,Anxious,6,7,9,Medium,Normal
+06/03/2022,109,131,98,23,4,5824,Anxious,7,8,5,High,Anxiety
+06/04/2022,89,152,99,21,5,7891,Anxious,9,10,9,High,Moderate Stress
+06/05/2022,82,123,77,14,6,9093,Neutral,9,9,6,Medium,Normal
+06/06/2022,71,103,74,13,8,11153,Happy,9,10,8,Low,Normal
+06/07/2022,89,130,85,20,6,7219,Neutral,8,8,7,High,Moderate Stress
+06/08/2022,81,150,85,29,5,7667,Happy,7,10,5,High,Moderate Stress
+06/09/2022,86,111,72,16,7,9514,Neutral,8,8,8,Medium,Mild Stress
+06/10/2022,99,157,90,20,4,2954,Sad,7,11,6,High,Anxiety
+06/11/2022,88,114,89,15,6,6597,Sad,9,7,6,Medium,Moderate Stress
+06/12/2022,89,151,96,23,6,6562,Sad,9,7,6,High,Anxiety
+06/13/2022,107,143,83,23,5,3672,Anxious,9,10,6,High,Moderate Stress
+06/14/2022,73,136,74,19,6,9722,Anxious,6,9,5,Medium,Severe Stress
+06/15/2022,84,128,84,18,6,6830,Anxious,8,6,8,Medium,Moderate Stress
+06/16/2022,90,144,89,28,6,2578,Anxious,7,6,7,High,Severe Stress
+06/17/2022,97,154,94,24,5,5732,Neutral,9,10,6,High,Normal
+06/18/2022,102,133,99,18,6,7249,Neutral,8,6,5,High,Anxiety
+06/19/2022,60,96,78,16,8,8683,Happy,6,9,8,Low,Severe Stress
+06/20/2022,106,139,99,25,4,4721,Anxious,6,9,9,High,Moderate Stress
+06/21/2022,87,130,97,18,4,5281,Sad,7,7,8,High,Moderate Stress
+06/22/2022,71,133,86,20,6,5347,Neutral,7,10,6,Medium,Mild Stress
+06/23/2022,65,91,76,16,9,12033,Happy,7,9,6,Low,Normal
+06/24/2022,82,136,81,16,6,7733,Anxious,6,11,8,Medium,Mild Stress
+06/25/2022,98,157,87,18,4,3896,Anxious,7,11,7,High,Severe Stress
+06/26/2022,93,137,84,20,6,5139,Sad,9,11,5,High,Anxiety
+06/27/2022,72,120,72,17,7,6376,Anxious,8,7,5,Medium,Normal
+06/28/2022,104,141,92,25,4,3887,Neutral,6,10,8,High,Anxiety
+06/29/2022,88,130,80,19,6,6925,Anxious,9,7,5,Medium,Moderate Stress
+06/30/2022,72,119,75,19,6,5147,Sad,7,7,6,Medium,Moderate Stress
+07/01/2022,76,119,73,16,9,11551,Happy,1,2,1,Low,Mild Stress
+07/02/2022,85,129,80,17,6,5625,Happy,3,0,2,Medium,Moderate Stress
+07/03/2022,63,106,63,17,9,10911,Happy,2,1,1,Low,Normal
+07/04/2022,75,104,74,12,9,14646,Happy,2,1,1,Low,Mild Stress
+07/05/2022,85,138,78,20,7,5914,Happy,1,2,1,Medium,Mild Stress
+07/06/2022,78,104,75,17,8,8085,Anxious,2,1,1,Low,Normal
+07/07/2022,64,97,60,15,8,14190,Neutral,3,0,1,Low,Normal
+07/08/2022,72,94,60,17,8,8429,Happy,2,2,0,Low,Normal
+07/09/2022,101,150,91,21,5,2703,Neutral,3,0,0,High,Mild Stress
+07/10/2022,62,106,77,13,8,10390,Neutral,3,1,1,Low,Mild Stress
+07/11/2022,108,152,94,27,6,2176,Anxious,1,2,0,High,Moderate Stress
+07/12/2022,70,111,77,14,8,9597,Neutral,3,2,0,Low,Mild Stress
+07/13/2022,73,95,65,12,9,12078,Neutral,1,2,2,Low,Severe Stress
+07/14/2022,67,94,78,12,9,12587,Happy,2,2,2,Low,Normal
+07/15/2022,64,111,75,17,9,14382,Neutral,3,2,2,Low,Moderate Stress
+07/16/2022,62,104,62,17,8,11693,Happy,2,1,0,Low,Moderate Stress
+07/17/2022,66,109,77,13,9,14707,Neutral,2,0,0,Low,Normal
+07/18/2022,77,112,72,12,7,10928,Happy,2,0,1,Low,Normal
+07/19/2022,61,97,77,14,8,13779,Happy,1,2,1,Low,Normal
+07/20/2022,64,105,67,13,9,12456,Neutral,1,2,2,Low,Normal
+07/21/2022,81,146,97,22,4,2232,Anxious,3,2,2,High,Mild Stress
+07/22/2022,83,115,72,14,7,6923,Neutral,1,1,1,Medium,Mild Stress
+07/23/2022,75,115,69,15,8,8527,Neutral,3,0,2,Low,Severe Stress
+07/24/2022,64,90,69,12,9,13810,Anxious,3,2,2,Low,Severe Stress
+07/25/2022,79,127,73,20,6,5386,Happy,3,1,0,Medium,Moderate Stress
+07/26/2022,76,115,67,13,8,9929,Neutral,2,0,1,Low,Mild Stress
+07/27/2022,79,107,71,13,8,14416,Happy,2,2,1,Low,Normal
+07/28/2022,63,114,63,17,9,11358,Happy,3,0,1,Low,Mild Stress
+07/29/2022,89,132,84,15,6,9950,Sad,1,0,2,Medium,Mild Stress
+07/30/2022,75,136,73,20,6,5253,Neutral,1,1,1,Medium,Moderate Stress
+07/31/2022,73,98,60,12,7,14935,Anxious,1,2,2,Low,Mild Stress
+08/01/2022,74,110,69,12,8,8307,Anxious,1,2,0,Low,Mild Stress
+08/02/2022,74,139,89,14,6,6648,Neutral,2,2,2,Medium,Anxiety
+08/03/2022,74,136,88,18,7,9134,Sad,2,2,0,Medium,Mild Stress
+08/04/2022,84,138,87,18,7,7079,Happy,1,0,1,Medium,Normal
+08/05/2022,73,101,61,16,9,12064,Happy,1,0,1,Low,Severe Stress
+08/06/2022,82,132,79,21,7,9089,Neutral,1,0,2,Medium,Moderate Stress
+08/07/2022,72,106,66,15,8,14651,Happy,3,1,0,Low,Mild Stress
+08/08/2022,62,91,79,14,8,12317,Neutral,1,1,0,Low,Mild Stress
+08/09/2022,100,145,90,27,4,4379,Neutral,3,0,1,High,Moderate Stress
+08/10/2022,80,146,90,21,6,5107,Neutral,2,1,1,High,Anxiety
+08/11/2022,66,112,70,13,8,11830,Happy,2,2,2,Low,Moderate Stress
+08/12/2022,74,126,73,20,6,9623,Happy,2,1,0,Medium,Mild Stress
+08/13/2022,70,113,74,12,7,10731,Happy,2,0,1,Low,Normal
+08/14/2022,69,93,71,13,9,8023,Neutral,2,0,2,Low,Moderate Stress
+08/15/2022,60,109,77,12,7,13458,Happy,2,0,2,Low,Normal
+08/16/2022,82,129,83,21,6,9622,Happy,3,0,2,Medium,Mild Stress
+08/17/2022,65,93,70,16,8,8770,Sad,3,2,2,Low,Mild Stress
+08/18/2022,66,106,78,15,9,13922,Happy,1,1,1,Low,Mild Stress
+08/19/2022,76,116,74,16,7,8123,Sad,1,2,0,Medium,Anxiety
+08/20/2022,74,106,64,15,9,14033,Happy,2,2,1,Low,Mild Stress
+08/21/2022,67,98,70,14,8,12378,Happy,3,0,0,Low,Severe Stress
+08/22/2022,62,95,69,16,8,11288,Happy,2,2,1,Low,Normal
+08/23/2022,102,137,80,26,6,5513,Sad,1,1,2,High,Moderate Stress
+08/24/2022,75,105,77,13,9,13367,Neutral,1,1,0,Low,Moderate Stress
+08/25/2022,82,135,86,14,7,6927,Neutral,3,2,1,Medium,Mild Stress
+08/26/2022,66,99,63,12,8,13498,Happy,3,1,0,Low,Normal
+08/27/2022,63,110,77,16,9,10640,Neutral,1,0,2,Low,Normal
+08/28/2022,68,103,72,15,8,8613,Sad,1,2,2,Low,Normal
+08/29/2022,68,116,60,12,7,14127,Happy,2,1,2,Low,Normal
+08/30/2022,67,114,61,13,8,10056,Neutral,1,0,2,Low,Normal
+08/31/2022,68,96,71,13,7,10596,Sad,2,0,2,Low,Normal
+09/01/2022,89,132,80,16,7,6876,Happy,3,4,3,Medium,Moderate Stress
+09/02/2022,71,122,73,15,7,8478,Happy,4,5,4,Medium,Normal
+09/03/2022,85,120,82,14,6,5566,Happy,3,2,2,Medium,Mild Stress
+09/04/2022,62,109,69,15,8,13300,Happy,3,4,4,Low,Mild Stress
+09/05/2022,70,91,66,15,9,10228,Anxious,4,2,4,Low,Mild Stress
+09/06/2022,82,139,88,14,6,5850,Neutral,6,2,2,Medium,Normal
+09/07/2022,75,96,76,15,7,10847,Neutral,3,2,4,Low,Severe Stress
+09/08/2022,101,144,85,19,4,3987,Anxious,4,4,2,High,Anxiety
+09/09/2022,85,112,86,15,7,8982,Neutral,5,2,5,Medium,Normal
+09/10/2022,75,108,67,13,8,9540,Happy,3,3,3,Low,Mild Stress
+09/11/2022,68,106,79,15,7,11300,Neutral,3,5,5,Low,Mild Stress
+09/12/2022,68,102,76,12,8,8070,Sad,3,5,5,Low,Normal
+09/13/2022,73,126,86,17,7,8495,Sad,6,2,5,Medium,Moderate Stress
+09/14/2022,73,112,89,19,6,6302,Neutral,5,5,5,Medium,Moderate Stress
+09/15/2022,92,137,99,21,4,5183,Anxious,5,5,5,High,Severe Stress
+09/16/2022,84,144,87,24,5,6822,Anxious,4,3,3,High,Anxiety
+09/17/2022,109,155,86,24,4,5904,Neutral,3,2,5,High,Normal
+09/18/2022,75,124,84,14,7,9670,Happy,6,4,4,Medium,Anxiety
+09/19/2022,87,145,94,27,6,7713,Sad,6,3,5,High,Severe Stress
+09/20/2022,60,114,61,17,7,9184,Neutral,6,4,5,Low,Mild Stress
+09/21/2022,89,125,72,14,6,9071,Happy,5,5,4,Medium,Severe Stress
+09/22/2022,86,111,86,17,7,7216,Happy,3,5,4,Medium,Normal
+09/23/2022,80,130,99,21,4,5573,Anxious,5,2,5,High,Mild Stress
+09/24/2022,68,106,72,14,9,9499,Neutral,5,5,4,Low,Anxiety
+09/25/2022,81,119,76,16,6,8379,Sad,3,5,3,Medium,Mild Stress
+09/26/2022,90,157,84,27,5,5179,Sad,3,5,4,High,Moderate Stress
+09/27/2022,108,135,83,27,6,2439,Neutral,5,5,3,High,Severe Stress
+09/28/2022,76,122,85,18,7,9185,Sad,5,3,3,Medium,Anxiety
+09/29/2022,60,118,79,15,9,13543,Happy,4,5,5,Low,Mild Stress
+09/30/2022,108,140,95,20,4,4562,Neutral,3,3,5,High,Severe Stress
+10/01/2022,71,116,64,16,9,13718,Sad,5,5,2,Low,Normal
+10/02/2022,95,153,96,22,5,4928,Anxious,5,4,2,High,Severe Stress
+10/03/2022,71,91,65,12,7,11155,Happy,3,5,2,Low,Normal
+10/04/2022,67,111,65,14,7,11016,Neutral,6,4,2,Low,Mild Stress
+10/05/2022,81,142,95,24,5,3343,Sad,4,3,2,High,Severe Stress
+10/06/2022,82,134,80,27,6,2376,Sad,4,3,5,High,Moderate Stress
+10/07/2022,90,130,94,27,5,4095,Sad,5,2,5,High,Moderate Stress
+10/08/2022,81,143,85,25,6,4897,Anxious,3,2,5,High,Moderate Stress
+10/09/2022,61,100,62,13,9,14304,Happy,3,5,4,Low,Normal
+10/10/2022,71,101,62,17,9,10241,Happy,6,2,4,Low,Moderate Stress
+10/11/2022,72,123,80,17,6,5770,Neutral,3,4,4,Medium,Moderate Stress
+10/12/2022,79,129,78,19,6,5941,Neutral,3,5,3,Medium,Normal
+10/13/2022,74,112,71,16,6,9146,Happy,5,5,4,Medium,Anxiety
+10/14/2022,80,135,97,23,6,4726,Neutral,5,4,5,High,Severe Stress
+10/15/2022,77,118,82,21,7,6513,Anxious,3,4,3,Medium,Mild Stress
+10/16/2022,78,90,69,16,8,14188,Happy,4,4,2,Low,Normal
+10/17/2022,88,114,80,15,6,8545,Anxious,3,3,5,Medium,Normal
+10/18/2022,61,108,74,15,8,12669,Happy,3,3,2,Low,Anxiety
+10/19/2022,73,116,76,19,6,7737,Happy,6,5,4,Medium,Mild Stress
+10/20/2022,99,151,90,23,4,4962,Sad,4,4,5,High,Moderate Stress
+10/21/2022,100,153,81,23,4,2521,Sad,3,4,3,High,Moderate Stress
+10/22/2022,79,122,70,15,6,6928,Anxious,4,5,3,Medium,Moderate Stress
+10/23/2022,62,94,76,12,7,13279,Anxious,6,2,4,Low,Normal
+10/24/2022,77,118,84,15,6,9896,Neutral,4,5,3,Medium,Mild Stress
+10/25/2022,85,131,74,17,6,5037,Happy,5,3,5,Medium,Anxiety
+10/26/2022,82,121,88,15,6,7614,Sad,6,4,5,Medium,Severe Stress
+10/27/2022,74,126,72,16,6,7076,Anxious,5,5,2,Medium,Mild Stress
+10/28/2022,75,126,86,18,7,5515,Sad,6,2,4,Medium,Mild Stress
+10/29/2022,90,137,87,18,4,3628,Anxious,3,5,2,High,Normal
+10/30/2022,81,148,99,18,6,4054,Anxious,5,4,4,High,Anxiety
+10/31/2022,83,127,84,15,6,8037,Sad,4,4,2,Medium,Mild Stress
+11/01/2022,62,106,75,15,7,10768,Neutral,3,5,2,Low,Anxiety
+11/02/2022,70,117,63,17,8,14437,Sad,4,5,5,Low,Normal
+11/03/2022,73,105,68,15,7,13246,Sad,3,4,4,Low,Normal
+11/04/2022,104,132,80,18,6,5348,Anxious,6,2,5,High,Moderate Stress
+11/05/2022,73,132,81,14,7,6486,Neutral,5,5,5,Medium,Mild Stress
+11/06/2022,69,107,74,13,7,11527,Sad,4,3,2,Low,Severe Stress
+11/07/2022,80,115,83,14,6,5663,Anxious,6,4,5,Medium,Mild Stress
+11/08/2022,83,149,86,29,5,5845,Sad,4,3,4,High,Anxiety
+11/09/2022,79,119,72,21,7,5272,Sad,5,4,5,Medium,Mild Stress
+11/10/2022,95,159,94,28,5,6990,Neutral,5,5,5,High,Anxiety
+11/11/2022,67,111,69,17,8,9565,Happy,6,4,2,Low,Normal
+11/12/2022,64,112,74,13,7,8775,Neutral,4,3,5,Low,Mild Stress
+11/13/2022,78,112,77,17,7,13852,Anxious,6,4,3,Low,Normal
+11/14/2022,78,117,60,13,9,9042,Happy,3,5,2,Low,Moderate Stress
+11/15/2022,106,147,80,28,4,5595,Sad,5,4,2,High,Moderate Stress
+11/16/2022,71,116,89,15,6,9005,Neutral,3,5,5,Medium,Moderate Stress
+11/17/2022,89,137,89,20,6,6735,Sad,4,5,2,Medium,Mild Stress
+11/18/2022,67,116,64,16,9,11412,Sad,6,5,2,Low,Mild Stress
+11/19/2022,62,95,60,16,9,13158,Neutral,3,5,4,Low,Normal
+11/20/2022,86,137,70,14,7,9755,Anxious,3,3,4,Medium,Anxiety
+11/21/2022,81,118,76,21,6,9107,Anxious,3,2,4,Medium,Mild Stress
+11/22/2022,86,112,70,16,7,7802,Anxious,5,4,4,Medium,Anxiety
+11/23/2022,84,121,73,19,6,9939,Happy,5,5,4,Medium,Severe Stress
+11/24/2022,87,138,82,18,6,6983,Anxious,3,3,2,Medium,Moderate Stress
+11/25/2022,80,133,76,15,6,8219,Sad,3,4,5,Medium,Anxiety
+11/26/2022,77,117,87,19,7,9836,Neutral,4,5,4,Medium,Normal
+11/27/2022,78,135,70,20,7,6252,Anxious,4,5,3,Medium,Moderate Stress
+11/28/2022,81,138,87,21,6,5019,Sad,3,4,3,Medium,Mild Stress
+11/29/2022,74,116,64,14,9,14485,Neutral,5,3,3,Low,Normal
+11/30/2022,63,101,79,12,8,13818,Happy,5,3,2,Low,Mild Stress
+12/01/2022,78,136,84,19,7,7446,Neutral,8,11,6,Medium,Mild Stress
+12/02/2022,75,92,61,14,8,11512,Sad,7,8,8,Low,Mild Stress
+12/03/2022,79,107,79,12,7,9421,Neutral,9,8,7,Low,Normal
+12/04/2022,74,111,85,20,7,5956,Happy,7,8,6,Medium,Mild Stress
+12/05/2022,104,156,86,28,5,4966,Anxious,7,10,8,High,Anxiety
+12/06/2022,83,128,74,17,6,6004,Anxious,8,11,9,Medium,Moderate Stress
+12/07/2022,73,114,78,18,7,6693,Happy,6,10,9,Medium,Moderate Stress
+12/08/2022,99,149,92,24,6,3156,Anxious,9,11,6,High,Mild Stress
+12/09/2022,104,142,99,24,4,4452,Sad,6,9,6,High,Severe Stress
+12/10/2022,88,158,90,28,5,7202,Anxious,6,10,5,High,Anxiety
+12/11/2022,89,139,74,14,6,6445,Happy,6,8,5,Medium,Mild Stress
+12/12/2022,78,120,82,18,6,7551,Sad,6,8,9,Medium,Normal
+12/13/2022,89,131,72,16,7,5196,Happy,9,8,9,Medium,Moderate Stress
+12/14/2022,89,158,97,27,5,7176,Sad,7,9,5,High,Moderate Stress
+12/15/2022,85,133,83,21,5,4056,Anxious,6,6,5,High,Anxiety
+12/16/2022,106,140,82,25,5,3543,Anxious,9,7,5,High,Severe Stress
+12/17/2022,79,110,66,12,8,8264,Neutral,8,9,6,Low,Normal
+12/18/2022,60,94,68,16,8,8722,Happy,8,10,8,Low,Mild Stress
+12/19/2022,109,139,86,22,4,2328,Anxious,7,9,9,High,Mild Stress
+12/20/2022,87,127,82,21,7,6945,Sad,6,10,5,Medium,Anxiety
+12/21/2022,91,148,92,27,6,5379,Anxious,8,11,9,High,Severe Stress
+12/22/2022,99,135,90,18,4,3897,Anxious,8,10,6,High,Mild Stress
+12/23/2022,84,133,81,29,6,3733,Sad,9,10,9,High,Moderate Stress
+12/24/2022,95,144,86,23,6,5536,Neutral,9,8,7,High,Severe Stress
+12/25/2022,98,151,89,23,4,4568,Anxious,6,11,9,High,Anxiety
+12/26/2022,98,148,95,28,5,6231,Happy,7,7,7,High,Anxiety
+12/27/2022,77,136,83,21,7,6165,Anxious,8,10,6,Medium,Anxiety
+12/28/2022,108,146,91,27,4,7672,Sad,9,6,5,High,Severe Stress
+12/29/2022,105,147,96,29,5,3345,Sad,9,8,6,High,Anxiety
+12/30/2022,98,131,94,25,4,2930,Happy,8,11,9,High,Severe Stress
+12/31/2022,83,119,77,21,7,5965,Happy,8,6,5,Medium,Normal
+01/01/2023,64,93,76,16,8,14428,Happy,9,6,9,Low,Mild Stress
+01/02/2023,74,130,89,21,6,5523,Happy,8,6,6,Medium,Severe Stress
+01/03/2023,82,158,85,23,6,7596,Anxious,7,7,9,High,Severe Stress
+01/04/2023,84,130,89,20,7,5256,Neutral,8,11,7,Medium,Mild Stress
+01/05/2023,75,122,86,19,6,6476,Sad,6,8,5,Medium,Mild Stress
+01/06/2023,89,112,70,21,6,9780,Neutral,7,11,7,Medium,Mild Stress
+01/07/2023,75,130,77,18,7,6566,Sad,6,10,7,Medium,Normal
+01/08/2023,94,149,96,23,6,5465,Sad,8,6,8,High,Anxiety
+01/09/2023,93,155,97,21,5,7827,Sad,8,9,9,High,Mild Stress
+01/10/2023,91,149,82,29,6,2205,Anxious,8,10,8,High,Severe Stress
+01/11/2023,88,118,73,20,6,5112,Neutral,8,10,6,Medium,Moderate Stress
+01/12/2023,106,144,86,29,4,6354,Sad,7,11,7,High,Mild Stress
+01/13/2023,97,151,98,28,4,5882,Anxious,8,8,7,High,Anxiety
+01/14/2023,81,120,70,17,7,9496,Anxious,7,9,6,Medium,Severe Stress
+01/15/2023,88,131,96,27,6,7207,Sad,6,8,5,High,Severe Stress
+01/16/2023,75,125,87,17,7,7624,Neutral,8,9,6,Medium,Mild Stress
+01/17/2023,83,124,79,21,6,6656,Anxious,9,11,8,Medium,Moderate Stress
+01/18/2023,89,145,89,26,5,5131,Sad,8,11,9,High,Anxiety
+01/19/2023,83,130,71,19,6,5043,Sad,8,9,7,Medium,Mild Stress
+01/20/2023,93,152,97,28,5,5130,Anxious,9,7,9,High,Anxiety
+01/21/2023,91,154,85,29,6,4795,Sad,6,7,8,High,Severe Stress
+01/22/2023,82,113,75,19,7,9628,Sad,6,8,6,Medium,Normal
+01/23/2023,102,149,85,26,6,5695,Neutral,9,10,6,High,Severe Stress
+01/24/2023,72,123,76,20,6,7920,Neutral,7,9,9,Medium,Anxiety
+01/25/2023,80,150,83,20,4,2797,Neutral,8,9,7,High,Anxiety
+01/26/2023,75,132,89,15,6,9408,Sad,9,8,6,Medium,Moderate Stress
+01/27/2023,93,132,80,21,4,6129,Sad,7,9,8,High,Moderate Stress
+01/28/2023,66,105,77,14,8,13495,Happy,7,11,7,Low,Anxiety
+01/29/2023,77,118,84,21,6,7626,Neutral,6,9,9,Medium,Mild Stress
+01/30/2023,86,145,99,22,5,3054,Neutral,8,11,8,High,Severe Stress
+01/31/2023,71,107,61,12,9,12681,Happy,9,11,5,Low,Normal
+02/01/2023,62,105,64,15,8,10047,Happy,6,4,4,Low,Mild Stress
+02/02/2023,87,137,84,29,6,3152,Sad,4,3,3,High,Severe Stress
+02/03/2023,67,116,62,17,8,9049,Happy,6,4,5,Low,Normal
+02/04/2023,88,151,95,27,6,2460,Sad,6,2,3,High,Moderate Stress
+02/05/2023,75,120,77,18,6,8024,Anxious,3,5,3,Medium,Moderate Stress
+02/06/2023,94,131,81,27,6,2605,Sad,5,5,3,High,Moderate Stress
+02/07/2023,84,123,85,18,6,7652,Neutral,4,2,4,Medium,Normal
+02/08/2023,72,116,62,16,7,8823,Neutral,3,5,5,Low,Normal
+02/09/2023,73,127,71,17,7,8508,Neutral,6,2,3,Medium,Severe Stress
+02/10/2023,78,96,72,16,7,14976,Happy,4,4,3,Low,Normal
+02/11/2023,82,113,78,19,7,8682,Neutral,5,3,4,Medium,Normal
+02/12/2023,86,139,76,17,7,6814,Neutral,3,3,5,Medium,Normal
+02/13/2023,71,114,70,19,7,6477,Sad,5,5,4,Medium,Normal
+02/14/2023,80,135,86,28,6,4941,Anxious,4,2,5,High,Severe Stress
+02/15/2023,84,112,73,17,6,7064,Sad,4,3,3,Medium,Mild Stress
+02/16/2023,75,129,84,17,6,7743,Neutral,5,3,2,Medium,Mild Stress
+02/17/2023,61,117,69,16,8,8477,Anxious,3,4,2,Low,Moderate Stress
+02/18/2023,64,92,78,16,7,10091,Happy,4,3,2,Low,Normal
+02/19/2023,64,118,76,14,8,10701,Neutral,5,4,2,Low,Normal
+02/20/2023,65,90,75,15,9,14369,Happy,5,2,2,Low,Normal
+02/21/2023,75,110,76,15,6,7918,Anxious,4,3,4,Medium,Normal
+02/22/2023,105,156,88,26,5,3029,Anxious,5,5,2,High,Severe Stress
+02/23/2023,96,145,87,27,5,2753,Neutral,6,5,4,High,Moderate Stress
+02/24/2023,79,121,87,20,7,9905,Neutral,3,4,3,Medium,Mild Stress
+02/25/2023,86,138,73,15,7,8760,Happy,5,3,3,Medium,Mild Stress
+02/26/2023,64,116,66,17,7,8111,Happy,4,4,4,Low,Mild Stress
+02/27/2023,80,124,87,19,7,8598,Happy,4,3,5,Medium,Normal
+02/28/2023,73,108,78,13,7,11011,Sad,5,4,4,Low,Normal
+03/01/2023,83,139,87,21,7,8528,Happy,5,3,4,Medium,Mild Stress
+03/02/2023,73,137,82,19,6,6957,Neutral,3,2,3,Medium,Mild Stress
+03/03/2023,82,123,77,21,6,5791,Anxious,3,3,3,Medium,Moderate Stress
+03/04/2023,73,115,68,16,7,13430,Neutral,6,3,2,Low,Mild Stress
+03/05/2023,75,131,86,18,7,6845,Anxious,6,3,3,Medium,Mild Stress
+03/06/2023,75,110,63,12,8,11417,Happy,4,2,4,Low,Normal
+03/07/2023,85,134,79,14,6,6112,Neutral,4,5,3,Medium,Normal
+03/08/2023,78,112,87,21,7,6479,Happy,5,4,5,Medium,Normal
+03/09/2023,72,113,75,16,7,9705,Happy,4,4,2,Low,Normal
+03/10/2023,67,101,67,14,7,11090,Happy,3,5,5,Low,Mild Stress
+03/11/2023,92,156,99,18,6,2782,Anxious,6,2,4,High,Severe Stress
+03/12/2023,87,136,74,18,7,7049,Happy,6,2,5,Medium,Normal
+03/13/2023,87,145,92,24,4,5513,Sad,5,2,3,High,Anxiety
+03/14/2023,68,106,61,17,7,14042,Neutral,6,3,3,Low,Mild Stress
+03/15/2023,71,106,72,15,8,13594,Anxious,4,3,4,Low,Normal
+03/16/2023,60,101,72,15,9,8392,Sad,4,5,4,Low,Mild Stress
+03/17/2023,84,137,73,17,6,5832,Happy,3,3,4,Medium,Moderate Stress
+03/18/2023,98,130,93,21,4,6192,Sad,4,2,3,High,Severe Stress
+03/19/2023,74,135,78,16,6,9782,Happy,3,3,4,Medium,Moderate Stress
+03/20/2023,100,139,92,29,5,6313,Sad,3,3,3,High,Moderate Stress
+03/21/2023,87,150,93,18,4,4138,Anxious,4,3,3,High,Moderate Stress
+03/22/2023,69,94,65,17,9,11412,Neutral,5,3,3,Low,Normal
+03/23/2023,76,120,82,20,7,8722,Happy,6,2,5,Medium,Moderate Stress
+03/24/2023,62,104,73,16,9,13527,Sad,4,5,5,Low,Normal
+03/25/2023,73,100,72,15,7,11174,Happy,3,2,2,Low,Normal
+03/26/2023,75,111,72,19,7,6839,Neutral,4,3,4,Medium,Moderate Stress
+03/27/2023,93,148,98,26,6,4925,Sad,5,2,2,High,Anxiety
+03/28/2023,76,101,65,13,7,10958,Neutral,4,5,4,Low,Mild Stress
+03/29/2023,61,103,61,13,8,12378,Anxious,5,5,3,Low,Normal
+03/30/2023,92,149,81,25,6,3832,Sad,6,5,4,High,Anxiety
+03/31/2023,95,139,92,26,6,3123,Sad,6,4,5,High,Severe Stress
+04/01/2023,72,114,63,12,9,8041,Neutral,4,2,2,Low,Normal
+04/02/2023,76,127,75,15,7,6394,Neutral,4,3,4,Medium,Moderate Stress
+04/03/2023,60,108,73,14,8,13175,Happy,6,3,2,Low,Normal
+04/04/2023,102,134,92,20,5,4515,Anxious,4,3,2,High,Severe Stress
+04/05/2023,76,126,87,20,7,5659,Neutral,6,3,5,Medium,Normal
+04/06/2023,90,145,91,28,6,7249,Neutral,6,5,5,High,Anxiety
+04/07/2023,89,127,83,15,7,7337,Neutral,6,4,4,Medium,Mild Stress
+04/08/2023,71,119,60,12,8,12938,Anxious,3,4,3,Low,Severe Stress
+04/09/2023,67,97,65,12,9,14846,Neutral,3,4,2,Low,Mild Stress
+04/10/2023,68,116,75,16,9,14970,Neutral,6,5,2,Low,Mild Stress
+04/11/2023,76,110,79,17,9,13352,Happy,4,5,5,Low,Mild Stress
+04/12/2023,77,139,77,21,7,7990,Sad,3,4,3,Medium,Normal
+04/13/2023,73,129,85,15,6,8204,Anxious,3,4,3,Medium,Moderate Stress
+04/14/2023,71,137,71,17,7,5018,Anxious,4,5,5,Medium,Normal
+04/15/2023,96,142,95,26,4,3979,Sad,6,4,4,High,Anxiety
+04/16/2023,72,93,73,13,8,14601,Neutral,4,3,4,Low,Normal
+04/17/2023,83,116,76,14,6,6869,Happy,6,3,3,Medium,Normal
+04/18/2023,83,118,88,15,7,5842,Anxious,4,4,4,Medium,Moderate Stress
+04/19/2023,85,124,77,15,6,9864,Happy,4,4,3,Medium,Moderate Stress
+04/20/2023,75,139,86,18,6,6316,Happy,6,4,2,Medium,Severe Stress
+04/21/2023,75,132,77,20,7,5462,Happy,3,4,5,Medium,Anxiety
+04/22/2023,74,109,72,12,7,10106,Happy,6,4,4,Low,Severe Stress
+04/23/2023,105,146,95,23,4,4861,Anxious,3,5,3,High,Moderate Stress
+04/24/2023,73,108,62,12,8,10348,Happy,5,4,4,Low,Normal
+04/25/2023,81,152,84,18,6,7855,Anxious,4,5,5,High,Severe Stress
+04/26/2023,80,127,71,21,7,8570,Neutral,5,3,3,Medium,Moderate Stress
+04/27/2023,60,108,75,13,9,13244,Neutral,3,2,3,Low,Anxiety
+04/28/2023,75,114,77,21,7,6995,Happy,3,2,5,Medium,Severe Stress
+04/29/2023,60,116,70,13,7,11271,Sad,5,2,3,Low,Severe Stress
+04/30/2023,77,107,73,12,7,8982,Neutral,5,2,2,Low,Mild Stress
+05/01/2023,81,134,89,14,7,7422,Neutral,9,10,6,Medium,Mild Stress
+05/02/2023,97,131,81,20,4,7656,Happy,8,9,5,High,Mild Stress
+05/03/2023,85,120,75,15,7,7503,Neutral,7,8,5,Medium,Moderate Stress
+05/04/2023,73,119,88,18,7,9910,Neutral,9,6,8,Medium,Anxiety
+05/05/2023,84,133,71,17,6,6250,Happy,8,9,5,Medium,Moderate Stress
+05/06/2023,93,146,80,27,6,7999,Sad,9,8,5,High,Normal
+05/07/2023,94,146,97,24,6,3094,Sad,7,10,7,High,Mild Stress
+05/08/2023,80,119,78,14,7,7848,Happy,7,11,8,Medium,Mild Stress
+05/09/2023,79,133,77,18,6,9868,Happy,8,9,7,Medium,Mild Stress
+05/10/2023,92,130,85,28,4,3332,Sad,8,7,7,High,Severe Stress
+05/11/2023,107,148,91,23,6,6086,Anxious,7,11,8,High,Severe Stress
+05/12/2023,79,103,73,13,7,10416,Anxious,6,9,6,Low,Mild Stress
+05/13/2023,70,105,77,12,7,10746,Sad,9,10,9,Low,Mild Stress
+05/14/2023,71,134,88,21,7,5064,Neutral,7,10,8,Medium,Normal
+05/15/2023,85,133,96,22,4,3694,Sad,8,7,5,High,Severe Stress
+05/16/2023,85,150,95,22,6,2837,Happy,8,6,6,High,Anxiety
+05/17/2023,98,137,90,26,4,7201,Anxious,6,8,6,High,Mild Stress
+05/18/2023,74,127,83,18,7,5582,Sad,8,9,5,Medium,Severe Stress
+05/19/2023,106,157,80,22,6,6828,Happy,7,6,7,High,Moderate Stress
+05/20/2023,89,153,90,18,4,6711,Anxious,9,6,6,High,Anxiety
+05/21/2023,106,134,84,19,6,6474,Sad,8,9,6,High,Severe Stress
+05/22/2023,84,110,80,19,6,6118,Happy,9,10,6,Medium,Moderate Stress
+05/23/2023,86,144,87,18,4,7378,Happy,7,8,8,High,Mild Stress
+05/24/2023,73,114,87,15,6,7057,Happy,9,11,6,Medium,Normal
+05/25/2023,102,137,80,23,6,7086,Anxious,9,8,6,High,Anxiety
+05/26/2023,80,158,85,26,5,3672,Anxious,8,7,6,High,Anxiety
+05/27/2023,88,128,75,17,7,7620,Anxious,7,6,7,Medium,Moderate Stress
+05/28/2023,84,154,98,27,5,4745,Sad,6,11,5,High,Moderate Stress
+05/29/2023,89,131,84,18,4,4985,Sad,6,11,7,High,Anxiety
+05/30/2023,73,122,75,17,6,9516,Happy,9,6,9,Medium,Mild Stress
+05/31/2023,86,151,84,22,5,4392,Anxious,7,11,6,High,Anxiety
+06/01/2023,99,136,87,28,5,2599,Sad,8,6,9,High,Moderate Stress
+06/02/2023,87,126,84,17,7,6672,Happy,8,7,8,Medium,Mild Stress
+06/03/2023,103,144,98,27,5,6779,Anxious,6,10,8,High,Mild Stress
+06/04/2023,74,137,86,15,6,9463,Happy,7,8,7,Medium,Moderate Stress
+06/05/2023,80,138,81,19,5,5714,Anxious,8,10,6,High,Moderate Stress
+06/06/2023,93,150,90,29,4,5491,Sad,7,6,7,High,Severe Stress
+06/07/2023,70,118,65,13,7,9322,Happy,8,10,8,Low,Mild Stress
+06/08/2023,105,154,96,22,4,2899,Anxious,7,6,5,High,Severe Stress
+06/09/2023,109,151,95,23,5,5299,Neutral,9,7,6,High,Moderate Stress
+06/10/2023,85,159,95,20,6,2948,Neutral,9,6,7,High,Anxiety
+06/11/2023,88,152,83,27,6,3096,Neutral,8,7,6,High,Severe Stress
+06/12/2023,99,153,81,20,4,7777,Anxious,8,6,7,High,Normal
+06/13/2023,74,133,81,17,6,7597,Neutral,9,7,9,Medium,Moderate Stress
+06/14/2023,86,154,99,21,6,5623,Neutral,7,7,8,High,Severe Stress
+06/15/2023,92,149,96,28,6,3712,Anxious,9,8,7,High,Mild Stress
+06/16/2023,83,143,80,25,6,6624,Anxious,7,7,8,High,Moderate Stress
+06/17/2023,88,138,82,14,7,9918,Neutral,9,11,5,Medium,Severe Stress
+06/18/2023,80,115,83,16,6,7451,Happy,6,6,9,Medium,Anxiety
+06/19/2023,82,143,86,26,6,3730,Anxious,6,6,7,High,Severe Stress
+06/20/2023,84,131,94,26,6,2937,Neutral,7,8,9,High,Severe Stress
+06/21/2023,81,125,75,17,6,9806,Sad,6,8,6,Medium,Anxiety
+06/22/2023,71,108,74,15,8,11323,Happy,9,10,5,Low,Normal
+06/23/2023,90,155,83,18,6,7370,Neutral,8,10,7,High,Severe Stress
+06/24/2023,72,118,71,12,7,12339,Happy,8,8,6,Low,Mild Stress
+06/25/2023,98,136,80,26,4,5671,Anxious,9,8,5,High,Anxiety
+06/26/2023,82,152,94,24,6,7529,Sad,9,8,6,High,Severe Stress
+06/27/2023,97,155,98,23,4,3553,Sad,8,10,9,High,Anxiety
+06/28/2023,101,139,80,29,4,3608,Anxious,7,8,8,High,Anxiety
+06/29/2023,89,153,92,21,5,3761,Sad,8,8,5,High,Moderate Stress
+06/30/2023,87,130,81,20,6,9728,Neutral,8,11,5,Medium,Normal
+07/01/2023,74,103,75,15,9,12399,Neutral,1,1,1,Low,Normal
+07/02/2023,63,105,74,13,9,13294,Happy,3,2,0,Low,Normal
+07/03/2023,71,110,78,12,9,8432,Anxious,2,1,2,Low,Normal
+07/04/2023,82,157,84,28,4,3701,Neutral,1,1,2,High,Severe Stress
+07/05/2023,68,95,76,14,9,9703,Happy,3,1,0,Low,Severe Stress
+07/06/2023,109,138,82,23,6,4003,Neutral,3,2,0,High,Mild Stress
+07/07/2023,67,102,79,15,7,11915,Happy,2,0,1,Low,Mild Stress
+07/08/2023,70,107,67,12,9,14171,Anxious,3,2,0,Low,Mild Stress
+07/09/2023,75,110,78,12,7,12324,Neutral,2,2,0,Low,Normal
+07/10/2023,69,103,71,15,7,12914,Happy,1,1,1,Low,Normal
+07/11/2023,73,119,68,13,9,8687,Happy,3,1,2,Low,Normal
+07/12/2023,72,93,69,16,8,12964,Neutral,2,2,2,Low,Anxiety
+07/13/2023,70,115,84,20,7,7644,Sad,1,0,1,Medium,Normal
+07/14/2023,87,131,88,24,5,7244,Neutral,1,0,2,High,Severe Stress
+07/15/2023,109,151,93,26,6,3442,Happy,2,1,2,High,Severe Stress
+07/16/2023,94,134,94,29,4,7105,Happy,3,2,0,High,Moderate Stress
+07/17/2023,60,114,73,16,7,13933,Happy,2,1,2,Low,Mild Stress
+07/18/2023,78,119,63,13,7,10846,Happy,3,0,0,Low,Normal
+07/19/2023,76,117,88,14,6,8438,Neutral,3,1,0,Medium,Normal
+07/20/2023,63,107,60,14,9,12007,Neutral,1,1,1,Low,Severe Stress
+07/21/2023,78,130,82,19,7,5956,Anxious,2,2,2,Medium,Moderate Stress
+07/22/2023,76,105,73,12,9,11276,Sad,1,0,0,Low,Normal
+07/23/2023,94,159,86,23,5,2719,Anxious,2,2,1,High,Moderate Stress
+07/24/2023,60,91,72,12,9,12555,Happy,2,1,1,Low,Mild Stress
+07/25/2023,79,124,78,21,7,5209,Neutral,3,0,0,Medium,Mild Stress
+07/26/2023,75,93,65,15,8,14270,Neutral,1,0,2,Low,Normal
+07/27/2023,73,100,66,13,7,13333,Neutral,3,1,1,Low,Moderate Stress
+07/28/2023,63,100,72,13,9,13723,Anxious,3,1,2,Low,Anxiety
+07/29/2023,67,92,60,15,7,8719,Happy,1,2,2,Low,Moderate Stress
+07/30/2023,75,139,76,21,7,7791,Happy,3,1,0,Medium,Normal
+07/31/2023,92,137,95,20,4,5102,Sad,3,0,1,High,Severe Stress
+08/01/2023,67,110,76,12,8,9742,Happy,1,0,1,Low,Mild Stress
+08/02/2023,77,103,70,15,8,11216,Sad,2,2,1,Low,Normal
+08/03/2023,77,130,74,20,7,6548,Neutral,3,0,2,Medium,Normal
+08/04/2023,71,97,72,16,8,10319,Happy,3,2,1,Low,Normal
+08/05/2023,99,142,85,27,5,7999,Sad,2,2,2,High,Moderate Stress
+08/06/2023,73,138,70,20,7,6905,Happy,2,2,1,Medium,Moderate Stress
+08/07/2023,70,115,69,12,9,14487,Sad,2,2,2,Low,Normal
+08/08/2023,71,116,88,19,6,7109,Neutral,3,2,2,Medium,Moderate Stress
+08/09/2023,63,96,66,13,8,11295,Happy,2,2,1,Low,Normal
+08/10/2023,60,90,79,12,9,10457,Neutral,2,1,2,Low,Normal
+08/11/2023,69,91,73,16,7,14175,Neutral,3,0,2,Low,Anxiety
+08/12/2023,61,105,64,16,8,12760,Sad,2,2,1,Low,Mild Stress
+08/13/2023,68,91,66,17,7,14279,Sad,2,1,1,Low,Normal
+08/14/2023,82,125,79,15,7,8115,Neutral,3,0,1,Medium,Moderate Stress
+08/15/2023,67,97,78,12,8,8055,Sad,3,2,1,Low,Normal
+08/16/2023,74,132,82,20,6,9536,Happy,3,1,0,Medium,Anxiety
+08/17/2023,73,105,72,13,8,13171,Neutral,2,0,1,Low,Normal
+08/18/2023,83,134,71,20,6,5314,Neutral,1,1,2,Medium,Anxiety
+08/19/2023,77,112,71,14,7,9949,Neutral,1,1,2,Medium,Anxiety
+08/20/2023,72,117,79,17,9,9526,Neutral,3,0,2,Low,Normal
+08/21/2023,104,134,85,20,4,2826,Sad,2,0,0,High,Moderate Stress
+08/22/2023,82,131,85,21,7,9213,Sad,3,2,1,Medium,Anxiety
+08/23/2023,71,117,67,13,9,10203,Happy,1,0,1,Low,Moderate Stress
+08/24/2023,68,94,76,12,8,12609,Anxious,3,2,0,Low,Mild Stress
+08/25/2023,62,116,61,14,9,8272,Anxious,3,0,1,Low,Mild Stress
+08/26/2023,85,114,72,16,6,6770,Neutral,2,0,0,Medium,Severe Stress
+08/27/2023,64,106,64,17,9,12904,Neutral,1,2,1,Low,Normal
+08/28/2023,69,107,62,15,8,13936,Happy,3,2,2,Low,Normal
+08/29/2023,66,90,67,14,7,11603,Happy,2,1,0,Low,Moderate Stress
+08/30/2023,63,93,68,13,9,11929,Happy,3,2,0,Low,Mild Stress
+08/31/2023,71,90,78,17,8,10577,Sad,2,0,1,Low,Normal
+09/01/2023,67,91,61,12,8,13277,Sad,4,5,3,Low,Mild Stress
+09/02/2023,71,129,84,14,6,9307,Neutral,3,5,5,Medium,Moderate Stress
+09/03/2023,76,117,83,17,6,9028,Neutral,4,3,3,Medium,Mild Stress
+09/04/2023,83,123,71,19,6,9765,Neutral,6,2,2,Medium,Mild Stress
+09/05/2023,88,132,84,21,6,5238,Neutral,6,5,2,Medium,Normal
+09/06/2023,76,122,81,17,7,6272,Sad,3,4,5,Medium,Moderate Stress
+09/07/2023,88,115,81,19,7,6403,Anxious,6,4,4,Medium,Normal
+09/08/2023,64,95,62,16,7,12522,Neutral,6,2,4,Low,Normal
+09/09/2023,61,115,72,15,7,8012,Anxious,5,3,4,Low,Normal
+09/10/2023,80,113,70,20,7,5328,Neutral,3,5,4,Medium,Moderate Stress
+09/11/2023,72,117,80,14,7,9773,Neutral,4,4,3,Medium,Normal
+09/12/2023,82,125,82,17,7,9925,Happy,4,5,4,Medium,Mild Stress
+09/13/2023,70,114,86,14,6,8491,Neutral,6,4,5,Medium,Normal
+09/14/2023,86,120,86,20,6,6064,Anxious,6,2,4,Medium,Normal
+09/15/2023,75,129,77,14,6,9829,Anxious,4,4,2,Medium,Moderate Stress
+09/16/2023,82,156,83,27,6,3658,Sad,3,5,4,High,Anxiety
+09/17/2023,71,132,80,16,6,9412,Happy,5,2,2,Medium,Normal
+09/18/2023,89,120,75,20,7,5251,Happy,4,4,5,Medium,Normal
+09/19/2023,75,92,66,13,7,8441,Happy,5,4,5,Low,Mild Stress
+09/20/2023,72,90,69,12,7,14624,Happy,6,4,2,Low,Mild Stress
+09/21/2023,69,103,66,15,8,13207,Neutral,3,2,2,Low,Mild Stress
+09/22/2023,89,125,89,19,7,6859,Neutral,4,4,3,Medium,Moderate Stress
+09/23/2023,72,115,84,16,7,6023,Neutral,5,5,3,Medium,Mild Stress
+09/24/2023,62,115,72,13,9,11356,Happy,6,4,5,Low,Mild Stress
+09/25/2023,71,126,72,17,7,8041,Happy,6,3,2,Medium,Severe Stress
+09/26/2023,68,119,72,13,8,14346,Sad,4,3,5,Low,Normal
+09/27/2023,79,112,76,20,6,8231,Happy,6,3,3,Medium,Anxiety
+09/28/2023,66,102,74,14,8,14913,Neutral,6,4,2,Low,Severe Stress
+09/29/2023,67,113,76,16,8,10046,Neutral,5,2,3,Low,Mild Stress
+09/30/2023,88,121,78,20,7,7944,Sad,5,2,2,Medium,Mild Stress
+10/01/2023,77,139,82,21,7,9113,Sad,5,2,4,Medium,Normal
+10/02/2023,75,128,73,17,7,9735,Neutral,5,3,5,Medium,Mild Stress
+10/03/2023,73,133,82,17,6,6670,Anxious,3,2,3,Medium,Normal
+10/04/2023,77,96,60,14,9,11348,Happy,4,4,3,Low,Moderate Stress
+10/05/2023,72,139,82,17,6,6141,Happy,4,5,3,Medium,Mild Stress
+10/06/2023,63,102,68,12,9,12948,Happy,3,2,5,Low,Severe Stress
+10/07/2023,80,126,83,21,7,9318,Happy,4,5,2,Medium,Moderate Stress
+10/08/2023,78,116,81,17,7,8959,Neutral,6,2,5,Medium,Severe Stress
+10/09/2023,79,108,67,15,8,12578,Happy,3,3,4,Low,Anxiety
+10/10/2023,98,131,85,28,4,5534,Anxious,5,4,2,High,Anxiety
+10/11/2023,76,100,74,15,9,13029,Sad,3,2,2,Low,Mild Stress
+10/12/2023,106,144,97,26,5,2258,Sad,3,3,5,High,Severe Stress
+10/13/2023,81,134,83,19,6,9370,Sad,6,4,3,Medium,Mild Stress
+10/14/2023,75,126,87,20,7,9022,Happy,3,3,3,Medium,Severe Stress
+10/15/2023,90,130,93,18,4,2829,Anxious,3,2,5,High,Moderate Stress
+10/16/2023,83,130,98,27,6,7774,Anxious,3,5,3,High,Anxiety
+10/17/2023,75,105,63,12,7,11008,Neutral,6,2,5,Low,Mild Stress
+10/18/2023,95,147,81,18,6,6970,Sad,6,2,5,High,Normal
+10/19/2023,70,114,66,12,8,13744,Happy,5,3,2,Low,Mild Stress
+10/20/2023,81,118,87,20,6,8041,Anxious,3,2,4,Medium,Moderate Stress
+10/21/2023,75,118,72,21,6,7263,Sad,6,4,5,Medium,Mild Stress
+10/22/2023,63,116,69,17,7,9783,Happy,5,5,3,Low,Normal
+10/23/2023,70,119,75,19,6,8689,Neutral,6,3,3,Medium,Moderate Stress
+10/24/2023,69,114,73,15,9,10039,Anxious,5,3,2,Low,Moderate Stress
+10/25/2023,61,104,65,16,8,14834,Happy,3,4,3,Low,Mild Stress
+10/26/2023,74,105,60,13,9,11044,Neutral,6,5,4,Low,Moderate Stress
+10/27/2023,75,98,70,17,9,11674,Neutral,4,5,5,Low,Moderate Stress
+10/28/2023,67,99,77,15,7,10970,Happy,6,2,2,Low,Normal
+10/29/2023,62,90,61,14,8,12425,Anxious,6,2,3,Low,Mild Stress
+10/30/2023,65,116,66,12,8,11092,Sad,4,5,5,Low,Mild Stress
+10/31/2023,63,95,69,13,8,12325,Anxious,4,3,2,Low,Normal
+11/01/2023,81,121,73,17,7,9325,Anxious,3,2,2,Medium,Mild Stress
+11/02/2023,78,113,75,12,8,10355,Anxious,4,5,3,Low,Mild Stress
+11/03/2023,78,111,72,15,7,8231,Neutral,6,2,3,Medium,Moderate Stress
+11/04/2023,74,107,68,12,9,8553,Neutral,6,5,5,Low,Moderate Stress
+11/05/2023,74,102,75,13,9,12958,Anxious,3,5,4,Low,Mild Stress
+11/06/2023,75,121,79,19,6,7355,Sad,6,4,2,Medium,Normal
+11/07/2023,87,134,71,21,7,7238,Neutral,6,3,4,Medium,Anxiety
+11/08/2023,82,118,89,17,7,8190,Sad,5,4,2,Medium,Normal
+11/09/2023,76,104,78,14,8,14749,Anxious,3,5,3,Low,Normal
+11/10/2023,80,118,84,14,7,7160,Happy,6,3,2,Medium,Severe Stress
+11/11/2023,70,98,68,15,9,14452,Neutral,5,2,5,Low,Normal
+11/12/2023,74,108,65,15,7,9572,Happy,6,3,5,Low,Normal
+11/13/2023,75,133,79,19,7,7669,Happy,6,4,4,Medium,Mild Stress
+11/14/2023,101,131,95,25,5,2325,Sad,3,4,4,High,Mild Stress
+11/15/2023,71,100,76,15,7,11254,Neutral,3,2,5,Low,Normal
+11/16/2023,83,134,83,15,7,7456,Neutral,4,2,3,Medium,Severe Stress
+11/17/2023,74,112,72,18,7,9439,Anxious,6,4,2,Medium,Normal
+11/18/2023,87,119,78,19,6,5740,Anxious,3,3,4,Medium,Mild Stress
+11/19/2023,63,106,69,15,9,9409,Anxious,3,4,2,Low,Mild Stress
+11/20/2023,80,121,70,15,7,6537,Sad,5,3,4,Medium,Moderate Stress
+11/21/2023,97,153,87,25,5,7726,Anxious,5,4,5,High,Severe Stress
+11/22/2023,87,115,78,18,7,7608,Anxious,5,2,4,Medium,Anxiety
+11/23/2023,73,119,87,16,6,9834,Sad,6,2,4,Medium,Mild Stress
+11/24/2023,75,133,82,17,7,6208,Happy,5,2,2,Medium,Mild Stress
+11/25/2023,63,101,65,14,8,11072,Neutral,6,5,5,Low,Mild Stress
+11/26/2023,76,104,78,12,8,9797,Happy,6,2,4,Low,Normal
+11/27/2023,76,124,80,15,7,8962,Happy,5,5,5,Medium,Mild Stress
+11/28/2023,72,90,62,17,8,8083,Sad,6,3,2,Low,Mild Stress
+11/29/2023,78,109,68,17,8,10896,Sad,3,5,4,Low,Normal
+11/30/2023,71,119,85,21,6,5954,Happy,4,3,5,Medium,Mild Stress
+12/01/2023,82,153,88,25,6,3957,Sad,8,7,8,High,Severe Stress
+12/02/2023,85,136,85,21,7,5887,Sad,8,8,6,Medium,Normal
+12/03/2023,95,151,97,20,4,6357,Happy,8,8,7,High,Anxiety
+12/04/2023,84,130,83,17,7,8207,Happy,6,7,8,Medium,Mild Stress
+12/05/2023,89,159,98,26,6,7997,Neutral,6,9,5,High,Severe Stress
+12/06/2023,63,115,69,13,8,13430,Happy,6,7,9,Low,Normal
+12/07/2023,81,142,93,27,5,3891,Anxious,8,11,9,High,Mild Stress
+12/08/2023,82,155,94,25,4,4616,Anxious,8,6,7,High,Anxiety
+12/09/2023,73,134,73,16,6,9733,Happy,7,6,6,Medium,Moderate Stress
+12/10/2023,65,96,73,14,8,12228,Sad,9,11,6,Low,Normal
+12/11/2023,78,112,73,21,6,9245,Neutral,6,7,6,Medium,Mild Stress
+12/12/2023,84,137,78,20,6,6015,Sad,8,6,6,Medium,Mild Stress
+12/13/2023,72,117,71,20,7,6394,Happy,9,10,5,Medium,Mild Stress
+12/14/2023,109,140,81,24,6,7519,Neutral,8,9,9,High,Mild Stress
+12/15/2023,83,141,96,18,5,7566,Anxious,9,6,7,High,Moderate Stress
+12/16/2023,71,133,75,17,7,7646,Happy,8,9,8,Medium,Moderate Stress
+12/17/2023,73,122,73,15,7,7880,Happy,8,10,7,Medium,Moderate Stress
+12/18/2023,108,152,92,28,6,3012,Anxious,9,10,5,High,Severe Stress
+12/19/2023,89,130,96,29,5,4125,Anxious,7,6,8,High,Mild Stress
+12/20/2023,78,133,82,17,7,5457,Sad,9,11,5,Medium,Moderate Stress
+12/21/2023,77,96,64,13,8,11322,Happy,7,11,8,Low,Normal
+12/22/2023,91,137,89,21,5,6231,Happy,6,9,5,High,Severe Stress
+12/23/2023,70,136,89,18,7,8088,Sad,7,8,5,Medium,Anxiety
+12/24/2023,73,113,73,16,7,13684,Happy,7,11,8,Low,Normal
+12/25/2023,69,115,77,15,8,13587,Happy,9,10,5,Low,Mild Stress
+12/26/2023,70,127,73,20,7,8747,Happy,7,9,7,Medium,Normal
+12/27/2023,103,158,83,18,5,2023,Happy,8,9,9,High,Normal
+12/28/2023,104,139,82,24,4,2218,Happy,8,9,8,High,Anxiety
+12/29/2023,68,118,60,13,7,13812,Happy,6,7,7,Low,Mild Stress
+12/30/2023,100,142,82,27,5,4161,Anxious,7,11,8,High,Anxiety
+12/31/2023,72,104,71,16,9,14048,Happy,8,7,6,Low,Mild Stress
+01/01/2024,97,157,92,19,5,2929,Sad,6,9,9,High,Severe Stress
+01/02/2024,71,136,85,16,7,5665,Neutral,6,9,6,Medium,Severe Stress
+01/03/2024,99,151,85,23,4,4853,Sad,8,6,9,High,Severe Stress
+01/04/2024,101,136,85,20,4,3070,Anxious,7,11,8,High,Anxiety
+01/05/2024,62,90,62,12,7,9862,Neutral,6,8,8,Low,Normal
+01/06/2024,61,104,70,17,8,11571,Neutral,8,11,5,Low,Normal
+01/07/2024,93,130,88,18,5,7420,Happy,7,7,6,High,Severe Stress
+01/08/2024,62,107,77,17,9,11877,Happy,9,10,6,Low,Normal
+01/09/2024,103,133,95,18,5,5974,Sad,7,9,6,High,Moderate Stress
+01/10/2024,83,143,84,26,6,7255,Sad,8,8,7,High,Severe Stress
+01/11/2024,93,155,85,26,5,4560,Happy,6,8,9,High,Moderate Stress
+01/12/2024,89,147,91,29,4,2544,Neutral,7,7,6,High,Mild Stress
+01/13/2024,82,131,85,24,5,5790,Anxious,7,7,7,High,Anxiety
+01/14/2024,75,134,80,18,7,6443,Anxious,7,8,9,Medium,Anxiety
+01/15/2024,84,134,97,23,4,6049,Neutral,7,11,7,High,Moderate Stress
+01/16/2024,104,142,99,20,6,4859,Anxious,7,6,5,High,Severe Stress
+01/17/2024,77,123,79,16,6,8463,Neutral,7,8,8,Medium,Moderate Stress
+01/18/2024,99,158,99,22,4,7528,Sad,9,6,5,High,Normal
+01/19/2024,99,153,83,25,4,4101,Anxious,7,7,6,High,Severe Stress
+01/20/2024,82,138,83,16,6,9937,Neutral,7,8,9,Medium,Mild Stress
+01/21/2024,72,135,84,21,7,7853,Neutral,7,6,5,Medium,Mild Stress
+01/22/2024,88,147,98,23,5,7668,Sad,9,8,7,High,Moderate Stress
+01/23/2024,69,113,73,15,9,13262,Happy,8,6,7,Low,Normal
+01/24/2024,105,155,87,22,4,7191,Neutral,7,10,5,High,Severe Stress
+01/25/2024,95,133,96,26,5,3522,Neutral,9,11,8,High,Mild Stress
+01/26/2024,82,131,87,27,6,2575,Sad,6,6,9,High,Anxiety
+01/27/2024,81,148,80,22,4,7696,Sad,8,10,6,High,Moderate Stress
+01/28/2024,104,144,87,27,6,3058,Anxious,6,6,9,High,Severe Stress
+01/29/2024,80,117,81,15,6,9147,Anxious,6,10,9,Medium,Moderate Stress
+01/30/2024,104,153,92,18,5,6825,Neutral,9,8,6,High,Severe Stress
+01/31/2024,83,146,85,24,5,2200,Anxious,8,11,6,High,Severe Stress
+02/01/2024,98,139,97,26,4,5424,Sad,6,3,3,High,Moderate Stress
+02/02/2024,78,118,72,13,9,9749,Happy,3,2,3,Low,Normal
+02/03/2024,104,134,87,25,6,4888,Anxious,3,4,4,High,Severe Stress
+02/04/2024,85,116,72,19,7,7484,Happy,3,3,3,Medium,Mild Stress
+02/05/2024,88,122,75,19,7,7425,Happy,5,4,5,Medium,Moderate Stress
+02/06/2024,84,121,72,18,6,6604,Anxious,6,2,3,Medium,Anxiety
+02/07/2024,73,120,78,19,7,8617,Happy,3,5,5,Medium,Mild Stress
+02/08/2024,83,139,80,28,6,5336,Anxious,5,3,3,High,Moderate Stress
+02/09/2024,68,101,62,17,8,12911,Anxious,4,2,2,Low,Mild Stress
+02/10/2024,109,148,96,22,4,7554,Anxious,5,4,5,High,Anxiety
+02/11/2024,83,133,88,25,5,2220,Sad,5,4,5,High,Anxiety
+02/12/2024,78,111,70,17,7,5388,Anxious,4,5,5,Medium,Severe Stress
+02/13/2024,80,110,84,21,7,5446,Sad,3,4,3,Medium,Moderate Stress
+02/14/2024,69,90,61,12,8,13087,Happy,3,5,5,Low,Normal
+02/15/2024,89,136,89,19,6,6539,Sad,6,2,4,High,Severe Stress
+02/16/2024,100,130,90,19,5,2563,Happy,6,5,4,High,Moderate Stress
+02/17/2024,74,139,70,16,6,9648,Anxious,3,4,3,Medium,Normal
+02/18/2024,74,136,79,17,7,5201,Happy,5,3,4,Medium,Severe Stress
+02/19/2024,89,139,73,20,7,9051,Happy,6,5,5,Medium,Severe Stress
+02/20/2024,87,142,97,23,4,5621,Sad,5,2,3,High,Severe Stress
+02/21/2024,70,127,74,19,6,8098,Neutral,6,2,4,Medium,Moderate Stress
+02/22/2024,76,109,77,17,9,8611,Anxious,5,2,4,Low,Mild Stress
+02/23/2024,104,138,84,19,4,4732,Sad,6,2,4,High,Anxiety
+02/24/2024,74,129,76,17,7,5201,Neutral,3,5,5,Medium,Anxiety
+02/25/2024,85,149,91,20,6,2229,Sad,5,4,5,High,Severe Stress
+02/26/2024,69,106,61,15,8,8115,Happy,5,5,2,Low,Moderate Stress
+02/27/2024,71,103,66,14,7,13831,Happy,5,5,4,Low,Mild Stress
+02/28/2024,76,139,87,21,7,6778,Happy,5,2,3,Medium,Severe Stress
+02/29/2024,75,135,81,16,7,9444,Happy,4,5,4,Medium,Anxiety
+03/01/2024,81,129,77,20,7,6928,Sad,3,2,3,Medium,Mild Stress
+03/02/2024,67,103,66,13,9,10122,Neutral,3,3,2,Low,Normal
+03/03/2024,79,100,77,12,8,8166,Sad,4,5,5,Low,Mild Stress
+03/04/2024,72,116,75,20,6,6671,Happy,3,3,2,Medium,Normal
+03/05/2024,80,113,76,17,7,9533,Sad,4,3,4,Medium,Anxiety
+03/06/2024,83,134,88,25,6,2245,Neutral,5,3,3,High,Severe Stress
+03/07/2024,78,104,66,15,8,9788,Happy,3,5,3,Low,Anxiety
+03/08/2024,69,114,64,13,7,10909,Happy,3,4,2,Low,Mild Stress
+03/09/2024,94,148,89,25,4,5837,Anxious,4,4,2,High,Severe Stress
+03/10/2024,84,115,70,19,7,9951,Neutral,4,4,3,Medium,Mild Stress
+03/11/2024,65,90,73,13,8,10278,Happy,5,3,2,Low,Moderate Stress
+03/12/2024,75,111,75,13,7,12549,Anxious,4,4,3,Low,Normal
+03/13/2024,65,106,70,15,7,14179,Anxious,3,5,5,Low,Mild Stress
+03/14/2024,72,108,60,17,8,12802,Happy,4,4,2,Low,Mild Stress
+03/15/2024,90,139,86,25,5,5040,Anxious,6,5,4,High,Severe Stress
+03/16/2024,72,117,68,13,9,11763,Happy,3,2,4,Low,Normal
+03/17/2024,87,143,88,26,4,3573,Anxious,5,5,2,High,Moderate Stress
+03/18/2024,69,92,79,15,8,9632,Happy,6,4,3,Low,Moderate Stress
+03/19/2024,79,134,86,16,6,8509,Neutral,6,5,2,Medium,Mild Stress
+03/20/2024,108,144,92,25,6,5348,Neutral,4,4,3,High,Severe Stress
+03/21/2024,73,112,80,16,7,7354,Anxious,5,5,5,Medium,Moderate Stress
+03/22/2024,69,112,74,17,9,13136,Neutral,3,4,5,Low,Mild Stress
+03/23/2024,75,111,71,21,7,9199,Sad,3,5,4,Medium,Anxiety
+03/24/2024,73,126,80,16,7,5906,Anxious,6,2,3,Medium,Moderate Stress
+03/25/2024,75,92,67,14,8,11061,Anxious,4,4,3,Low,Normal
+03/26/2024,63,93,68,14,7,11392,Neutral,3,3,3,Low,Normal
+03/27/2024,85,117,83,18,6,6674,Sad,6,3,4,Medium,Anxiety
+03/28/2024,73,115,88,14,7,5975,Neutral,6,3,4,Medium,Moderate Stress
+03/29/2024,74,131,75,19,6,5097,Anxious,3,5,5,Medium,Normal
+03/30/2024,76,94,79,16,7,12876,Happy,5,3,3,Low,Mild Stress
+03/31/2024,90,133,94,23,6,7208,Anxious,6,3,5,High,Anxiety
+04/01/2024,92,135,85,28,6,4554,Anxious,5,4,2,High,Severe Stress
+04/02/2024,85,122,88,14,6,6951,Neutral,6,3,2,Medium,Moderate Stress
+04/03/2024,95,147,92,19,5,2116,Anxious,4,4,5,High,Severe Stress
+04/04/2024,61,96,74,14,8,8338,Neutral,6,3,5,Low,Normal
+04/05/2024,76,96,70,13,8,8301,Anxious,3,2,3,Low,Moderate Stress
+04/06/2024,83,149,95,25,5,4873,Sad,3,4,3,High,Moderate Stress
+04/07/2024,77,98,77,12,9,10896,Anxious,4,5,2,Low,Anxiety
+04/08/2024,70,112,88,21,7,7492,Neutral,3,2,5,Medium,Moderate Stress
+04/09/2024,76,111,75,15,9,10352,Happy,3,5,5,Low,Mild Stress
+04/10/2024,91,150,95,25,5,5123,Happy,4,4,4,High,Normal
+04/11/2024,75,113,78,14,6,7870,Happy,5,5,2,Medium,Severe Stress
+04/12/2024,91,145,84,27,6,4605,Anxious,6,3,5,High,Anxiety
+04/13/2024,86,112,70,14,7,7007,Anxious,3,3,2,Medium,Anxiety
+04/14/2024,70,126,79,19,6,9824,Sad,6,3,3,Medium,Mild Stress
+04/15/2024,103,156,86,22,6,2486,Anxious,6,5,4,High,Anxiety
+04/16/2024,88,129,84,21,6,6070,Neutral,5,4,4,Medium,Moderate Stress
+04/17/2024,72,125,74,17,7,9182,Anxious,4,4,5,Medium,Mild Stress
+04/18/2024,79,131,86,17,7,6258,Anxious,4,2,4,Medium,Anxiety
+04/19/2024,108,158,87,28,6,4732,Sad,3,2,3,High,Severe Stress
+04/20/2024,108,150,86,29,6,5551,Sad,6,3,4,High,Mild Stress
+04/21/2024,84,145,90,23,6,6207,Anxious,5,4,3,High,Severe Stress
+04/22/2024,81,117,72,16,7,8202,Sad,5,2,2,Medium,Normal
+04/23/2024,61,113,68,17,8,10026,Happy,4,4,2,Low,Mild Stress
+04/24/2024,61,112,71,13,7,8960,Happy,6,4,5,Low,Mild Stress
+04/25/2024,102,144,86,21,4,6401,Neutral,5,4,2,High,Anxiety
+04/26/2024,75,123,74,19,7,5766,Anxious,5,2,3,Medium,Severe Stress
+04/27/2024,81,128,88,18,6,8141,Anxious,6,2,4,Medium,Normal
+04/28/2024,102,143,98,28,5,5663,Anxious,6,5,3,High,Moderate Stress
+04/29/2024,87,135,75,20,6,5240,Happy,3,4,5,Medium,Moderate Stress
+04/30/2024,71,105,69,15,8,8142,Sad,5,3,3,Low,Moderate Stress
+05/01/2024,86,141,99,21,6,4849,Neutral,9,8,5,High,Moderate Stress
+05/02/2024,66,93,66,17,8,9423,Happy,9,9,7,Low,Normal
+05/03/2024,71,129,75,19,6,5180,Neutral,6,7,6,Medium,Severe Stress
+05/04/2024,80,122,84,14,7,7357,Happy,9,11,7,Medium,Severe Stress
+05/05/2024,84,136,94,22,5,5779,Anxious,6,6,5,High,Anxiety
+05/06/2024,91,147,88,25,5,7421,Anxious,9,6,6,High,Severe Stress
+05/07/2024,69,97,66,17,7,12215,Sad,7,6,8,Low,Normal
+05/08/2024,91,140,93,23,4,7153,Happy,8,6,5,High,Anxiety
+05/09/2024,91,134,91,20,4,4077,Anxious,6,7,9,High,Severe Stress
+05/10/2024,104,133,93,18,4,2076,Happy,6,8,8,High,Moderate Stress
+05/11/2024,104,152,87,19,4,7404,Anxious,6,7,8,High,Anxiety
+05/12/2024,107,140,95,21,6,2571,Anxious,9,8,8,High,Severe Stress
+05/13/2024,99,139,98,25,6,4303,Anxious,8,9,9,High,Mild Stress
+05/14/2024,72,112,77,18,6,7995,Neutral,9,11,6,Medium,Moderate Stress
+05/15/2024,80,113,89,20,7,8262,Sad,7,11,5,Medium,Mild Stress
+05/16/2024,99,151,88,27,4,7140,Anxious,8,11,7,High,Mild Stress
+05/17/2024,95,157,95,28,4,6482,Sad,7,11,7,High,Severe Stress
+05/18/2024,81,137,86,28,4,3973,Sad,9,11,5,High,Severe Stress
+05/19/2024,98,147,89,19,5,3186,Neutral,8,8,6,High,Moderate Stress
+05/20/2024,65,95,72,16,8,12306,Anxious,8,7,5,Low,Moderate Stress
+05/21/2024,105,135,99,24,5,4267,Sad,9,6,6,High,Normal
+05/22/2024,86,136,73,20,6,9158,Sad,7,11,6,Medium,Normal
+05/23/2024,97,147,92,29,5,2976,Anxious,9,8,5,High,Severe Stress
+05/24/2024,83,155,80,18,6,5590,Anxious,8,8,6,High,Mild Stress
+05/25/2024,105,132,91,24,4,5749,Neutral,7,11,9,High,Mild Stress
+05/26/2024,90,144,81,22,6,3119,Neutral,6,8,5,High,Severe Stress
+05/27/2024,98,142,83,28,5,4673,Anxious,7,10,5,High,Moderate Stress
+05/28/2024,82,131,98,24,4,4946,Neutral,8,7,6,High,Severe Stress
+05/29/2024,78,117,80,15,6,8918,Sad,9,7,7,Medium,Moderate Stress
+05/30/2024,82,136,86,18,5,6211,Neutral,9,8,8,High,Severe Stress
+05/31/2024,76,123,85,16,7,5526,Neutral,6,7,5,Medium,Mild Stress
+06/01/2024,81,139,89,19,7,6589,Sad,9,8,6,Medium,Moderate Stress
+06/02/2024,87,125,89,18,7,5670,Happy,8,7,5,Medium,Normal
+06/03/2024,82,126,84,15,7,9652,Happy,8,11,6,Medium,Normal
+06/04/2024,74,116,81,17,6,7241,Anxious,7,6,6,Medium,Moderate Stress
+06/05/2024,82,158,89,28,6,2234,Sad,7,11,5,High,Moderate Stress
+06/06/2024,97,153,89,29,6,2143,Anxious,9,9,9,High,Moderate Stress
+06/07/2024,83,134,72,19,6,8902,Happy,9,10,5,Medium,Mild Stress
+06/08/2024,80,151,94,27,5,5430,Anxious,6,9,7,High,Moderate Stress
+06/09/2024,74,125,80,14,6,7053,Neutral,6,11,9,Medium,Normal
+06/10/2024,107,158,81,18,5,6388,Sad,9,7,5,High,Anxiety
+06/11/2024,83,123,87,15,6,8535,Happy,7,9,8,Medium,Mild Stress
+06/12/2024,69,91,66,16,7,12258,Anxious,7,6,7,Low,Normal
+06/13/2024,81,150,83,29,6,3365,Sad,6,8,8,High,Anxiety
+06/14/2024,102,147,81,20,5,5134,Happy,7,8,5,High,Mild Stress
+06/15/2024,91,137,84,28,5,6578,Sad,6,9,7,High,Severe Stress
+06/16/2024,83,137,73,15,7,5863,Happy,8,6,6,Medium,Normal
+06/17/2024,81,148,86,24,5,6542,Neutral,8,8,8,High,Severe Stress
+06/18/2024,98,159,98,25,4,4039,Neutral,9,6,6,High,Severe Stress
+06/19/2024,102,151,86,18,4,5894,Sad,6,7,6,High,Anxiety
+06/20/2024,83,123,79,17,6,9860,Anxious,9,9,7,Medium,Moderate Stress
+06/21/2024,85,144,98,23,4,4871,Sad,7,10,7,High,Moderate Stress
+06/22/2024,62,91,73,15,7,11764,Neutral,8,6,8,Low,Mild Stress
+06/23/2024,78,112,71,17,7,7741,Neutral,6,11,8,Medium,Normal
+06/24/2024,73,112,84,19,6,7302,Anxious,8,8,7,Medium,Anxiety
+06/25/2024,87,135,83,14,6,6446,Anxious,9,9,8,Medium,Normal
+06/26/2024,93,153,95,22,4,7661,Anxious,7,10,7,High,Severe Stress
+06/27/2024,97,143,91,27,5,5709,Sad,8,9,6,High,Moderate Stress
+06/28/2024,106,150,97,26,4,2954,Sad,6,6,8,High,Anxiety
+06/29/2024,70,128,84,14,6,5207,Anxious,9,11,7,Medium,Normal
+06/30/2024,99,146,84,18,4,7850,Anxious,8,7,6,High,Severe Stress
+07/01/2024,99,140,81,25,5,4226,Anxious,1,1,0,High,Anxiety
+07/02/2024,79,105,74,15,7,9538,Neutral,2,2,0,Low,Mild Stress
+07/03/2024,62,99,71,13,8,9801,Happy,1,1,2,Low,Mild Stress
+07/04/2024,68,105,74,17,7,9836,Neutral,3,2,2,Low,Severe Stress
+07/05/2024,86,118,81,18,7,9838,Neutral,2,0,1,Medium,Severe Stress
+07/06/2024,72,134,77,14,6,5017,Neutral,1,0,0,Medium,Mild Stress
+07/07/2024,90,142,82,28,4,2871,Anxious,1,0,1,High,Severe Stress
+07/08/2024,65,103,69,15,8,10431,Happy,2,1,0,Low,Anxiety
+07/09/2024,75,114,71,15,8,14227,Happy,3,0,1,Low,Mild Stress
+07/10/2024,75,107,78,15,8,14073,Happy,2,1,2,Low,Normal
+07/11/2024,75,103,72,16,8,14785,Neutral,3,2,1,Low,Anxiety
+07/12/2024,75,114,65,13,7,10720,Sad,1,1,1,Low,Severe Stress
+07/13/2024,77,99,62,14,8,9814,Neutral,2,2,0,Low,Normal
+07/14/2024,70,102,79,12,8,9776,Neutral,1,0,1,Low,Moderate Stress
+07/15/2024,70,118,62,13,7,10122,Happy,2,2,1,Low,Anxiety
+07/16/2024,99,136,96,25,4,5033,Happy,2,0,1,High,Moderate Stress
+07/17/2024,66,95,76,16,9,10279,Neutral,1,1,1,Low,Mild Stress
+07/18/2024,67,92,67,17,7,9964,Happy,3,2,2,Low,Normal
+07/19/2024,83,129,73,17,6,9740,Sad,3,1,1,Medium,Anxiety
+07/20/2024,69,107,66,16,9,8188,Neutral,2,0,0,Low,Normal
+07/21/2024,74,90,62,13,9,11432,Anxious,3,1,1,Low,Normal
+07/22/2024,65,90,77,17,8,14125,Happy,1,1,2,Low,Mild Stress
+07/23/2024,85,121,81,17,7,7509,Sad,3,0,0,Medium,Mild Stress
+07/24/2024,72,98,75,15,8,14482,Happy,2,2,1,Low,Anxiety
+07/25/2024,73,116,72,16,7,13512,Happy,2,2,0,Low,Mild Stress
+07/26/2024,75,134,72,15,6,7072,Happy,1,0,1,Medium,Anxiety
+07/27/2024,79,111,71,14,7,12700,Happy,2,2,1,Low,Normal
+07/28/2024,88,134,72,17,6,7740,Neutral,3,1,2,Medium,Normal
+07/29/2024,83,111,79,14,7,9685,Neutral,1,1,1,Medium,Severe Stress
+07/30/2024,96,153,93,22,6,3604,Sad,1,0,0,High,Severe Stress
+07/31/2024,78,126,72,18,7,9719,Anxious,3,2,0,Medium,Moderate Stress
+08/01/2024,76,96,61,15,7,12911,Happy,3,0,1,Low,Severe Stress
+08/02/2024,75,112,74,16,8,14428,Happy,2,1,1,Low,Moderate Stress
+08/03/2024,70,101,63,12,7,11255,Anxious,3,1,1,Low,Moderate Stress
+08/04/2024,103,153,93,26,5,7937,Neutral,2,2,2,High,Moderate Stress
+08/05/2024,89,111,72,15,6,5075,Happy,1,1,0,Medium,Normal
+08/06/2024,62,119,69,16,7,13860,Happy,2,1,2,Low,Severe Stress
+08/07/2024,75,117,65,15,9,13033,Happy,1,2,2,Low,Mild Stress
+08/08/2024,61,111,61,13,9,13449,Sad,1,1,2,Low,Normal
+08/09/2024,72,111,60,13,7,14900,Neutral,1,0,2,Low,Normal
+08/10/2024,67,98,77,15,9,8607,Neutral,3,0,2,Low,Mild Stress
+08/11/2024,88,118,86,20,7,8774,Sad,1,1,1,Medium,Severe Stress
+08/12/2024,61,108,73,14,7,9199,Anxious,3,1,0,Low,Normal
+08/13/2024,79,114,80,19,7,7790,Neutral,2,0,2,Medium,Moderate Stress
+08/14/2024,61,107,63,16,7,10241,Anxious,1,0,0,Low,Normal
+08/15/2024,100,131,82,24,5,3916,Sad,1,0,1,High,Mild Stress
+08/16/2024,69,116,78,14,9,12176,Neutral,1,2,2,Low,Mild Stress
+08/17/2024,67,107,77,14,9,12796,Happy,3,2,1,Low,Normal
+08/18/2024,64,101,60,14,9,13230,Sad,3,2,2,Low,Mild Stress
+08/19/2024,77,122,84,21,7,8559,Sad,1,2,0,Medium,Anxiety
+08/20/2024,69,102,64,17,7,14473,Happy,2,2,1,Low,Mild Stress
+08/21/2024,75,109,76,16,8,13510,Neutral,2,2,0,Low,Normal
+08/22/2024,78,115,64,14,9,14674,Neutral,1,1,1,Low,Moderate Stress
+08/23/2024,73,137,77,14,7,5952,Anxious,2,1,2,Medium,Moderate Stress
+08/24/2024,70,133,81,16,7,5761,Anxious,2,2,1,Medium,Anxiety
+08/25/2024,75,112,67,15,7,11493,Happy,1,2,1,Low,Normal
+08/26/2024,62,107,67,17,7,10831,Happy,3,2,0,Low,Anxiety
+08/27/2024,89,129,72,19,6,8090,Happy,1,2,0,Medium,Anxiety
+08/28/2024,76,107,68,17,9,13442,Neutral,1,2,0,Low,Normal
+08/29/2024,85,133,81,18,7,5478,Neutral,1,0,0,Medium,Anxiety
+08/30/2024,68,118,67,14,8,10414,Sad,1,1,0,Low,Normal
+08/31/2024,78,112,76,16,9,13950,Happy,2,1,1,Low,Normal
+09/01/2024,86,135,85,26,5,2823,Neutral,3,5,3,High,Anxiety
+09/02/2024,73,134,76,15,6,9499,Neutral,4,5,2,Medium,Mild Stress
+09/03/2024,70,130,77,20,6,7737,Happy,6,5,3,Medium,Severe Stress
+09/04/2024,67,95,63,16,7,13004,Happy,3,2,5,Low,Mild Stress
+09/05/2024,78,119,75,16,7,11094,Happy,4,4,2,Low,Normal
+09/06/2024,86,112,82,17,7,8996,Neutral,5,2,3,Medium,Moderate Stress
+09/07/2024,89,122,73,18,7,5290,Happy,6,2,2,Medium,Mild Stress
+09/08/2024,75,119,73,14,7,8558,Anxious,4,2,3,Medium,Anxiety
+09/09/2024,74,90,74,14,7,13760,Happy,6,5,5,Low,Severe Stress
+09/10/2024,60,90,74,14,8,9052,Neutral,3,4,5,Low,Anxiety
+09/11/2024,63,92,65,16,9,8856,Happy,3,2,2,Low,Mild Stress
+09/12/2024,81,134,87,17,7,7769,Anxious,3,4,2,Medium,Normal
+09/13/2024,66,117,65,14,7,10482,Anxious,3,5,2,Low,Normal
+09/14/2024,72,107,66,12,9,11236,Happy,6,3,5,Low,Mild Stress
+09/15/2024,63,92,63,12,7,13281,Happy,6,2,2,Low,Normal
+09/16/2024,71,110,87,20,7,7226,Sad,6,4,4,Medium,Mild Stress
+09/17/2024,63,96,76,14,9,10838,Anxious,4,2,3,Low,Normal
+09/18/2024,74,135,76,18,6,7455,Happy,3,2,3,Medium,Mild Stress
+09/19/2024,77,129,71,20,7,8975,Happy,5,2,3,Medium,Moderate Stress
+09/20/2024,80,120,85,16,6,5546,Sad,4,3,4,Medium,Anxiety
+09/21/2024,65,110,73,14,8,12901,Happy,6,2,4,Low,Anxiety
+09/22/2024,83,159,96,22,4,7944,Sad,5,5,2,High,Anxiety
+09/23/2024,76,117,66,14,9,14135,Neutral,6,4,4,Low,Moderate Stress
+09/24/2024,71,119,79,15,6,5213,Neutral,4,4,3,Medium,Severe Stress
+09/25/2024,77,137,81,21,6,5755,Anxious,3,5,4,Medium,Normal
+09/26/2024,64,103,71,16,7,10844,Happy,5,4,3,Low,Normal
+09/27/2024,79,114,71,14,7,9317,Happy,5,2,4,Low,Normal
+09/28/2024,81,148,81,23,4,3068,Anxious,6,4,2,High,Severe Stress
+09/29/2024,78,138,83,18,6,8691,Anxious,3,4,5,Medium,Severe Stress
+09/30/2024,82,135,75,16,7,7843,Happy,5,2,3,Medium,Mild Stress
+10/01/2024,77,114,89,14,6,9972,Sad,3,2,3,Medium,Moderate Stress
+10/02/2024,83,134,76,21,6,8683,Anxious,5,5,5,Medium,Mild Stress
+10/03/2024,105,144,80,28,4,4694,Happy,3,3,3,High,Severe Stress
+10/04/2024,73,122,88,18,6,6077,Happy,3,2,5,Medium,Moderate Stress
+10/05/2024,78,105,60,15,8,10401,Happy,4,5,4,Low,Normal
+10/06/2024,78,113,79,14,7,11951,Happy,5,5,4,Low,Normal
+10/07/2024,107,154,83,29,4,5616,Sad,4,5,3,High,Moderate Stress
+10/08/2024,82,117,81,20,7,6308,Sad,6,5,2,Medium,Normal
+10/09/2024,81,140,99,18,4,7233,Sad,6,4,2,High,Severe Stress
+10/10/2024,77,116,71,17,7,8816,Sad,5,4,4,Medium,Mild Stress
+10/11/2024,72,91,65,17,7,14902,Happy,4,2,5,Low,Anxiety
+10/12/2024,80,127,79,15,7,9627,Neutral,6,2,5,Medium,Mild Stress
+10/13/2024,77,98,63,12,7,13409,Happy,4,5,4,Low,Mild Stress
+10/14/2024,73,111,76,20,6,6573,Sad,5,3,5,Medium,Moderate Stress
+10/15/2024,70,102,62,17,8,10844,Happy,3,2,5,Low,Normal
+10/16/2024,82,127,82,17,6,8637,Anxious,3,3,5,Medium,Normal
+10/17/2024,67,105,66,14,7,8611,Neutral,6,2,4,Low,Mild Stress
+10/18/2024,83,123,82,17,6,7996,Sad,4,3,4,Medium,Severe Stress
+10/19/2024,79,131,82,19,7,5283,Sad,4,2,2,Medium,Mild Stress
+10/20/2024,89,110,81,16,6,5800,Anxious,4,4,2,Medium,Anxiety
+10/21/2024,74,92,79,17,9,11791,Neutral,6,3,3,Low,Mild Stress
+10/22/2024,81,153,91,18,5,7307,Anxious,5,3,3,High,Normal
+10/23/2024,66,92,69,14,8,11885,Happy,3,2,4,Low,Normal
+10/24/2024,80,133,81,18,7,7959,Neutral,6,2,5,Medium,Normal
+10/25/2024,92,133,92,25,5,4090,Sad,3,3,5,High,Severe Stress
+10/26/2024,68,92,72,16,7,10577,Happy,4,2,4,Low,Mild Stress
+10/27/2024,77,113,79,14,9,14500,Happy,6,4,5,Low,Mild Stress
+10/28/2024,81,117,81,15,6,5700,Happy,4,4,3,Medium,Normal
+10/29/2024,84,125,74,21,6,7870,Happy,5,2,5,Medium,Moderate Stress
+10/30/2024,84,114,87,18,7,6652,Sad,5,4,3,Medium,Moderate Stress
+10/31/2024,63,118,75,17,9,14598,Happy,6,4,2,Low,Normal
+11/01/2024,65,119,74,13,9,11194,Happy,5,3,3,Low,Normal
+11/02/2024,73,92,63,13,7,13534,Neutral,6,3,2,Low,Normal
+11/03/2024,77,93,63,15,8,12668,Happy,4,4,4,Low,Mild Stress
+11/04/2024,72,118,62,16,9,8782,Happy,5,5,5,Low,Mild Stress
+11/05/2024,85,116,72,19,7,6747,Happy,3,4,2,Medium,Moderate Stress
+11/06/2024,86,139,72,15,6,5109,Sad,4,5,5,Medium,Moderate Stress
+11/07/2024,65,108,72,17,9,10694,Neutral,3,2,3,Low,Severe Stress
+11/08/2024,73,118,62,14,7,13331,Happy,5,2,4,Low,Normal
+11/09/2024,72,129,84,18,7,6645,Neutral,5,2,5,Medium,Mild Stress
+11/10/2024,61,106,60,13,8,14941,Happy,3,2,3,Low,Normal
+11/11/2024,78,131,72,14,6,9409,Happy,3,5,2,Medium,Normal
+11/12/2024,74,132,83,15,6,6734,Neutral,6,3,5,Medium,Anxiety
+11/13/2024,90,131,96,23,4,4472,Happy,3,3,3,High,Normal
+11/14/2024,106,147,97,21,4,7565,Sad,4,4,3,High,Moderate Stress
+11/15/2024,88,131,81,21,6,2592,Neutral,3,2,4,High,Anxiety
+11/16/2024,79,115,72,14,7,5299,Anxious,5,3,5,Medium,Normal
+11/17/2024,91,147,94,20,4,7311,Happy,6,2,2,High,Moderate Stress
+11/18/2024,64,118,65,16,7,8862,Happy,3,4,3,Low,Mild Stress
+11/19/2024,73,120,83,18,6,8143,Neutral,6,4,3,Medium,Mild Stress
+11/20/2024,68,100,69,17,9,11199,Neutral,6,4,3,Low,Normal
+11/21/2024,86,129,79,17,7,7193,Anxious,4,2,3,Medium,Mild Stress
+11/22/2024,78,99,70,17,8,8814,Happy,5,3,5,Low,Anxiety
+11/23/2024,62,94,61,15,7,13060,Happy,6,3,4,Low,Normal
+11/24/2024,78,135,81,21,6,5711,Anxious,6,4,5,Medium,Moderate Stress
+11/25/2024,78,118,86,20,7,7192,Anxious,6,2,3,Medium,Mild Stress
+11/26/2024,91,151,80,18,4,2431,Neutral,5,5,5,High,Severe Stress
+11/27/2024,72,116,68,12,8,12338,Sad,3,2,5,Low,Mild Stress
+11/28/2024,90,136,80,27,6,7568,Anxious,4,2,4,High,Anxiety
+11/29/2024,72,109,71,17,8,8981,Neutral,6,5,3,Low,Normal
+11/30/2024,86,117,88,21,7,7742,Sad,3,3,5,Medium,Mild Stress
+12/01/2024,78,112,71,21,7,6425,Anxious,8,11,9,Medium,Mild Stress
+12/02/2024,103,143,97,22,5,7301,Neutral,7,11,6,High,Mild Stress
+12/03/2024,89,152,96,18,5,3827,Anxious,7,8,8,High,Mild Stress
+12/04/2024,91,148,97,18,4,6286,Anxious,7,11,9,High,Moderate Stress
+12/05/2024,80,151,90,23,4,6185,Anxious,7,10,7,High,Moderate Stress
+12/06/2024,102,156,88,23,6,2012,Sad,7,6,6,High,Normal
+12/07/2024,84,152,92,29,5,3002,Anxious,8,11,6,High,Anxiety
+12/08/2024,82,143,83,23,4,3307,Anxious,9,8,5,High,Mild Stress
+12/09/2024,101,159,81,27,5,3223,Sad,6,9,6,High,Anxiety
+12/10/2024,103,155,97,27,6,7668,Anxious,8,10,9,High,Normal
+12/11/2024,81,129,70,16,7,7134,Happy,8,8,7,Medium,Mild Stress
+12/12/2024,87,153,98,21,5,6581,Happy,9,8,8,High,Moderate Stress
+12/13/2024,74,137,73,14,6,7924,Happy,8,10,5,Medium,Normal
+12/14/2024,64,91,75,16,7,10582,Neutral,8,9,9,Low,Normal
+12/15/2024,103,146,89,19,6,6780,Happy,8,7,8,High,Anxiety
+12/16/2024,76,116,85,16,6,7559,Anxious,9,11,9,Medium,Anxiety
+12/17/2024,70,105,77,14,7,9741,Neutral,7,9,7,Low,Normal
+12/18/2024,82,154,83,27,6,5786,Anxious,9,11,9,High,Moderate Stress
+12/19/2024,89,134,91,18,4,7161,Anxious,8,8,8,High,Severe Stress
+12/20/2024,84,146,93,29,4,5860,Anxious,7,11,9,High,Normal
+12/21/2024,97,143,97,21,4,3020,Happy,7,8,8,High,Severe Stress
+12/22/2024,102,150,95,25,5,2219,Sad,8,6,6,High,Moderate Stress
+12/23/2024,86,136,95,19,6,5774,Anxious,6,8,6,High,Moderate Stress
+12/24/2024,96,142,91,20,6,2985,Anxious,7,7,9,High,Severe Stress
+12/25/2024,87,123,73,17,6,7432,Happy,8,6,6,Medium,Mild Stress
+12/26/2024,82,129,81,17,7,5299,Neutral,9,9,8,Medium,Moderate Stress
+12/27/2024,104,157,99,28,5,5617,Anxious,7,9,8,High,Anxiety
+12/28/2024,90,137,98,19,4,6945,Anxious,7,10,8,High,Moderate Stress
+12/29/2024,77,118,76,13,8,13310,Sad,6,9,6,Low,Normal
+12/30/2024,98,137,82,25,4,5825,Anxious,8,6,7,High,Severe Stress
+12/31/2024,105,154,92,23,5,4640,Anxious,6,11,8,High,Mild Stress
+01/01/2025,79,124,80,17,6,5436,Anxious,7,7,5,Medium,Moderate Stress
+01/02/2025,95,156,94,28,4,3489,Anxious,6,11,7,High,Severe Stress
+01/03/2025,76,117,88,14,7,8491,Sad,6,6,6,Medium,Normal
+01/04/2025,102,143,86,29,5,2175,Anxious,9,9,9,High,Severe Stress
+01/05/2025,90,140,96,23,5,5361,Anxious,9,11,7,High,Anxiety
+01/06/2025,85,146,87,20,4,4838,Neutral,7,10,9,High,Anxiety
+01/07/2025,72,122,71,17,6,5110,Neutral,6,9,8,Medium,Moderate Stress
+01/08/2025,86,132,86,29,6,7093,Anxious,6,11,6,High,Severe Stress
+01/09/2025,78,133,85,19,7,6128,Happy,8,6,6,Medium,Mild Stress
+01/10/2025,104,141,83,22,5,4976,Anxious,7,9,6,High,Severe Stress
+01/11/2025,83,135,86,24,6,7611,Neutral,9,8,8,High,Severe Stress
+01/12/2025,66,119,68,17,8,11059,Neutral,9,10,9,Low,Normal
+01/13/2025,103,136,80,29,5,7372,Sad,8,6,9,High,Normal
+01/14/2025,78,129,84,21,7,5582,Neutral,9,6,8,Medium,Moderate Stress
+01/15/2025,95,132,90,26,5,5822,Sad,9,11,9,High,Moderate Stress
+01/16/2025,81,157,90,21,5,3818,Anxious,9,9,5,High,Severe Stress
+01/17/2025,94,152,94,26,5,2257,Sad,8,8,9,High,Mild Stress
+01/18/2025,106,139,80,22,5,4823,Anxious,7,6,8,High,Anxiety
+01/19/2025,92,140,88,25,4,7645,Anxious,8,6,7,High,Severe Stress
+01/20/2025,84,139,85,29,5,4218,Happy,9,11,6,High,Mild Stress
+01/21/2025,71,116,86,18,7,6438,Sad,8,10,5,Medium,Normal
+01/22/2025,95,149,86,18,6,4768,Anxious,6,6,7,High,Severe Stress
+01/23/2025,109,136,94,25,5,7431,Anxious,7,7,9,High,Normal
+01/24/2025,72,106,60,13,9,12557,Neutral,6,11,9,Low,Normal
+01/25/2025,66,110,68,13,8,14263,Happy,6,6,8,Low,Mild Stress
+01/26/2025,72,137,73,14,7,7795,Sad,6,10,9,Medium,Mild Stress
+01/27/2025,103,151,93,24,5,5267,Anxious,9,9,5,High,Severe Stress
+01/28/2025,86,128,73,21,6,8656,Neutral,8,7,5,Medium,Moderate Stress
+01/29/2025,104,131,91,28,5,6742,Sad,7,10,9,High,Severe Stress
+01/30/2025,109,146,87,20,6,4057,Neutral,9,10,9,High,Normal
+01/31/2025,63,91,61,14,8,8008,Happy,8,6,8,Low,Mild Stress
+02/01/2025,79,103,75,13,9,12840,Neutral,5,3,5,Low,Mild Stress
+02/02/2025,92,130,94,28,5,2198,Neutral,3,3,2,High,Anxiety
+02/03/2025,77,131,71,21,7,8270,Neutral,5,4,5,Medium,Mild Stress
+02/04/2025,60,92,69,16,9,9515,Sad,3,2,2,Low,Normal
+02/05/2025,75,97,78,15,8,13496,Neutral,3,2,4,Low,Normal
+02/06/2025,70,111,80,17,7,7664,Anxious,3,5,3,Medium,Normal
+02/07/2025,70,104,62,16,8,9459,Neutral,5,5,3,Low,Normal
+02/08/2025,77,136,85,20,7,8769,Neutral,6,5,2,Medium,Mild Stress
+02/09/2025,74,103,62,15,9,13535,Happy,6,4,3,Low,Normal
+02/10/2025,73,118,66,13,7,13569,Sad,5,2,5,Low,Normal
+02/11/2025,75,111,63,16,9,11088,Happy,3,3,4,Low,Normal
+02/12/2025,62,101,74,16,7,9612,Happy,3,2,5,Low,Anxiety
+02/13/2025,79,119,77,16,9,12223,Neutral,4,4,2,Low,Mild Stress
+02/14/2025,78,99,79,15,8,11970,Happy,5,5,3,Low,Normal
+02/15/2025,79,127,81,20,7,9618,Anxious,4,4,2,Medium,Severe Stress
+02/16/2025,75,122,81,16,7,7485,Neutral,6,4,3,Medium,Mild Stress
+02/17/2025,75,94,75,12,9,8993,Happy,4,4,4,Low,Normal
+02/18/2025,74,127,73,14,7,8909,Neutral,4,4,3,Medium,Mild Stress
+02/19/2025,68,101,69,16,9,9957,Happy,6,4,3,Low,Mild Stress
+02/20/2025,99,135,94,22,5,7959,Neutral,3,5,4,High,Moderate Stress
+02/21/2025,78,123,74,15,6,8530,Neutral,6,2,5,Medium,Moderate Stress
+02/22/2025,80,142,90,21,6,3858,Happy,3,2,3,High,Anxiety
+02/23/2025,67,106,64,13,8,12356,Neutral,3,5,5,Low,Normal
+02/24/2025,101,140,82,29,6,3898,Sad,6,3,5,High,Severe Stress
+02/25/2025,75,118,76,16,6,7074,Sad,3,4,2,Medium,Normal
+02/26/2025,60,116,61,17,7,13143,Sad,5,4,4,Low,Mild Stress
+02/27/2025,99,147,99,25,5,4478,Sad,4,4,2,High,Severe Stress
+02/28/2025,72,128,79,18,7,7251,Sad,3,4,3,Medium,Mild Stress
+03/01/2025,75,117,86,17,7,5253,Neutral,5,3,3,Medium,Moderate Stress
+03/02/2025,74,95,67,12,7,9781,Happy,4,5,5,Low,Anxiety
+03/03/2025,80,130,86,18,5,4641,Happy,6,4,4,High,Anxiety
+03/04/2025,63,106,64,12,9,14477,Happy,3,5,4,Low,Mild Stress
+03/05/2025,77,103,78,17,8,12294,Anxious,3,5,3,Low,Normal
+03/06/2025,89,123,74,19,7,6322,Sad,6,4,2,Medium,Mild Stress
+03/07/2025,66,112,61,16,8,12977,Anxious,6,3,5,Low,Normal
+03/08/2025,79,99,68,14,8,13975,Anxious,5,4,2,Low,Normal
+03/09/2025,72,105,62,16,9,11984,Anxious,3,2,4,Low,Normal
+03/10/2025,67,97,61,13,7,12079,Neutral,3,2,5,Low,Normal
+03/11/2025,73,94,73,12,8,10722,Happy,3,3,3,Low,Anxiety
+03/12/2025,90,139,97,24,6,4357,Anxious,4,2,3,High,Moderate Stress
+03/13/2025,105,152,93,26,6,5265,Sad,4,4,4,High,Moderate Stress
+03/14/2025,86,118,84,19,7,8314,Anxious,6,3,2,Medium,Moderate Stress
+03/15/2025,106,136,91,18,5,5864,Anxious,4,4,4,High,Anxiety
+03/16/2025,72,128,74,19,6,7011,Happy,4,2,4,Medium,Mild Stress
+03/17/2025,71,137,78,19,6,7904,Happy,5,2,5,Medium,Anxiety
+03/18/2025,84,155,98,24,6,5646,Neutral,4,3,5,High,Severe Stress
+03/19/2025,67,117,60,16,8,10355,Anxious,4,2,3,Low,Severe Stress
+03/20/2025,75,112,78,19,7,9030,Neutral,3,3,4,Medium,Normal
+03/21/2025,66,113,62,14,8,14444,Neutral,6,5,5,Low,Normal
+03/22/2025,86,123,83,16,6,6989,Neutral,4,4,2,Medium,Normal
+03/23/2025,88,139,86,14,6,8694,Neutral,4,3,5,Medium,Moderate Stress
+03/24/2025,83,122,74,18,6,7473,Neutral,3,2,4,Medium,Moderate Stress
+03/25/2025,84,116,84,18,6,5005,Happy,5,5,5,Medium,Normal
+03/26/2025,77,110,70,12,9,10017,Neutral,3,3,3,Low,Normal
+03/27/2025,97,147,90,19,6,3634,Sad,4,4,5,High,Anxiety
+03/28/2025,91,154,86,29,4,5133,Neutral,6,4,3,High,Severe Stress
+03/29/2025,66,98,63,13,8,13686,Happy,6,4,5,Low,Mild Stress
+03/30/2025,88,118,88,21,7,5240,Happy,6,2,5,Medium,Severe Stress
+03/31/2025,99,130,90,24,5,5026,Anxious,5,5,5,High,Moderate Stress
+04/01/2025,109,158,84,24,4,7826,Anxious,4,3,4,High,Anxiety
+04/02/2025,83,115,79,21,7,9037,Neutral,6,5,4,Medium,Normal
+04/03/2025,72,93,63,16,8,13007,Happy,5,2,2,Low,Mild Stress
+04/04/2025,60,106,71,12,7,14007,Neutral,5,2,3,Low,Normal
+04/05/2025,75,129,79,16,6,7585,Happy,6,2,5,Medium,Moderate Stress
+04/06/2025,77,92,66,16,9,14386,Neutral,4,2,2,Low,Normal
+04/07/2025,78,121,84,17,7,9223,Anxious,4,5,5,Medium,Moderate Stress
+04/08/2025,76,102,79,12,9,10976,Neutral,4,2,4,Low,Anxiety
+04/09/2025,84,115,89,19,7,8459,Neutral,5,5,4,Medium,Mild Stress
+04/10/2025,86,115,80,16,7,8207,Happy,4,3,4,Medium,Mild Stress
+04/11/2025,68,112,67,14,9,8033,Happy,3,5,2,Low,Normal
+04/12/2025,61,108,68,13,7,12263,Neutral,6,3,3,Low,Mild Stress
+04/13/2025,68,91,78,17,8,11213,Happy,3,2,3,Low,Mild Stress
+04/14/2025,60,104,77,12,8,11367,Happy,3,4,5,Low,Mild Stress
+04/15/2025,81,135,86,17,6,6276,Neutral,5,2,2,Medium,Anxiety
+04/16/2025,85,128,85,15,6,7871,Happy,4,5,5,Medium,Mild Stress
+04/17/2025,70,137,80,19,6,5501,Anxious,3,4,5,Medium,Normal
+04/18/2025,63,118,72,14,7,14037,Sad,3,2,4,Low,Mild Stress
+04/19/2025,67,91,73,16,7,9878,Happy,5,5,5,Low,Mild Stress
+04/20/2025,75,123,72,20,7,8648,Neutral,3,2,5,Medium,Anxiety
+04/21/2025,77,109,68,17,8,11609,Neutral,5,5,2,Low,Moderate Stress
+04/22/2025,90,134,87,28,5,4589,Anxious,3,5,4,High,Mild Stress
+04/23/2025,77,120,79,17,6,6561,Neutral,4,2,4,Medium,Mild Stress
+04/24/2025,84,136,86,20,7,9024,Sad,5,2,3,Medium,Mild Stress
+04/25/2025,73,130,74,20,6,5694,Neutral,6,2,2,Medium,Mild Stress
+04/26/2025,89,123,85,15,7,5416,Neutral,3,2,5,Medium,Normal
+04/27/2025,73,100,71,14,9,12757,Anxious,4,3,3,Low,Severe Stress
+04/28/2025,98,142,94,18,4,7691,Anxious,3,3,2,High,Severe Stress
+04/29/2025,102,151,94,18,6,2717,Happy,5,4,4,High,Anxiety
+04/30/2025,67,100,75,13,8,14532,Neutral,6,2,3,Low,Moderate Stress
+05/01/2025,79,133,82,14,6,6708,Neutral,8,6,8,Medium,Moderate Stress
+05/02/2025,103,136,81,25,5,2041,Anxious,8,11,7,High,Severe Stress
+05/03/2025,91,132,86,25,6,6760,Anxious,8,9,7,High,Moderate Stress
+05/04/2025,89,111,76,16,6,5683,Neutral,8,7,6,Medium,Moderate Stress
+05/05/2025,77,114,72,15,7,9677,Neutral,9,9,8,Medium,Normal
+05/06/2025,88,141,96,24,5,2702,Sad,7,7,7,High,Anxiety
+05/07/2025,83,144,91,26,5,7385,Neutral,9,7,9,High,Moderate Stress
+05/08/2025,98,135,87,26,4,2539,Sad,8,9,8,High,Anxiety
+05/09/2025,84,158,85,20,4,7309,Neutral,7,11,5,High,Anxiety
+05/10/2025,103,131,93,26,6,7609,Happy,8,9,9,High,Anxiety
+05/11/2025,95,144,90,20,4,6814,Anxious,6,10,6,High,Severe Stress
+05/12/2025,78,130,83,17,6,9755,Neutral,8,8,6,Medium,Anxiety
+05/13/2025,74,131,84,17,7,8050,Neutral,6,11,5,Medium,Severe Stress
+05/14/2025,82,150,94,25,6,4041,Anxious,6,9,8,High,Moderate Stress
+05/15/2025,72,128,84,21,7,5629,Neutral,8,6,7,Medium,Moderate Stress
+05/16/2025,95,159,85,29,6,3388,Sad,9,9,5,High,Moderate Stress
+05/17/2025,88,111,82,21,6,8425,Sad,6,8,7,Medium,Mild Stress
+05/18/2025,109,147,99,23,4,6598,Anxious,8,7,5,High,Moderate Stress
+05/19/2025,88,128,79,21,7,9148,Happy,7,10,6,Medium,Severe Stress
+05/20/2025,73,115,75,18,7,6831,Sad,7,6,7,Medium,Normal
+05/21/2025,105,143,85,21,5,4309,Anxious,9,7,9,High,Moderate Stress
+05/22/2025,108,152,83,23,4,4513,Neutral,7,9,8,High,Moderate Stress
+05/23/2025,79,134,79,20,7,6190,Anxious,6,8,9,Medium,Moderate Stress
+05/24/2025,83,137,93,21,5,7647,Neutral,8,9,8,High,Severe Stress
+05/25/2025,84,139,96,25,5,5081,Anxious,7,6,6,High,Moderate Stress
+05/26/2025,83,122,73,17,7,9397,Sad,7,10,6,Medium,Mild Stress
+05/27/2025,108,141,89,29,6,5717,Anxious,6,10,6,High,Normal
+05/28/2025,100,142,87,23,6,6344,Anxious,9,7,8,High,Anxiety
+05/29/2025,73,132,82,16,7,9935,Happy,8,7,8,Medium,Mild Stress
+05/30/2025,83,113,80,15,7,5016,Neutral,9,8,6,Medium,Moderate Stress
+05/31/2025,89,150,98,29,4,2485,Anxious,7,7,9,High,Anxiety
+06/01/2025,87,156,84,18,5,2701,Anxious,9,6,5,High,Moderate Stress
+06/02/2025,61,102,73,12,9,12642,Happy,8,7,9,Low,Mild Stress
+06/03/2025,94,145,83,23,5,2587,Neutral,9,11,8,High,Anxiety
+06/04/2025,73,100,68,17,9,9756,Anxious,6,6,8,Low,Mild Stress
+06/05/2025,80,131,98,18,5,5097,Neutral,9,6,9,High,Severe Stress
+06/06/2025,107,139,95,26,5,6062,Neutral,6,8,7,High,Severe Stress
+06/07/2025,83,124,76,20,7,7078,Neutral,6,11,8,Medium,Mild Stress
+06/08/2025,87,113,71,18,7,9814,Sad,7,11,9,Medium,Moderate Stress
+06/09/2025,60,106,67,13,8,12778,Happy,9,8,5,Low,Normal
+06/10/2025,61,107,66,15,9,12619,Anxious,7,7,5,Low,Mild Stress
+06/11/2025,89,133,79,16,6,9459,Anxious,8,9,5,Medium,Moderate Stress
+06/12/2025,73,110,85,14,6,9418,Anxious,8,10,5,Medium,Moderate Stress
+06/13/2025,88,149,92,20,5,7870,Anxious,8,8,6,High,Severe Stress
+06/14/2025,70,94,68,13,9,10323,Happy,6,10,9,Low,Mild Stress
+06/15/2025,94,151,95,21,5,5447,Sad,6,7,5,High,Severe Stress
+06/16/2025,85,130,88,19,7,6381,Anxious,6,11,6,Medium,Anxiety
+06/17/2025,96,157,80,26,4,2995,Neutral,7,7,8,High,Anxiety
+06/18/2025,83,155,92,18,6,2930,Neutral,6,10,9,High,Severe Stress
+06/19/2025,82,147,92,26,4,4793,Anxious,9,9,9,High,Moderate Stress
+06/20/2025,78,133,79,16,7,7142,Happy,8,11,7,Medium,Moderate Stress
+06/21/2025,108,158,99,19,4,4082,Neutral,7,10,6,High,Moderate Stress
+06/22/2025,78,137,85,15,7,7343,Happy,7,10,5,Medium,Mild Stress
+06/23/2025,83,155,95,28,5,4409,Anxious,9,9,5,High,Moderate Stress
+06/24/2025,79,114,76,21,6,5071,Sad,9,9,6,Medium,Anxiety
+06/25/2025,106,150,83,23,4,2771,Sad,6,9,8,High,Anxiety
+06/26/2025,90,157,88,21,4,6773,Neutral,6,8,5,High,Severe Stress
+06/27/2025,73,118,72,14,8,11816,Happy,6,10,9,Low,Normal
+06/28/2025,108,137,87,23,6,5410,Anxious,8,9,6,High,Severe Stress
+06/29/2025,109,148,89,24,4,5522,Anxious,7,11,6,High,Severe Stress
+06/30/2025,82,116,79,17,7,5853,Sad,9,11,5,Medium,Moderate Stress
