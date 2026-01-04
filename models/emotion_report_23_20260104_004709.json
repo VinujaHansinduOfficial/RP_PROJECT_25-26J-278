@@ -1,0 +1,16 @@
+{
+  "patient_id": "23",
+  "session_date": "2026-01-04T00:47:08.308649",
+  "mode": "single",
+  "total_time": 47.97305941581726,
+  "capture_count": 23,
+  "capture_interval": 2.0,
+  "primary_model_data": {
+    "emotion_counts": {
+      "Surprised": 17,
+      "Anger": 5,
+      "Thaughtful": 1
+    },
+    "mean_confidence": 0.4087467698947243
+  }
+}
