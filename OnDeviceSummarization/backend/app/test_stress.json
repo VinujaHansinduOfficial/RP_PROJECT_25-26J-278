@@ -1,0 +1,162 @@
+[
+    {
+        "Age": 25.0,
+        "Heart_Rate": 78.85875981,
+        "Work_Hours": 9.415021921,
+        "Screen_Time": 1.393073273,
+        "Social_Interaction": 6.826367079,
+        "Noise_Exposure": 1.195554345
+    },
+    {
+        "Age": 28.0,
+        "Heart_Rate": 78.94095024,
+        "Work_Hours": -0.599858885,
+        "Screen_Time": 0.000757219,
+        "Social_Interaction": 2.86252937,
+        "Noise_Exposure": 1.309133334
+    },
+    {
+        "Age": 28.0,
+        "Heart_Rate": 74.9016793,
+        "Work_Hours": 3.683534214,
+        "Screen_Time": -0.879901316,
+        "Social_Interaction": 6.414134055,
+        "Noise_Exposure": 3.633790304
+    },
+    {
+        "Age": 20.0,
+        "Heart_Rate": 80.29091002,
+        "Work_Hours": 8.119267189,
+        "Screen_Time": 0.92731895,
+        "Social_Interaction": 3.905967924,
+        "Noise_Exposure": 0.125390398
+    },
+    {
+        "Age": 19.0,
+        "Heart_Rate": 91.34540008,
+        "Work_Hours": 14.9399172,
+        "Screen_Time": 9.788848602,
+        "Social_Interaction": 6.279539049,
+        "Noise_Exposure": 5.318014652
+    },
+    {
+        "Age": 19.0,
+        "Heart_Rate": 76.2024768,
+        "Work_Hours": 5.44110914,
+        "Screen_Time": 1.853550176,
+        "Social_Interaction": 3.168422824,
+        "Noise_Exposure": 4.468761778
+    },
+    {
+        "Age": 29.0,
+        "Heart_Rate": 64.22813147,
+        "Work_Hours": 4.207845653,
+        "Screen_Time": 4.41254472,
+        "Social_Interaction": -2.977520711,
+        "Noise_Exposure": 1.752577606
+    },
+    {
+        "Age": 20.0,
+        "Heart_Rate": 80.08121603,
+        "Work_Hours": 7.935388303,
+        "Screen_Time": 11.9921819,
+        "Social_Interaction": 4.585318406,
+        "Noise_Exposure": 2.928149872
+    },
+    {
+        "Age": 24.0,
+        "Heart_Rate": 65.84427299,
+        "Work_Hours": 7.796415981,
+        "Screen_Time": 3.186893062,
+        "Social_Interaction": 0.250210679,
+        "Noise_Exposure": -0.408547386
+    },
+    {
+        "Age": 26.0,
+        "Heart_Rate": 70.74044945,
+        "Work_Hours": 6.949562602,
+        "Screen_Time": 14.50560304,
+        "Social_Interaction": 5.173915184,
+        "Noise_Exposure": 3.012047865
+    },
+    {
+        "Age": 21.0,
+        "Heart_Rate": 104.8824772,
+        "Work_Hours": 8.280973579,
+        "Screen_Time": 8.104986583,
+        "Social_Interaction": 8.926430192,
+        "Noise_Exposure": 1.824106073
+    },
+    {
+        "Age": 26.0,
+        "Heart_Rate": 78.76923553,
+        "Work_Hours": 10.35209588,
+        "Screen_Time": 11.27760838,
+        "Social_Interaction": 8.422427082,
+        "Noise_Exposure": 3.116642068
+    },
+    {
+        "Age": 19.0,
+        "Heart_Rate": 72.61016989,
+        "Work_Hours": 16.54249031,
+        "Screen_Time": 9.218240611,
+        "Social_Interaction": 4.244065201,
+        "Noise_Exposure": 5.894862369
+    },
+    {
+        "Age": 24.0,
+        "Heart_Rate": 91.8474438,
+        "Work_Hours": 11.06233623,
+        "Screen_Time": 11.93656287,
+        "Social_Interaction": 6.780842929,
+        "Noise_Exposure": 3.51716993
+    },
+    {
+        "Age": 25.0,
+        "Heart_Rate": 71.87760223,
+        "Work_Hours": 10.85742035,
+        "Screen_Time": 4.997251069,
+        "Social_Interaction": 0.670792499,
+        "Noise_Exposure": 2.376128983
+    },
+    {
+        "Age": 21.0,
+        "Heart_Rate": 86.99279699,
+        "Work_Hours": 13.70910747,
+        "Screen_Time": 14.64646307,
+        "Social_Interaction": 11.48102417,
+        "Noise_Exposure": 2.04060444
+    },
+    {
+        "Age": 19.0,
+        "Heart_Rate": 66.00864352,
+        "Work_Hours": 8.93383089,
+        "Screen_Time": 0.854115526,
+        "Social_Interaction": 2.588983841,
+        "Noise_Exposure": 3.410333108
+    },
+    {
+        "Age": 23.0,
+        "Heart_Rate": 83.52653612,
+        "Work_Hours": 7.085822059,
+        "Screen_Time": 8.801571253,
+        "Social_Interaction": 9.975738032,
+        "Noise_Exposure": 2.914677316
+    },
+    {
+        "Age": 21.0,
+        "Heart_Rate": 71.17952675,
+        "Work_Hours": 8.144839395,
+        "Screen_Time": 5.687740715,
+        "Social_Interaction": -1.32147043,
+        "Noise_Exposure": -0.141915961
+    },
+    {
+        "Age": 27.0,
+        "Heart_Rate": 84.35473604,
+        "Work_Hours": 11.94219913,
+        "Screen_Time": 10.25539986,
+        "Social_Interaction": 6.413954488,
+        "Noise_Exposure": 5.031773587
+    }
+]

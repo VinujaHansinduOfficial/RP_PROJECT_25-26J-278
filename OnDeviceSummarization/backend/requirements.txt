@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+joblib
+numpy
+pandas
+python-multipart
+scikit-learn==1.7.2
+imbalanced-learn
+email-validator
+pymongo
