@@ -1,0 +1,6 @@
+Age,Sleep_Hours,Screen_Time,Stress_Level,Noise_Exposure,Social_Interaction,Work_Hours,Exercise_Hours,Caffeine_Intake,Multitasking_Habit,Anxiety_Score,Depression_Score,Sensory_Sensitivity,Meditation_Habit,Overthinking_Score,Irritability_Score,Headache_Frequency,Sleep_Quality,Tech_Usage_Hours,Heart_Rate,Actual,Predicted,Correct
+19.0,1.9042,8.6614,6.0,3.048,6.411,5.1654,1.3794,3.0,0.0,6.0,5.0,3.5875,1.0,4.0,5.5942,4.0,3.3137,12.254,73.5462,1,1,True
+30.0,3.2087,12.1929,3.0,2.7018,5.8543,18.3765,1.7695,0.0,1.0,8.0,6.0,1.7805,1.0,2.0,9.4058,1.0,3.4154,9.2942,77.546,1,1,True
+24.0,6.8769,6.172,9.0,4.7284,6.112,8.0513,2.3029,0.0,0.0,5.0,5.0,3.6411,0.0,9.0,7.5942,0.0,3.1798,4.6378,77.7732,1,1,True
+30.0,9.9799,9.647,6.0,5.6815,1.862,11.7956,-1.0782,2.0,1.0,8.0,7.0,1.9651,1.0,8.0,3.4058,1.0,3.1965,9.7051,82.2225,1,1,True
+18.0,3.6938,2.6212,2.0,0.1154,3.0382,11.6325,3.0349,3.0,0.0,4.0,3.0,0.4349,1.0,5.0,2.5953,1.0,3.7992,3.7356,70.0388,0,0,True

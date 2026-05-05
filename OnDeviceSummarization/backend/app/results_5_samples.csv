@@ -1,0 +1,6 @@
+,Actual_Stress,Pred_Stress,Prob_Stress,Actual_Anxiety,Pred_Anxiety,Prob_Anxiety,Actual_Depression,Pred_Depression,Prob_Depression
+3790,,1,0.995,,1,0.745,,0,0.18
+668,,0,0.01,,0,0.075,,0,0.215
+2515,,0,0.05,,0,0.11,,1,0.665
+478,,1,0.955,,1,0.545,,0,0.09
+530,,0,0.445,,1,0.92,,0,0.105
