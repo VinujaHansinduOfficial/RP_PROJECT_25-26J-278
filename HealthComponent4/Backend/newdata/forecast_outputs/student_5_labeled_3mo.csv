@@ -1,0 +1,91 @@
+StudentID,date,stress_pred_numeric,stress_pred_label,mental_pred_numeric,mental_pred_label
+5,3/1/2026,1.9309083,Medium,3.0620067,Moderate Stress
+5,3/2/2026,1.9429961,Medium,3.0732038,Moderate Stress
+5,3/3/2026,1.9393405,Medium,3.051594,Moderate Stress
+5,3/4/2026,1.949427,Medium,2.9679852,Moderate Stress
+5,3/5/2026,1.9374157,Medium,2.9836726,Moderate Stress
+5,3/6/2026,1.9539821,Medium,2.9514391,Moderate Stress
+5,3/7/2026,1.9508351,Medium,2.9732141,Moderate Stress
+5,3/8/2026,1.9766011,Medium,2.940571,Moderate Stress
+5,3/9/2026,1.9794992,Medium,2.9043324,Moderate Stress
+5,3/10/2026,1.9619366,Medium,2.9054685,Moderate Stress
+5,3/11/2026,1.9658886,Medium,2.9049537,Moderate Stress
+5,3/12/2026,1.9587674,Medium,2.9125786,Moderate Stress
+5,3/13/2026,1.9668151,Medium,2.8630898,Moderate Stress
+5,3/14/2026,1.9652432,Medium,2.8228061,Moderate Stress
+5,3/15/2026,1.9785434,Medium,2.8704715,Moderate Stress
+5,3/16/2026,2.0125937,Medium,2.8516862,Moderate Stress
+5,3/17/2026,1.9755725,Medium,2.864857,Moderate Stress
+5,3/18/2026,1.9834079,Medium,2.871791,Moderate Stress
+5,3/19/2026,1.9690107,Medium,2.9224665,Moderate Stress
+5,3/20/2026,1.971441,Medium,2.9058986,Moderate Stress
+5,3/21/2026,1.985175,Medium,2.9312134,Moderate Stress
+5,3/22/2026,1.9996986,Medium,2.9923162,Moderate Stress
+5,3/23/2026,2.042556,Medium,3.056449,Moderate Stress
+5,3/24/2026,2.0587516,Medium,3.11586,Moderate Stress
+5,3/25/2026,2.03859,Medium,3.1355474,Moderate Stress
+5,3/26/2026,2.0373824,Medium,3.1828618,Moderate Stress
+5,3/27/2026,2.069708,Medium,3.246512,Moderate Stress
+5,3/28/2026,2.0893278,Medium,3.2971828,Moderate Stress
+5,3/29/2026,2.1126728,Medium,3.2981446,Moderate Stress
+5,3/30/2026,2.1192098,Medium,3.3586402,Moderate Stress
+5,3/31/2026,2.1395607,Medium,3.408208,Moderate Stress
+5,4/1/2026,2.1919541,Medium,3.411173,Moderate Stress
+5,4/2/2026,2.193289,Medium,3.4742854,Moderate Stress
+5,4/3/2026,2.2212722,Medium,3.5178041,Depression
+5,4/4/2026,2.2405882,Medium,3.5945768,Depression
+5,4/5/2026,2.2638643,Medium,3.657338,Depression
+5,4/6/2026,2.2905104,Medium,3.7374775,Depression
+5,4/7/2026,2.3061814,Medium,3.7451808,Depression
+5,4/8/2026,2.3203208,Medium,3.815494,Depression
+5,4/9/2026,2.3400533,Medium,3.8738203,Depression
+5,4/10/2026,2.3569195,Medium,3.9183857,Depression
+5,4/11/2026,2.404286,Medium,3.9435794,Depression
+5,4/12/2026,2.4077392,Medium,3.9655085,Depression
+5,4/13/2026,2.434782,Medium,3.9996421,Depression
+5,4/14/2026,2.5113764,High,4.0927634,Depression
+5,4/15/2026,2.5176644,High,4.111466,Depression
+5,4/16/2026,2.5396633,High,4.1427965,Depression
+5,4/17/2026,2.5305707,High,4.1276975,Depression
+5,4/18/2026,2.5367405,High,4.1582093,Depression
+5,4/19/2026,2.5811203,High,4.1536975,Depression
+5,4/20/2026,2.5768113,High,4.1500382,Depression
+5,4/21/2026,2.5843213,High,4.1507764,Depression
+5,4/22/2026,2.5641773,High,4.1836734,Depression
+5,4/23/2026,2.596293,High,4.1805177,Depression
+5,4/24/2026,2.5840123,High,4.207603,Depression
+5,4/25/2026,2.5953214,High,4.2025347,Depression
+5,4/26/2026,2.599713,High,4.198285,Depression
+5,4/27/2026,2.588512,High,4.2331424,Depression
+5,4/28/2026,2.5937324,High,4.261392,Depression
+5,4/29/2026,2.5857553,High,4.252259,Depression
+5,4/30/2026,2.5899715,High,4.3284965,Depression
+5,5/1/2026,2.5862696,High,4.3238606,Depression
+5,5/2/2026,2.616186,High,4.338206,Depression
+5,5/3/2026,2.6099393,High,4.306724,Depression
+5,5/4/2026,2.6180754,High,4.3180985,Depression
+5,5/5/2026,2.6403654,High,4.3394165,Depression
+5,5/6/2026,2.6507068,High,4.3380976,Depression
+5,5/7/2026,2.6732771,High,4.3518586,Depression
+5,5/8/2026,2.7139535,High,4.2852407,Depression
+5,5/9/2026,2.7119546,High,4.338944,Depression
+5,5/10/2026,2.75141,High,4.3022447,Depression
+5,5/11/2026,2.7631292,High,4.3160195,Depression
+5,5/12/2026,2.8147242,High,4.32453,Depression
+5,5/13/2026,2.8248467,High,4.3335667,Depression
+5,5/14/2026,2.8197155,High,4.2946286,Depression
+5,5/15/2026,2.8408527,High,4.2658134,Depression
+5,5/16/2026,2.8442452,High,4.2438455,Depression
+5,5/17/2026,2.8967812,High,4.2532473,Depression
+5,5/18/2026,2.8800597,High,4.256127,Depression
+5,5/19/2026,2.8721113,High,4.2171154,Depression
+5,5/20/2026,2.9115243,High,4.250505,Depression
+5,5/21/2026,2.9161446,High,4.2346067,Depression
+5,5/22/2026,2.894774,High,4.223614,Depression
+5,5/23/2026,2.9262362,High,4.229059,Depression
+5,5/24/2026,2.9544444,High,4.2613893,Depression
+5,5/25/2026,2.9417994,High,4.2725945,Depression
+5,5/26/2026,2.9381368,High,4.2478824,Depression
+5,5/27/2026,2.947031,High,4.2943106,Depression
+5,5/28/2026,2.9675753,High,4.3148246,Depression
+5,5/29/2026,2.983089,High,4.306936,Depression
